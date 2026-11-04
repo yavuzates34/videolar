@@ -1,0 +1,10 @@
+# Erişim doğrulaması
+
+5 Kasım 2026'da bu kütüphaneyi hazırlayan Codex oturumunda:
+
+- Açık GitHub deposuna push başarılı; yerel `main` ile `origin/main` aynı commit'teydi.
+- Kimlik bilgisi kullanılmadan `raw.githubusercontent.com` üzerinden `index.json`, video incelemesi, tam transkript JSON'u ve bir JPEG HTTP 200 ile alındı. Uzak dosyalar yerel dosyalarla byte düzeyinde aynıydı.
+- Bağlı GitHub aracı üzerinden `videos/uzQCZD3w3hs/OKUMA.md` okunabildi.
+- Yerelde 33 manifest dosyasının SHA-256 değerleri ve Markdown bağlantıları doğrulandı. 178 konuşma parçasının her biri dokuz bölümden tam birine düşüyor.
+
+Bunlar kullanıcıya ait ayrı ChatGPT web veya sesli sohbet oturumunda kabul testi değildir. O oturumun depoyu bulması, ilgili dosyayı açması ve görseli gerçekten görüntü olarak alması henüz doğrulanmadı. Kullanmak için [CHATGPT.md](CHATGPT.md) içindeki doğrudan bağlantılı istemi gönder.

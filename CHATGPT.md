@@ -20,3 +20,5 @@ Depoya yüklenmesi, her ChatGPT oturumunun dosyayı kendiliğinden bulacağı an
 Markdown'daki bir resim bağlantısını okumak, resmin görüntüsünün modele iletildiğini kanıtlamaz. Gerekli kareyi gerçekten açıp açamadığını sor; açılamıyorsa JPEG dosyasını ek olarak yükle. Resim ekleme yolu [resmî OpenAI belgelerinde](https://learn.chatgpt.com/docs/image-inputs) anlatılır.
 
 GitHub/raw erişim kontrolü ile ChatGPT web sesli sohbet kabulü ayrı tutulur. Bu depoyu hazırlayan Codex oturumu, kullanıcının ayrı web/sesli oturumunda başarılı okuma gerçekleştiğini kendiliğinden doğrulayamaz.
+
+Gerçekleştirilen kontroller: [ERISIM.md](ERISIM.md).
