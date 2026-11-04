@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "videos": [
+    {
+      "id": "uzQCZD3w3hs",
+      "title": "How to Design Without Figma | AI Design Crash Course",
+      "channel": "UI Collective",
+      "url": "https://www.youtube.com/watch?v=uzQCZD3w3hs",
+      "duration_seconds": 653.0,
+      "language": "en",
+      "aliases": [
+        "Figma olmadan AI ile tasarım",
+        "yapay zekâ tasarım iş akışı",
+        "Claude Code",
+        "Codex",
+        "Paper",
+        "MCP",
+        "Impeccable",
+        "Taste Skill",
+        "Mobbin",
+        "Stageshow",
+        "bileşen üzerinden tasarım"
+      ],
+      "reading_path": "videos/uzQCZD3w3hs/OKUMA.md"
+    }
+  ]
+}

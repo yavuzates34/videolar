@@ -1,0 +1,74 @@
+[
+  {
+    "seconds": 60,
+    "path": "gorseller/00060s.jpg",
+    "description": "Claude Code örneğinde üç koyu mobil fitness panosu ve üstte canvas araç çubuğu görülüyor.",
+    "visually_checked": true
+  },
+  {
+    "seconds": 100,
+    "path": "gorseller/00100s.jpg",
+    "description": "Codex örneğinde yerel HTML önizlemesi olarak açık renkli iki mobil fitness ekranı gösteriliyor.",
+    "visually_checked": true
+  },
+  {
+    "seconds": 160,
+    "path": "gorseller/00160s.jpg",
+    "description": "Paper canvas içinde günlük aktivite kartı seçili; katman ağacı solda, yerleşim özellikleri sağda.",
+    "visually_checked": true
+  },
+  {
+    "seconds": 240,
+    "path": "gorseller/00240s.jpg",
+    "description": "Fitness skoru için farklı görsel yönler: koyu gösterge paneli ve mavi, büyük metrikli trend anlatımı.",
+    "visually_checked": true
+  },
+  {
+    "seconds": 300,
+    "path": "gorseller/00300s.jpg",
+    "description": "Dört fitness skoru yaklaşımı aynı canvas üzerinde inceleniyor; seçilecek görsel yönün bağlamı korunuyor.",
+    "visually_checked": true
+  },
+  {
+    "seconds": 380,
+    "path": "gorseller/00380s.jpg",
+    "description": "Impeccable sitesinin ana sayfası ve tasarım becerisi tanıtımı görülüyor.",
+    "visually_checked": true
+  },
+  {
+    "seconds": 400,
+    "path": "gorseller/00400s.jpg",
+    "description": "Taste Skill sitesinin ana sayfası ve arayüz örnekleri görülüyor.",
+    "visually_checked": true
+  },
+  {
+    "seconds": 440,
+    "path": "gorseller/00440s.jpg",
+    "description": "Mobbin içinde Airbnb uygulamasından arama, harita ve profil ekranları referans olarak açılmış.",
+    "visually_checked": true
+  },
+  {
+    "seconds": 480,
+    "path": "gorseller/00480s.jpg",
+    "description": "Ajanın konuşmasında Mobbin referans ekranları, sağda devam eden tasarım çalışma alanı görülüyor.",
+    "visually_checked": true
+  },
+  {
+    "seconds": 520,
+    "path": "gorseller/00520s.jpg",
+    "description": "Referanslardan sonra üretilen kilo verme panosunda büyük metrik, grafik ve üst bölümde eylemler görülüyor.",
+    "visually_checked": true
+  },
+  {
+    "seconds": 560,
+    "path": "gorseller/00560s.jpg",
+    "description": "Benji Taylor adına açılmış X gönderisinde Stageshow adı, bento örnekleri ve kurulum komutu gösteriliyor; komut çalıştırılmadı.",
+    "visually_checked": true
+  },
+  {
+    "seconds": 600,
+    "path": "gorseller/00600s.jpg",
+    "description": "Stageshow öncesi ve sonrası ürün kartları yan yana; sağ örnekte katmanlı arayüz, çizgi grafik ve farklı metin hiyerarşisi var.",
+    "visually_checked": true
+  }
+]

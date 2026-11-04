@@ -1,0 +1,68 @@
+[
+  {
+    "start": 38,
+    "original": "We're going to start off here in Cloud Code because it has a little bit more of a unique value prompt, and then look at some other tools.",
+    "corrected": "We're going to start off here in Claude Code because it has a little bit more of a unique value prompt, and then look at some other tools.",
+    "basis": "Ekrandaki uygulama/ürün adı ve gönderi görseli."
+  },
+  {
+    "start": 49,
+    "original": "This here is unique to Cloud Code and unique to Anthropic, and we're just going to run this very simple prompt, build me a couple mobile dashboards for a fitness app.",
+    "corrected": "This here is unique to Claude Code and unique to Anthropic, and we're just going to run this very simple prompt, build me a couple mobile dashboards for a fitness app.",
+    "basis": "Ekrandaki uygulama/ürün adı ve gönderi görseli."
+  },
+  {
+    "start": 68,
+    "original": "And inside of Cloud Code, because we invoked that design skill, and even if you don't invoke the design skill, this is still going to happen anyway, is what we get is this Cloud Design type canvas inside of Cloud Code.",
+    "corrected": "And inside of Claude Code, because we invoked that design skill, and even if you don't invoke the design skill, this is still going to happen anyway, is what we get is this Claude Design type canvas inside of Claude Code.",
+    "basis": "Ekrandaki uygulama/ürün adı ve gönderi görseli."
+  },
+  {
+    "start": 83,
+    "original": "You really don't need Cloud Design anymore because Cloud Code can do everything.",
+    "corrected": "You really don't need Claude Design anymore because Claude Code can do everything.",
+    "basis": "Ekrandaki uygulama/ürün adı ve gönderi görseli."
+  },
+  {
+    "start": 109,
+    "original": "So I can't move things around with that canvas type functionality like what we just saw in Cloud Code.",
+    "corrected": "So I can't move things around with that canvas type functionality like what we just saw in Claude Code.",
+    "basis": "Ekrandaki uygulama/ürün adı ve gönderi görseli."
+  },
+  {
+    "start": 116,
+    "original": "And if you don't have access to Cloud Code with that canvas type functionality, you're not going to be able to do that.",
+    "corrected": "And if you don't have access to Claude Code with that canvas type functionality, you're not going to be able to do that.",
+    "basis": "Ekrandaki uygulama/ürün adı ve gönderi görseli."
+  },
+  {
+    "start": 166,
+    "original": "We can change text very similar to what we saw that Cloud Code had in that canvas type functionality.",
+    "corrected": "We can change text very similar to what we saw that Claude Code had in that canvas type functionality.",
+    "basis": "Ekrandaki uygulama/ürün adı ve gönderi görseli."
+  },
+  {
+    "start": 174,
+    "original": "Moving back to the output that we got with Cloud Code is there's a fundamental difference between designing for mobile",
+    "corrected": "Moving back to the output that we got with Claude Code is there's a fundamental difference between designing for mobile",
+    "basis": "Ekrandaki uygulama/ürün adı ve gönderi görseli."
+  },
+  {
+    "start": 414,
+    "original": "And the other way I like to reduce AI slop is using Mobbins",
+    "corrected": "And the other way I like to reduce AI slop is using Mobbin",
+    "basis": "Ekrandaki uygulama/ürün adı ve gönderi görseli."
+  },
+  {
+    "start": 463,
+    "original": "at all of these popular AI tools, whether using Grok, Cloud Code, Codex.",
+    "corrected": "at all of these popular AI tools, whether using Grok, Claude Code, Codex.",
+    "basis": "Ekrandaki uygulama/ürün adı ve gönderi görseli."
+  },
+  {
+    "start": 593,
+    "original": "So using the stage show skill we installed, update this card format as we can compare",
+    "corrected": "So using the Stageshow skill we installed, update this card format as we can compare",
+    "basis": "Ekrandaki uygulama/ürün adı ve gönderi görseli."
+  }
+]

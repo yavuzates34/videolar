@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "uzQCZD3w3hs",
+  "title": "How to Design Without Figma | AI Design Crash Course",
+  "channel": "UI Collective",
+  "url": "https://www.youtube.com/watch?v=uzQCZD3w3hs",
+  "duration_seconds": 653.0,
+  "published_at": "20261103",
+  "language": "en",
+  "reviewed_at": "2026-11-05",
+  "aliases": [
+    "Figma olmadan AI ile tasarım",
+    "yapay zekâ tasarım iş akışı",
+    "Claude Code",
+    "Codex",
+    "Paper",
+    "MCP",
+    "Impeccable",
+    "Taste Skill",
+    "Mobbin",
+    "Stageshow",
+    "bileşen üzerinden tasarım"
+  ],
+  "source_license": null,
+  "publication_rights": {
+    "status": "user_confirmed",
+    "evidence": "Kütüphane sahibinin 5 Kasım 2026 tarihli, bu akışa verdiği video bağlantılarının yayımlama iznine sahip olduğu beyanı."
+  },
+  "transcript": {
+    "engine": "faster-whisper/large-v3",
+    "language": "en",
+    "human_verbatim_verified": false,
+    "timing": "Starts are Whisper timestamps rounded to seconds; ends are the next start, not forced alignment."
+  },
+  "sections": [
+    {
+      "start": 0,
+      "end": 32,
+      "title": "Giriş ve kişisel iş akışı",
+      "summary": "Konuşmacı son bir ay Figma kullanmadığını söylüyor; eğitim sitesi tanıtılıyor."
+    },
+    {
+      "start": 32,
+      "end": 116,
+      "title": "Claude Code ve Codex örnekleri",
+      "summary": "Aynı mobil pano isteminin düzenlenebilir canvas ve yerel HTML önizlemesi üzerinden farklı çalışma yüzeyleri gösteriliyor."
+    },
+    {
+      "start": 116,
+      "end": 174,
+      "title": "Paper ile görsel çalışma alanı",
+      "summary": "Paper MCP bağlantısı, tasarımı katmanlarla düzenlenebilir bir canvas içinde ele almanın yolu olarak anlatılıyor."
+    },
+    {
+      "start": 174,
+      "end": 322,
+      "title": "Önce ana bileşen, sonra sayfa",
+      "summary": "Ana fitness skoru bileşeni için dört görsel yön deneniyor; seçilen yönün etrafında sayfa kurulması öneriliyor."
+    },
+    {
+      "start": 322,
+      "end": 371,
+      "title": "Tekrarlanan AI tasarım kalıpları",
+      "summary": "AI slop kavramı ve görsel kalıpları bütünüyle ortadan kaldırmanın zorluğu konuşmacının görüşü olarak ele alınıyor."
+    },
+    {
+      "start": 371,
+      "end": 413,
+      "title": "Impeccable ve Taste Skill",
+      "summary": "İki beceri, tasarım yönlendirmesi ve kalıp görünümün azaltılması için örnek gösteriliyor."
+    },
+    {
+      "start": 413,
+      "end": 561,
+      "title": "Mobbin ile iki tür referans",
+      "summary": "Airbnb görsel dili ile kilo verme uygulamalarının bilgi düzeni referans alınarak mobil pano üretiliyor."
+    },
+    {
+      "start": 561,
+      "end": 636,
+      "title": "Stageshow ile ürün sunumu",
+      "summary": "Ürün kartı önce ve sonra örneğiyle görsel sunum iyileştirmesi gösteriliyor; tam uygulama kalitesi testi yapılmıyor."
+    },
+    {
+      "start": 636,
+      "end": 653,
+      "title": "Kapanış",
+      "summary": "Kanalın diğer içeriklerine ve eğitim sitesine yönlendirme."
+    }
+  ]
+}

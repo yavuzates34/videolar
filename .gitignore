@@ -1,0 +1,11 @@
+# Ham medya ve yerel oturum verisi kütüphaneye girmez.
+*.mp4
+*.webm
+*.m4a
+*.wav
+*.part
+*.zip
+*.info.json
+cookies*
+.env*
+__pycache__/

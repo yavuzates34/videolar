@@ -1,0 +1,895 @@
+{
+  "timing_note": "Starts are Whisper timestamps rounded to seconds; ends are the next start, not forced alignment.",
+  "segments": [
+    {
+      "start_seconds": 0,
+      "text": "I have over 50 videos about Figma, and for the last month, I haven't used Figma once.",
+      "end_seconds": 5
+    },
+    {
+      "start_seconds": 5,
+      "text": "Not because Figma's bad, but because I've found better and more efficient ways to design.",
+      "end_seconds": 9
+    },
+    {
+      "start_seconds": 9,
+      "text": "And in the next 10 minutes, I'll show you exactly how I'm doing it with different approaches and workflows from start to finish.",
+      "end_seconds": 15
+    },
+    {
+      "start_seconds": 15,
+      "text": "Real quick before we begin, check out our website, link in the video description.",
+      "end_seconds": 18
+    },
+    {
+      "start_seconds": 18,
+      "text": "Right now, I've got about 34 great courses with more on the way on AI and design workflows, design systems, UX, accessibility, career and freelancing, and a whole bunch of other things too.",
+      "end_seconds": 27
+    },
+    {
+      "start_seconds": 27,
+      "text": "Members also get access to some really great perks and downloads.",
+      "end_seconds": 30
+    },
+    {
+      "start_seconds": 30,
+      "text": "So be sure to check it out, link in the video description.",
+      "end_seconds": 32
+    },
+    {
+      "start_seconds": 32,
+      "text": "And right away, the different workflows and methods that you might follow might change depending on what tools that you have access to.",
+      "end_seconds": 38
+    },
+    {
+      "start_seconds": 38,
+      "text": "We're going to start off here in Claude Code because it has a little bit more of a unique value prompt, and then look at some other tools.",
+      "end_seconds": 44
+    },
+    {
+      "start_seconds": 44,
+      "text": "Now, we're going to run this prompt, and what I did here is I invoked this slash design skill.",
+      "end_seconds": 49
+    },
+    {
+      "start_seconds": 49,
+      "text": "This here is unique to Claude Code and unique to Anthropic, and we're just going to run this very simple prompt, build me a couple mobile dashboards for a fitness app.",
+      "end_seconds": 58
+    },
+    {
+      "start_seconds": 58,
+      "text": "Let's run.",
+      "end_seconds": 58
+    },
+    {
+      "start_seconds": 58,
+      "text": "And then I'm going to run that exact same.",
+      "end_seconds": 60
+    },
+    {
+      "start_seconds": 60,
+      "text": "prompt inside of ChatGPT Codex.",
+      "end_seconds": 62
+    },
+    {
+      "start_seconds": 62,
+      "text": "It's included in your ChatGPT subscription, but it's another popular AI tool that's out there.",
+      "end_seconds": 67
+    },
+    {
+      "start_seconds": 67,
+      "text": "Let's run.",
+      "end_seconds": 68
+    },
+    {
+      "start_seconds": 68,
+      "text": "And inside of Claude Code, because we invoked that design skill, and even if you don't invoke the design skill, this is still going to happen anyway, is what we get is this Claude Design type canvas inside of Claude Code.",
+      "end_seconds": 81
+    },
+    {
+      "start_seconds": 81,
+      "text": "So that answers a couple questions here.",
+      "end_seconds": 83
+    },
+    {
+      "start_seconds": 83,
+      "text": "You really don't need Claude Design anymore because Claude Code can do everything.",
+      "end_seconds": 87
+    },
+    {
+      "start_seconds": 87,
+      "text": "And at the same time, here we have this canvas.",
+      "end_seconds": 90
+    },
+    {
+      "start_seconds": 90,
+      "text": "This is the canvas type functionality where we can move things around, we can drag things around, we can make tweaks to things as we see that we need fit, we can change the color, we can change the radius.",
+      "end_seconds": 98
+    },
+    {
+      "start_seconds": 98,
+      "text": "This is more the canvas type functionality that designers are used to.",
+      "end_seconds": 103
+    },
+    {
+      "start_seconds": 103,
+      "text": "And the result that we get in Codex, first off, it looks pretty good, but this here is ran locally.",
+      "end_seconds": 108
+    },
+    {
+      "start_seconds": 108,
+      "text": "This is just an HTML file.",
+      "end_seconds": 109
+    },
+    {
+      "start_seconds": 109,
+      "text": "So I can't move things around with that canvas type functionality like what we just saw in Claude Code.",
+      "end_seconds": 114
+    },
+    {
+      "start_seconds": 114,
+      "text": "It's a little bit less ideal.",
+      "end_seconds": 116
+    },
+    {
+      "start_seconds": 116,
+      "text": "And if you don't have access to Claude Code with that canvas type functionality, you're not going to be able to do that.",
+      "end_seconds": 120
+    },
+    {
+      "start_seconds": 120,
+      "text": "So I'm going to go ahead and add that to Codex.",
+      "end_seconds": 121
+    },
+    {
+      "start_seconds": 121,
+      "text": "And I'm going to go ahead and add that to Codex.",
+      "end_seconds": 123
+    },
+    {
+      "start_seconds": 123,
+      "text": "And you'll see that the canvas type functionality is a tool like Paper can really come in handy.",
+      "end_seconds": 128
+    },
+    {
+      "start_seconds": 128,
+      "text": "And I'll link this down below.",
+      "end_seconds": 130
+    },
+    {
+      "start_seconds": 130,
+      "text": "What Paper is is essentially a design interface for your AI agents.",
+      "end_seconds": 135
+    },
+    {
+      "start_seconds": 135,
+      "text": "So you can connect the Paper MCP.",
+      "end_seconds": 137
+    },
+    {
+      "start_seconds": 137,
+      "text": "And what your agents will do is actually send the designs to the Paper canvas so you can iterate from there.",
+      "end_seconds": 142
+    },
+    {
+      "start_seconds": 142,
+      "text": "And to connect your different AI tools, download the Paper desktop app and you'll see prompts in order to, or instructions on how to connect your agents.",
+      "end_seconds": 148
+    },
+    {
+      "start_seconds": 148,
+      "text": "So I'm going to go ahead and choose to add this to Codex.",
+      "end_seconds": 150
+    },
+    {
+      "start_seconds": 150,
+      "text": "I'm just going to run this simple prompt inside Paper, build me a mobile dashboard for a health application, something like that.",
+      "end_seconds": 155
+    },
+    {
+      "start_seconds": 155,
+      "text": "Let's run.",
+      "end_seconds": 155
+    },
+    {
+      "start_seconds": 155,
+      "text": "And what we now have inside of Paper is those designs that Codex produced, but in that canvas type functionality.",
+      "end_seconds": 162
+    },
+    {
+      "start_seconds": 162,
+      "text": "So we can come in here, we can change tokens, we can move things around.",
+      "end_seconds": 166
+    },
+    {
+      "start_seconds": 166,
+      "text": "We can change text very similar to what we saw that Claude Code had in that canvas type functionality.",
+      "end_seconds": 172
+    },
+    {
+      "start_seconds": 172,
+      "text": "It's just in a different application.",
+      "end_seconds": 174
+    },
+    {
+      "start_seconds": 174,
+      "text": "Moving back to the output that we got with Claude Code is there's a fundamental difference between designing for mobile",
+      "end_seconds": 179
+    },
+    {
+      "start_seconds": 179,
+      "text": "and designing for desktop.",
+      "end_seconds": 181
+    },
+    {
+      "start_seconds": 181,
+      "text": "Regardless of whatever AI tool that you're using, the results that you get for mobile always tend to be a little bit better.",
+      "end_seconds": 187
+    },
+    {
+      "start_seconds": 187,
+      "text": "Like there's less space for AI to overthink.",
+      "end_seconds": 190
+    },
+    {
+      "start_seconds": 190,
+      "text": "What I want to go through now is a specific workflow that I like to use.",
+      "end_seconds": 194
+    },
+    {
+      "start_seconds": 194,
+      "text": "And earlier in the summer, like I chatted with a bunch of senior designers at top companies.",
+      "end_seconds": 199
+    },
+    {
+      "start_seconds": 199,
+      "text": "And what I'm about to show you is a workflow that they use as well when it comes to building desktop designs with AI to keep AI on track and avoid a lot of sloppy AI designs that happen.",
+      "end_seconds": 209
+    },
+    {
+      "start_seconds": 209,
+      "text": "When you tell AI to build a desktop design right out of the gates.",
+      "end_seconds": 213
+    },
+    {
+      "start_seconds": 213,
+      "text": "And where that difference is, is instead of focusing on the entire page like we did with mobile, because again, as you saw, we got pretty good results.",
+      "end_seconds": 219
+    },
+    {
+      "start_seconds": 219,
+      "text": "We're going to focus on widget by widget,",
+      "end_seconds": 221
+    },
+    {
+      "start_seconds": 221,
+      "text": "ideally starting off with the most important widget that a user might see on the page.",
+      "end_seconds": 225
+    },
+    {
+      "start_seconds": 225,
+      "text": "So we're going to run this prompt, design four distinct variations of a full width, your fitness score widget for a desktop app.",
+      "end_seconds": 232
+    },
+    {
+      "start_seconds": 232,
+      "text": "Explore different layouts, visual styles and ways to present the score and supporting fitness metrics.",
+      "end_seconds": 236
+    },
+    {
+      "start_seconds": 236,
+      "text": "Let's run.",
+      "end_seconds": 237
+    },
+    {
+      "start_seconds": 237,
+      "text": "And what we get back are four very",
+      "end_seconds": 239
+    },
+    {
+      "start_seconds": 239,
+      "text": "different styles and treatments of whatever that main widget is on a particular dashboard.",
+      "end_seconds": 247
+    },
+    {
+      "start_seconds": 247,
+      "text": "So we have the segmented ring.",
+      "end_seconds": 248
+    },
+    {
+      "start_seconds": 248,
+      "text": "I don't like this one. This one feels very generated.",
+      "end_seconds": 251
+    },
+    {
+      "start_seconds": 251,
+      "text": "This one here looks a little bit better.",
+      "end_seconds": 253
+    },
+    {
+      "start_seconds": 253,
+      "text": "I like this trend story one with the big metric.",
+      "end_seconds": 256
+    },
+    {
+      "start_seconds": 256,
+      "text": "Then we have your fitness score one.",
+      "end_seconds": 258
+    },
+    {
+      "start_seconds": 258,
+      "text": "Now, this really comes in handy if we don't know what it is that we're looking for,",
+      "end_seconds": 263
+    },
+    {
+      "start_seconds": 263,
+      "text": "because instead of having to burn a bunch of time and a bunch of our valuable tokens,",
+      "end_seconds": 269
+    },
+    {
+      "start_seconds": 269,
+      "text": "we're going to have to spend a lot of time on generating entire page designs if we don't even know if we're going to like the treatment that it comes up with by focusing on the main widget to start.",
+      "end_seconds": 281
+    },
+    {
+      "start_seconds": 281,
+      "text": "What you can do is then you can then build the rest of the page around the widget that you like and start to tweak these widgets until you land on something that you're really happy with before you generate the full entire page.",
+      "end_seconds": 293
+    },
+    {
+      "start_seconds": 293,
+      "text": "And you can do this inside of any tool.",
+      "end_seconds": 295
+    },
+    {
+      "start_seconds": 295,
+      "text": "You just might not have that canvas type functionality.",
+      "end_seconds": 297
+    },
+    {
+      "start_seconds": 297,
+      "text": "As we looked at,",
+      "end_seconds": 298
+    },
+    {
+      "start_seconds": 298,
+      "text": "but let's say I've gone through I've made some tweaks to option C here and now I'm ready to proceed for the entire page.",
+      "end_seconds": 305
+    },
+    {
+      "start_seconds": 305,
+      "text": "We can then have it build a page based on the styling that we settle.",
+      "end_seconds": 308
+    },
+    {
+      "start_seconds": 308,
+      "text": "See the value in this workflow.",
+      "end_seconds": 310
+    },
+    {
+      "start_seconds": 310,
+      "text": "Now, we're not having to spend a ton of time and a ton of tokens generating a bunch of different page designs.",
+      "end_seconds": 315
+    },
+    {
+      "start_seconds": 315,
+      "text": "We're focusing on the main widget, narrowing down the styling, the look,",
+      "end_seconds": 318
+    },
+    {
+      "start_seconds": 318,
+      "text": "the feel, the treatments that we like, and then building that page to support it.",
+      "end_seconds": 322
+    },
+    {
+      "start_seconds": 322,
+      "text": "I want to talk about dealing with AI slop.",
+      "end_seconds": 325
+    },
+    {
+      "start_seconds": 325,
+      "text": "Now, if you don't know what AI slop is, it's a term",
+      "end_seconds": 328
+    },
+    {
+      "start_seconds": 328,
+      "text": "for treatments that are very obviously AI generated and just standard AI",
+      "end_seconds": 332
+    },
+    {
+      "start_seconds": 332,
+      "text": "treatments that every tool, regardless of platform, produces.",
+      "end_seconds": 337
+    },
+    {
+      "start_seconds": 337,
+      "text": "And you can't escape it.",
+      "end_seconds": 339
+    },
+    {
+      "start_seconds": 339,
+      "text": "You really can't.",
+      "end_seconds": 341
+    },
+    {
+      "start_seconds": 341,
+      "text": "AI slop is always going to be there and something that's AI generated,",
+      "end_seconds": 344
+    },
+    {
+      "start_seconds": 344,
+      "text": "even with some of those good looking mobile versions that we looked at earlier.",
+      "end_seconds": 347
+    },
+    {
+      "start_seconds": 347,
+      "text": "Like if you've been in the space for a while, you're able to quickly identify",
+      "end_seconds": 352
+    },
+    {
+      "start_seconds": 352,
+      "text": "what is an AI generated treatment and what is not.",
+      "end_seconds": 354
+    },
+    {
+      "start_seconds": 354,
+      "text": "And I've seen cases where clients don't pay for someone's work because they",
+      "end_seconds": 358
+    },
+    {
+      "start_seconds": 358,
+      "text": "don't see AI generated treatments in there.",
+      "end_seconds": 360
+    },
+    {
+      "start_seconds": 360,
+      "text": "So you can't escape it.",
+      "end_seconds": 361
+    },
+    {
+      "start_seconds": 361,
+      "text": "The only way to escape it is if you just design everything by hand.",
+      "end_seconds": 364
+    },
+    {
+      "start_seconds": 364,
+      "text": "And even if you design everything by hand,",
+      "end_seconds": 366
+    },
+    {
+      "start_seconds": 366,
+      "text": "someone's still going to say that it's AI slop.",
+      "end_seconds": 368
+    },
+    {
+      "start_seconds": 368,
+      "text": "But there are certain ways that we can try to reduce it.",
+      "end_seconds": 371
+    },
+    {
+      "start_seconds": 371,
+      "text": "There's two open source skills, the taste skill and Impeccable.",
+      "end_seconds": 375
+    },
+    {
+      "start_seconds": 375,
+      "text": "I'll link these down below,",
+      "end_seconds": 376
+    },
+    {
+      "start_seconds": 376,
+      "text": "which help us reduce a lot of AI generated treatments.",
+      "end_seconds": 379
+    },
+    {
+      "start_seconds": 379,
+      "text": "And to look at Impeccable just as an example is they kind of operate the same.",
+      "end_seconds": 383
+    },
+    {
+      "start_seconds": 383,
+      "text": "Whereas before, you might have this very clearly",
+      "end_seconds": 386
+    },
+    {
+      "start_seconds": 386,
+      "text": "AI generated",
+      "end_seconds": 388
+    },
+    {
+      "start_seconds": 388,
+      "text": "cards like this is the definition of AI slop right here with the rounded corners,",
+      "end_seconds": 392
+    },
+    {
+      "start_seconds": 392,
+      "text": "the border on the left, the difference, you know, the italicized font.",
+      "end_seconds": 396
+    },
+    {
+      "start_seconds": 396,
+      "text": "That's a different color.",
+      "end_seconds": 398
+    },
+    {
+      "start_seconds": 398,
+      "text": "And when you call Impeccable or you call it a taste skill, what it will do is it",
+      "end_seconds": 402
+    },
+    {
+      "start_seconds": 402,
+      "text": "will reduce those AI treatments to restore a lot of the originality",
+      "end_seconds": 405
+    },
+    {
+      "start_seconds": 405,
+      "text": "and designs that AI tends to drift away from.",
+      "end_seconds": 408
+    },
+    {
+      "start_seconds": 408,
+      "text": "And now there's a bunch of open source skills like these out here.",
+      "end_seconds": 410
+    },
+    {
+      "start_seconds": 410,
+      "text": "So the taste skill and Impeccable, these are arguably the most popular.",
+      "end_seconds": 414
+    },
+    {
+      "start_seconds": 414,
+      "text": "And the other way I like to reduce AI slop is using Mobbin",
+      "end_seconds": 418
+    },
+    {
+      "start_seconds": 418,
+      "text": "as a connector to give me access to over 600,000 real world screens.",
+      "end_seconds": 424
+    },
+    {
+      "start_seconds": 424,
+      "text": "What Mobbin is essentially a massive",
+      "end_seconds": 425
+    },
+    {
+      "start_seconds": 425,
+      "text": "repository of every app, screen, flow, UI element that's out there.",
+      "end_seconds": 430
+    },
+    {
+      "start_seconds": 430,
+      "text": "As I said, it's about 600,000.",
+      "end_seconds": 431
+    },
+    {
+      "start_seconds": 431,
+      "text": "What we can do is we can connect AI to all of these different screens and have",
+      "end_seconds": 437
+    },
+    {
+      "start_seconds": 437,
+      "text": "it reference what's here in their library to help inform the treatments that it produces.",
+      "end_seconds": 442
+    },
+    {
+      "start_seconds": 442,
+      "text": "So as an example, if I really like, let's say what Airbnb does for their designs, I",
+      "end_seconds": 448
+    },
+    {
+      "start_seconds": 448,
+      "text": "can connect Mobbin MCP and have it reference Airbnb's visual style to build something",
+      "end_seconds": 455
+    },
+    {
+      "start_seconds": 455,
+      "text": "relatively similar. And if you've never used Mobbin before,",
+      "end_seconds": 457
+    },
+    {
+      "start_seconds": 457,
+      "text": "I'll link that in the video description as well.",
+      "end_seconds": 459
+    },
+    {
+      "start_seconds": 459,
+      "text": "And one thing that's nice, too, is Mobbin has connectors and plug ins",
+      "end_seconds": 463
+    },
+    {
+      "start_seconds": 463,
+      "text": "at all of these popular AI tools, whether using Grok, Claude Code, Codex.",
+      "end_seconds": 468
+    },
+    {
+      "start_seconds": 468,
+      "text": "They have a native plug in or a connector.",
+      "end_seconds": 471
+    },
+    {
+      "start_seconds": 471,
+      "text": "So it's really easy to set up.",
+      "end_seconds": 473
+    },
+    {
+      "start_seconds": 473,
+      "text": "What we're going to do is we're going to run this prompt to browse Mobbin MCP or",
+      "end_seconds": 478
+    },
+    {
+      "start_seconds": 478,
+      "text": "Mobbin MCP there, browse Mobbin and generate me a mobile app dashboard for a",
+      "end_seconds": 482
+    },
+    {
+      "start_seconds": 482,
+      "text": "weight loss app that follows Airbnb's treatments.",
+      "end_seconds": 484
+    },
+    {
+      "start_seconds": 484,
+      "text": "Let's go ahead and run.",
+      "end_seconds": 485
+    },
+    {
+      "start_seconds": 485,
+      "text": "And while it's generating, you can see what it's doing.",
+      "end_seconds": 488
+    },
+    {
+      "start_seconds": 488,
+      "text": "So what it did is it pulled up the Airbnb app screens to understand the visual style.",
+      "end_seconds": 493
+    },
+    {
+      "start_seconds": 493,
+      "text": "But then it also looked up designs inside of Mobbin for weight loss app dashboards",
+      "end_seconds": 499
+    },
+    {
+      "start_seconds": 499,
+      "text": "to understand the type of information that tends to be displayed and how things tend",
+      "end_seconds": 504
+    },
+    {
+      "start_seconds": 504,
+      "text": "to be laid out on these particular dashboards.",
+      "end_seconds": 506
+    },
+    {
+      "start_seconds": 506,
+      "text": "So it builds something realistic.",
+      "end_seconds": 508
+    },
+    {
+      "start_seconds": 508,
+      "text": "It's still understanding and applying the Airbnb styling on the right hand side.",
+      "end_seconds": 513
+    },
+    {
+      "start_seconds": 513,
+      "text": "Here is what it came back with.",
+      "end_seconds": 514
+    },
+    {
+      "start_seconds": 514,
+      "text": "First glance looks great.",
+      "end_seconds": 516
+    },
+    {
+      "start_seconds": 516,
+      "text": "So we can see we have this chart here.",
+      "end_seconds": 518
+    },
+    {
+      "start_seconds": 518,
+      "text": "Week's goals, our next milestone recipes under specific calories,",
+      "end_seconds": 523
+    },
+    {
+      "start_seconds": 523,
+      "text": "lessons, the bottom nav looks pretty good.",
+      "end_seconds": 526
+    },
+    {
+      "start_seconds": 526,
+      "text": "So you can see how valuable this is because",
+      "end_seconds": 528
+    },
+    {
+      "start_seconds": 528,
+      "text": "leveraging that specific Mobbin MCP, we're able to inject AI with particular taste.",
+      "end_seconds": 533
+    },
+    {
+      "start_seconds": 533,
+      "text": "And then what you can do is it's very rare to get something.",
+      "end_seconds": 537
+    },
+    {
+      "start_seconds": 537,
+      "text": "Honestly,",
+      "end_seconds": 538
+    },
+    {
+      "start_seconds": 538,
+      "text": "it's not as good as this first try.",
+      "end_seconds": 539
+    },
+    {
+      "start_seconds": 539,
+      "text": "It doesn't always happen like that.",
+      "end_seconds": 541
+    },
+    {
+      "start_seconds": 541,
+      "text": "And what you can then do is when you",
+      "end_seconds": 543
+    },
+    {
+      "start_seconds": 543,
+      "text": "install either the impeccable or the front end design skill,",
+      "end_seconds": 546
+    },
+    {
+      "start_seconds": 546,
+      "text": "you can run that skill to then audit the particular design that AI comes up",
+      "end_seconds": 552
+    },
+    {
+      "start_seconds": 552,
+      "text": "with to reduce a lot of that AI slops, that's where these those two different",
+      "end_seconds": 556
+    },
+    {
+      "start_seconds": 556,
+      "text": "approaches using the open source skills, using Mobbin MCP can go hand in hand.",
+      "end_seconds": 561
+    },
+    {
+      "start_seconds": 561,
+      "text": "There's another open source skill that was",
+      "end_seconds": 562
+    },
+    {
+      "start_seconds": 562,
+      "text": "just released by the head of design at X and also SpaceX AI.",
+      "end_seconds": 567
+    },
+    {
+      "start_seconds": 567,
+      "text": "And",
+      "end_seconds": 568
+    },
+    {
+      "start_seconds": 568,
+      "text": "what this skill allows you to do is come up with better UI stills,",
+      "end_seconds": 572
+    },
+    {
+      "start_seconds": 572,
+      "text": "animated product shots and sort of this bento grid style format that you see right here.",
+      "end_seconds": 577
+    },
+    {
+      "start_seconds": 577,
+      "text": "What we're going to do, we're going to copy this command and then open up our",
+      "end_seconds": 581
+    },
+    {
+      "start_seconds": 581,
+      "text": "favorite AI tool and before I installed the skill, what I had Claude do so we can",
+      "end_seconds": 585
+    },
+    {
+      "start_seconds": 585,
+      "text": "compare before and after just come up with this basic card with a mock UI inside of it.",
+      "end_seconds": 589
+    },
+    {
+      "start_seconds": 589,
+      "text": "So we just get this. We're to go ahead.",
+      "end_seconds": 591
+    },
+    {
+      "start_seconds": 591,
+      "text": "We're going to install the skill now, but then we're going to run a prompt.",
+      "end_seconds": 593
+    },
+    {
+      "start_seconds": 593,
+      "text": "So using the Stageshow skill we installed, update this card format as we can compare",
+      "end_seconds": 597
+    },
+    {
+      "start_seconds": 597,
+      "text": "the before and after.",
+      "end_seconds": 598
+    },
+    {
+      "start_seconds": 598,
+      "text": "Here you can now see the before and after",
+      "end_seconds": 600
+    },
+    {
+      "start_seconds": 600,
+      "text": "and to get this kind of appearance here, both in like the UI visual and also the",
+      "end_seconds": 607
+    },
+    {
+      "start_seconds": 607,
+      "text": "text treatment, it's not something I would be able to do just with a prompt or just",
+      "end_seconds": 611
+    },
+    {
+      "start_seconds": 611,
+      "text": "basic instructions. So you can see with the before the icon,",
+      "end_seconds": 615
+    },
+    {
+      "start_seconds": 615,
+      "text": "the way the text on different rows, the way the images in like the way the image",
+      "end_seconds": 619
+    },
+    {
+      "start_seconds": 619,
+      "text": "is treated after it's just more of a much more elevated look and more premium",
+      "end_seconds": 625
+    },
+    {
+      "start_seconds": 625,
+      "text": "appearance on something that you might see on like a really high quality.",
+      "end_seconds": 628
+    },
+    {
+      "start_seconds": 628,
+      "text": "SAS site, just as an example.",
+      "end_seconds": 630
+    },
+    {
+      "start_seconds": 630,
+      "text": "So when you're building your marketing pages or product demos,",
+      "end_seconds": 634
+    },
+    {
+      "start_seconds": 634,
+      "text": "using this type of skill can really go a long way.",
+      "end_seconds": 636
+    },
+    {
+      "start_seconds": 636,
+      "text": "Hey, thanks for watching this one.",
+      "end_seconds": 637
+    },
+    {
+      "start_seconds": 637,
+      "text": "Give a lot more content coming.",
+      "end_seconds": 638
+    },
+    {
+      "start_seconds": 638,
+      "text": "So be sure to drop a subscribe.",
+      "end_seconds": 640
+    },
+    {
+      "start_seconds": 640,
+      "text": "Also to check out a website link in the video description for UI Collective Academy.",
+      "end_seconds": 644
+    },
+    {
+      "start_seconds": 644,
+      "text": "And yeah, I never know where to go with these outros.",
+      "end_seconds": 647
+    },
+    {
+      "start_seconds": 647,
+      "text": "So if you want to watch a video that I highly recommend, click the top left.",
+      "end_seconds": 650
+    },
+    {
+      "start_seconds": 650,
+      "text": "You want to watch another one? I also recommend clicking the top right.",
+      "end_seconds": 653.0
+    }
+  ]
+}
