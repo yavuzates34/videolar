@@ -7,6 +7,12 @@ Kaynak: https://www.youtube.com/watch?v=uzQCZD3w3hs · UI Collective · 10:53 ·
 - [Görseller ve açıklamalar](gorseller.md) · [görsel dizini](gorseller.json)
 - [Kaynak, yöntem ve yayın dayanağı](kaynak.json)
 
+## Sesli sohbet ZIP’i
+
+[ZIP paketini indir](https://github.com/yavuzates34/videolar/releases/download/uzQCZD3w3hs-10fps-v1/uzQCZD3w3hs-10fps.zip) — 10 fps, 6.527 zaman damgalı kare, tam transkript ve bölümler; 247,78 MiB. [Boyut ve SHA-256](sesli-paket.json).
+
+Önce sesli görüşmeyi başlatıp selam ver; sonra artı düğmesinden ZIP’i seçip ilet. Paketteki BASLA.md okuma yolunu açıklar. Yeni yoğun paketin kullanıcı kabulü henüz yapılmadı.
+
 ## Bölümler
 
 - [00:00–00:32 · Giriş ve kişisel iş akışı](bolumler/01.md)

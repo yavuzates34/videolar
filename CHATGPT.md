@@ -2,7 +2,22 @@
 
 Depo: https://github.com/yavuzates34/videolar
 
-Şu istemi ChatGPT web'de yazılı olarak gönderip kaynak okunduktan sonra sesli konuşmaya geçebilirsin:
+## Sesli sohbette tek paketle kullanım
+
+Kütüphane sahibinin 5 Kasım 2026'da deneyerek doğruladığını bildirdiği sıra:
+
+1. Önce ChatGPT web'de sesli sohbeti başlat ve selam ver.
+2. Sesli sohbet açıkken artı düğmesine tıkla; videonun ZIP paketini seç.
+3. Arayüzdeki ilet düğmesiyle dosyayı sohbete bir kez gönder.
+4. Aynı sesli oturumda ilgili zamanları, başlıkları ve bölümleri sorarak devam et.
+
+Dosya iletme sırası önemlidir. Önce yazılı alanda depoyu okutmak, sesli modelin aynı kaynağa erişeceğini kanıtlamaz. Yukarıdaki sıra kullanıcı beyanına dayanır; yeni yoğun ZIP'in gerçek kabulü ayrıca sınanmalıdır.
+
+Videoların ZIP bağlantısı ana [kütüphane dizinindedir](README.md). ZIP içinde `BASLA.md`, tam transkript/bölümler ve Python'un saniyede en az 10 kare çıkardığı görüntüler bulunur. Karelerin dosya adında ve alt şeridinde zaman vardır; `frames.csv` gerçek kaynak PTS bilgisini de taşır. Sorduğun anın karesini gerçekten açıp açamadığını kontrol et.
+
+## Yazılı alandan alternatif depo erişimi
+
+Şu istem, depoyu yazılı olarak okumak içindir; sesli oturumda otomatik GitHub erişimi garantisi değildir:
 
 > https://github.com/yavuzates34/videolar deposundaki index.json dosyasını aç. UI Collective'ın “How to Design Without Figma” videosunu bul. İlgili OKUMA.md dosyasını, soruma bağlı bölümün transkriptini ve görsel açıklamalarını oku. Erişebildiğin kaynakları söyle; görüntüleri gerçekten açamıyorsan bunu belirt. Ardından benimle Türkçe, kısa yanıtlarla konuyu tartış. Konuşmacının iddialarını kendi yorumundan ayır; önemli açıklamalarda zaman damgası ver.
 

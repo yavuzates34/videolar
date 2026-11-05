@@ -1,0 +1,16 @@
+{
+  "file_name": "uzQCZD3w3hs-10fps.zip",
+  "download_url": "https://github.com/yavuzates34/videolar/releases/download/uzQCZD3w3hs-10fps-v1/uzQCZD3w3hs-10fps.zip",
+  "fps": 10,
+  "frames": 6527,
+  "duration_seconds": 652.6186333333334,
+  "archive_bytes": 259819376,
+  "archive_MiB": 247.78,
+  "sha256": "29620c1f0b0a0b63d3ae3c49316b393579f4d2570dda36b5be2564332065cf24",
+  "image_format": "webp",
+  "maximum_video_width": 1536,
+  "webp_quality": 45,
+  "model_calls_for_extraction": 0,
+  "all_frames_ai_reviewed": false,
+  "new_package_voice_acceptance": "not_yet_tested"
+}

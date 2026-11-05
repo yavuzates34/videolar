@@ -5,6 +5,8 @@
 *.wav
 *.part
 *.zip
+*.rar
+*.incomplete
 *.info.json
 cookies*
 .env*
