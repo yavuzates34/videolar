@@ -1,0 +1,18 @@
+{
+  "file_name": "graphic-design-basics-sesli-sohbet.zip",
+  "download_url": "https://github.com/yavuzates34/videolar/releases/download/GQS7wPujL2k-10fps-v1/graphic-design-basics-sesli-sohbet.zip",
+  "fps": 10,
+  "frames": 37841,
+  "duration_seconds": 3784.0333333333333,
+  "archive_bytes": 123678042,
+  "archive_MiB": 117.95,
+  "sha256": "a70a04347421164794114e06ee1b2b86f15892f1ef3a79f3cd6fd9110ec3ad70",
+  "image_format": "webp",
+  "maximum_video_width": 320,
+  "webp_quality": 12,
+  "selected_frames": 128,
+  "selected_frame_video_width": 1280,
+  "model_calls_for_extraction": 0,
+  "all_frames_ai_reviewed": false,
+  "new_package_voice_acceptance": "not_yet_tested"
+}

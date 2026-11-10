@@ -1,0 +1,1360 @@
+{
+  "title": "Graphic Design Basics | FREE COURSE",
+  "speaker": "Laura Keung",
+  "course_brand": "Envato Tuts+",
+  "youtube_channel": "Envato",
+  "url": "https://www.youtube.com/watch?v=GQS7wPujL2k",
+  "upload_date": "20231115",
+  "duration_seconds": 3784.033,
+  "subtitles": "Türkçe, kullanıcı tarafından verilen SRT",
+  "subtitle_count": 702,
+  "section_count": 16,
+  "topic_count": 67,
+  "selected_frame_count": 128,
+  "subtitle_last_end": "01:02:57.947",
+  "sections": [
+    {
+      "start": 0.0,
+      "title": "Grafik tasarımın amacı",
+      "summary": "Görsel içerik, karmaşık bilgiyi düzenleyip bir mesaj iletir.",
+      "topics": [
+        {
+          "start": 0.0,
+          "title": "İletişim ve görsel araçlar",
+          "summary": "Görsel, typography, logo ve layout aynı iletişim amacına hizmet edebilir.",
+          "frames": [
+            {
+              "time": 36.0,
+              "file": "gorseller/00-00-36.webp",
+              "description": "Kursun ileride ayrıntılandıracağı movement şemasından bir önizleme."
+            }
+          ],
+          "end": 44.775
+        }
+      ],
+      "end": 44.775,
+      "file": "bolumler/00-00-00.md"
+    },
+    {
+      "start": 44.775,
+      "title": "Grafik tasarımın tarihi",
+      "summary": "Görsel kayıt ve basımdan modern tasarım akımlarına ve ekrana uzanan kısa bir kronoloji.",
+      "topics": [
+        {
+          "start": 44.775,
+          "title": "Mağara resmi, yazı ve logogramlar",
+          "summary": "Ders mağara resmini erken görsel iletişim, Sümer tabletini kayıt tutma örneği olarak gösterir.",
+          "frames": [
+            {
+              "time": 63.0,
+              "file": "gorseller/00-01-03.webp",
+              "description": "Mağara duvarındaki figürler"
+            },
+            {
+              "time": 82.0,
+              "file": "gorseller/00-01-22.webp",
+              "description": "Yazı işaretleri taşıyan tablet."
+            }
+          ],
+          "end": 96.226
+        },
+        {
+          "start": 96.226,
+          "title": "Baskının erken örnekleri ve Orta Çağ",
+          "summary": "Doğu Asya'da baskı, el yazması, uncial, hat ve sayfa düzeni.",
+          "frames": [
+            {
+              "time": 131.0,
+              "file": "gorseller/00-02-11.webp",
+              "description": "Süslemeli el yazması ve iri baş harf."
+            }
+          ],
+          "end": 144.922
+        },
+        {
+          "start": 144.922,
+          "title": "Matbaa ve endüstriyel baskı",
+          "summary": "Baskının yayılması kitap üretimini ölçekler. Lithography ve chromolithography daha sonra ticari görsellerin üretimini değiştirir.",
+          "frames": [
+            {
+              "time": 173.0,
+              "file": "gorseller/00-02-53.webp",
+              "description": "Baskı yöntemleri anlatılırken gösterilen tek renkli tarihî illüstrasyon."
+            }
+          ],
+          "end": 199.539
+        },
+        {
+          "start": 199.539,
+          "title": "Tasarım akımları ve dijitalleşme",
+          "summary": "Bauhaus, Swiss design ve postmodernizmden Photoshop, web, UI ve UX'e geçiş.",
+          "frames": [
+            {
+              "time": 204.0,
+              "file": "gorseller/00-03-24.webp",
+              "description": "Kutu içinde geometrik biçimler ve göz motifi"
+            },
+            {
+              "time": 223.0,
+              "file": "gorseller/00-03-43.webp",
+              "description": "Ekranda çalışan tasarımcı."
+            }
+          ],
+          "end": 243.684
+        }
+      ],
+      "end": 243.684,
+      "file": "bolumler/00-00-44.md"
+    },
+    {
+      "start": 243.684,
+      "title": "Design theory ve tasarımcının rolü",
+      "summary": "Tasarım ilkeleri, color palette ve dizgi ile mesajın yapısı kurulur.",
+      "topics": [
+        {
+          "start": 243.684,
+          "title": "Dwiggins ve design artifacts",
+          "summary": "Basılı iletişime düzen ve biçim kazandırma. Logo, marka sistemi, layout ve tanıtım parçalarıyla bilgiyi anlatma.",
+          "frames": [
+            {
+              "time": 274.0,
+              "file": "gorseller/00-04-34.webp",
+              "description": "Dwiggins portresi ve makale başlığı"
+            },
+            {
+              "time": 289.0,
+              "file": "gorseller/00-04-49.webp",
+              "description": "Altı farklı markanın logo örnekleri."
+            }
+          ],
+          "end": 316.285
+        }
+      ],
+      "end": 316.285,
+      "file": "bolumler/00-04-03.md"
+    },
+    {
+      "start": 316.285,
+      "title": "Temel tasarım ilkeleri",
+      "summary": "Görsel ağırlık, öğeler arası ilişki ve gözün bakış sırası kompozisyonun işleyişini belirler.",
+      "topics": [
+        {
+          "start": 316.285,
+          "title": "Kompozisyon ilkeleri",
+          "summary": "İlkeler, mesajı düzenli ve işlevsel biçimde iletmek için kullanılır.",
+          "frames": [],
+          "end": 334.514
+        },
+        {
+          "start": 334.514,
+          "title": "Balance",
+          "summary": "Biçim, boyut, renk ve doku görsel ağırlık yaratır. Simetrik ve asimetrik düzenler denge kurabilir.",
+          "frames": [
+            {
+              "time": 344.0,
+              "file": "gorseller/00-05-44.webp",
+              "description": "Kare ve dairenin yer aldığı terazi"
+            },
+            {
+              "time": 370.0,
+              "file": "gorseller/00-06-10.webp",
+              "description": "Orta ekseni okunabilen Starbucks logosu"
+            },
+            {
+              "time": 377.0,
+              "file": "gorseller/00-06-17.webp",
+              "description": "Farklı şekillerle kurulan asimetrik kompozisyon."
+            }
+          ],
+          "end": 381.976
+        },
+        {
+          "start": 381.976,
+          "title": "Unity",
+          "summary": "Tutarlı renkler ve açık ilişkiler öğelerin aynı bütüne ait görünmesini sağlar.",
+          "frames": [
+            {
+              "time": 396.0,
+              "file": "gorseller/00-06-36.webp",
+              "description": "Logo ve ikonlar ortak geometrik bir düzen içinde."
+            }
+          ],
+          "end": 412.131
+        },
+        {
+          "start": 412.131,
+          "title": "Contrast ve hierarchy",
+          "summary": "Boyut, renk, doku ve şekil farkı okuma sırası ve odak yaratabilir.",
+          "frames": [
+            {
+              "time": 419.0,
+              "file": "gorseller/00-06-59.webp",
+              "description": "Büyük birinci öğe ile küçük ikinci öğe"
+            },
+            {
+              "time": 430.0,
+              "file": "gorseller/00-07-10.webp",
+              "description": "Siyah zemin, kırmızı yazı ve dairesel çizgiler."
+            }
+          ],
+          "end": 441.332
+        },
+        {
+          "start": 441.332,
+          "title": "Repetition",
+          "summary": "Grid, logo ve folio gibi tek bir öğenin tekrar edilmesi tutarlılık ve yön bulma sağlar.",
+          "frames": [
+            {
+              "time": 454.0,
+              "file": "gorseller/00-07-34.webp",
+              "description": "Google uygulama ikonlarında tekrarlanan renkler"
+            },
+            {
+              "time": 464.0,
+              "file": "gorseller/00-07-44.webp",
+              "description": "Üçgen motifin yinelendiği Swiss design spread'i."
+            }
+          ],
+          "end": 468.815
+        },
+        {
+          "start": 468.815,
+          "title": "Pattern",
+          "summary": "Birden fazla öğenin birlikte tekrarından yüzey boyunca desen oluşur.",
+          "frames": [
+            {
+              "time": 481.0,
+              "file": "gorseller/00-08-01.webp",
+              "description": "Birden fazla renk ve yönde tekrarlanan kutu motifi."
+            }
+          ],
+          "end": 491.97
+        },
+        {
+          "start": 491.97,
+          "title": "Rhythm",
+          "summary": "Tekrarın aralığı ve varyasyonları görsel tempo hissi verir.",
+          "frames": [
+            {
+              "time": 497.0,
+              "file": "gorseller/00-08-17.webp",
+              "description": "Farklı büyüklükte ve tonda daire dizisi."
+            }
+          ],
+          "end": 512.995
+        },
+        {
+          "start": 512.995,
+          "title": "Movement",
+          "summary": "Öğeler gözün bir kompozisyonda izleyeceği yolu kurar. Tekrar, eğri ve çaprazlar bu yolu yönlendirebilir.",
+          "frames": [
+            {
+              "time": 526.0,
+              "file": "gorseller/00-08-46.webp",
+              "description": "Dansçının çevresini dolanan çizgiler"
+            },
+            {
+              "time": 530.0,
+              "file": "gorseller/00-08-50.webp",
+              "description": "Premier League Primary Stars grafiğinde çapraz şeritler"
+            },
+            {
+              "time": 535.0,
+              "file": "gorseller/00-08-55.webp",
+              "description": "Incognolio kapağında diyagonal harf dizilimi."
+            }
+          ],
+          "end": 537.276
+        },
+        {
+          "start": 537.276,
+          "title": "Emphasis",
+          "summary": "Bir öğeyi diğerlerine göre öne çıkararak ilk bakışı yönlendirir. Renk ve desen bu amaçla kullanılabilir.",
+          "frames": [
+            {
+              "time": 546.0,
+              "file": "gorseller/00-09-06.webp",
+              "description": "Benzer daireler arasında çizgili daire"
+            },
+            {
+              "time": 556.0,
+              "file": "gorseller/00-09-16.webp",
+              "description": "İki pembe afiş arasında koyu Marshmallow afişi."
+            }
+          ],
+          "end": 560.01
+        },
+        {
+          "start": 560.01,
+          "title": "Proportion",
+          "summary": "Ölçekler arası ilişki öğelerin göreli önemini kurar.",
+          "frames": [
+            {
+              "time": 578.0,
+              "file": "gorseller/00-09-38.webp",
+              "description": "Emlak ilanında başlık, fiyat ve küçük metinlerin farklı ölçekleri."
+            }
+          ],
+          "end": 587.918
+        },
+        {
+          "start": 587.918,
+          "title": "Harmony",
+          "summary": "Farklı öğeler ortak renk, doku veya biçim diliyle birlikte çalışır.",
+          "frames": [
+            {
+              "time": 599.0,
+              "file": "gorseller/00-09-59.webp",
+              "description": "Renk, doku ve dairesel çizgileri birleştiren kompozisyon"
+            },
+            {
+              "time": 604.0,
+              "file": "gorseller/00-10-04.webp",
+              "description": "Ortak paletli kartlar."
+            }
+          ],
+          "end": 606.9
+        },
+        {
+          "start": 606.9,
+          "title": "Variety",
+          "summary": "Farklılık ilgiyi korur. Mesajı destekleyen biçim, renk veya görsel türü değişiklikleri seçilir.",
+          "frames": [
+            {
+              "time": 616.0,
+              "file": "gorseller/00-10-16.webp",
+              "description": "Daire dizisinin içine farklı tonda daire ve bir g harfi giriyor"
+            },
+            {
+              "time": 625.0,
+              "file": "gorseller/00-10-25.webp",
+              "description": "Organik ve geometrik parçaların bir arada olduğu kolaj"
+            },
+            {
+              "time": 634.0,
+              "file": "gorseller/00-10-34.webp",
+              "description": "Broşür düzeninde yuvarlak fotoğraf."
+            }
+          ],
+          "end": 637.772
+        },
+        {
+          "start": 637.772,
+          "title": "İlkelerin özeti ve sponsor arası",
+          "summary": "Kompozisyondaki öğelere işlev vermek. 10:56 civarında sponsor arası.",
+          "frames": [],
+          "end": 688.504
+        }
+      ],
+      "end": 688.504,
+      "file": "bolumler/00-05-16.md"
+    },
+    {
+      "start": 688.504,
+      "title": "Color theory",
+      "summary": "Color wheel, RGB ve CMYK, renk nitelikleri, palette kurma ve bağlama bağlı çağrışımlar.",
+      "topics": [
+        {
+          "start": 688.504,
+          "title": "Color wheel ve renk sıcaklığı",
+          "summary": "Geleneksel RYB modelinde ana, ara ve üçüncül renkler. Sıcak ve soğuk renk grupları.",
+          "frames": [
+            {
+              "time": 733.0,
+              "file": "gorseller/00-12-13.webp",
+              "description": "Geleneksel çarkta renk dilimleri"
+            },
+            {
+              "time": 748.0,
+              "file": "gorseller/00-12-28.webp",
+              "description": "Sıcak yarının yanında gün batımı."
+            }
+          ],
+          "end": 758.366
+        },
+        {
+          "start": 758.366,
+          "title": "RGB ve CMYK",
+          "summary": "RGB ekranda ışıkla, CMYK baskıda mürekkeple çalışır. Çıktı ortamı renk görünümünü etkiler.",
+          "frames": [
+            {
+              "time": 791.0,
+              "file": "gorseller/00-13-11.webp",
+              "description": "RGB dairelerinin ortak kesişimi ve additive color etiketi"
+            },
+            {
+              "time": 813.0,
+              "file": "gorseller/00-13-33.webp",
+              "description": "Ekran ve baskı modellerinin additive ve subtractive diyagramı"
+            },
+            {
+              "time": 836.0,
+              "file": "gorseller/00-13-56.webp",
+              "description": "Fiziksel baskı örnekleri masada inceleniyor."
+            }
+          ],
+          "end": 846.853
+        },
+        {
+          "start": 846.853,
+          "title": "Hue, saturation, value",
+          "summary": "Hue renk türü, saturation yoğunluk, value açıklık-koyuluk.",
+          "frames": [
+            {
+              "time": 862.0,
+              "file": "gorseller/00-14-22.webp",
+              "description": "Renk seçicide saturation vurgusu"
+            },
+            {
+              "time": 873.0,
+              "file": "gorseller/00-14-33.webp",
+              "description": "Aynı arayüzde value vurgusu."
+            }
+          ],
+          "end": 876.05
+        },
+        {
+          "start": 876.05,
+          "title": "Shade, tint ve tone",
+          "summary": "Dersteki şema aynı hue'ya sırasıyla siyah, beyaz ve gri katılmasını gösteriyor.",
+          "frames": [
+            {
+              "time": 897.0,
+              "file": "gorseller/00-14-57.webp",
+              "description": "Turuncu örnek üzerinde siyah, beyaz ve griyle shade, tint ve tone."
+            }
+          ],
+          "end": 899.455
+        },
+        {
+          "start": 899.455,
+          "title": "Complementary",
+          "summary": "Bir çarkın karşılıklı iki rengi güçlü contrast verir. Çarkın modeli karşılıklı çiftleri değiştirir.",
+          "frames": [
+            {
+              "time": 925.0,
+              "file": "gorseller/00-15-25.webp",
+              "description": "Geleneksel RYB ve RGB çarkları yan yana."
+            }
+          ],
+          "end": 941.44
+        },
+        {
+          "start": 941.44,
+          "title": "Split complementary ve analogous",
+          "summary": "Birincisi karşı rengin iki komşusunu, ikincisi ana rengin yanındaki renkleri kullanır.",
+          "frames": [
+            {
+              "time": 951.0,
+              "file": "gorseller/00-15-51.webp",
+              "description": "Karşı rengin iki yanındaki noktalar işaretli"
+            },
+            {
+              "time": 966.0,
+              "file": "gorseller/00-16-06.webp",
+              "description": "Birbirine komşu üç nokta işaretli."
+            }
+          ],
+          "end": 976.137
+        },
+        {
+          "start": 976.137,
+          "title": "Monochromatic, triadic ve tetradic",
+          "summary": "Tek hue'nun varyasyonları, eşit aralıklı üç renk veya iki karşıt renk çifti.",
+          "frames": [
+            {
+              "time": 982.0,
+              "file": "gorseller/00-16-22.webp",
+              "description": "Tek hue dilimindeki varyasyon noktaları"
+            },
+            {
+              "time": 993.0,
+              "file": "gorseller/00-16-33.webp",
+              "description": "Çarkta üç aralıklı nokta"
+            },
+            {
+              "time": 1003.0,
+              "file": "gorseller/00-16-43.webp",
+              "description": "Çarkta iki karşıt çift."
+            }
+          ],
+          "end": 1007.96
+        },
+        {
+          "start": 1007.96,
+          "title": "Renk psikolojisi",
+          "summary": "Kırmızı, mavi ve yeşil farklı çağrışımlar taşıyabilir. Ders kültürel geçmişi ve bağlamı hesaba katmayı hatırlatır.",
+          "frames": [
+            {
+              "time": 1051.0,
+              "file": "gorseller/00-17-31.webp",
+              "description": "Renk psikolojisi anlatımında kırmızı elbiseli kişi."
+            }
+          ],
+          "end": 1108.75
+        }
+      ],
+      "end": 1108.75,
+      "file": "bolumler/00-11-28.md"
+    },
+    {
+      "start": 1108.75,
+      "title": "Typography",
+      "summary": "Harf anatomisi, typeface sınıfları ve metin dizgisiyle okunaklılık ve okuma akışı.",
+      "topics": [
+        {
+          "start": 1108.75,
+          "title": "Tanım ve tarih",
+          "summary": "Roma kitabeleri, Blackletter, sanayi tipi başlıklar ve modernist typeface'lerden dijital variable font'a.",
+          "frames": [
+            {
+              "time": 1130.0,
+              "file": "gorseller/00-18-50.webp",
+              "description": "Taşa kazılmış harfler"
+            },
+            {
+              "time": 1150.0,
+              "file": "gorseller/00-19-10.webp",
+              "description": "Süslemeli Blackletter sayfası"
+            },
+            {
+              "time": 1234.0,
+              "file": "gorseller/00-20-34.webp",
+              "description": "Google Fonts'ta değişken eksen kontrolleri."
+            }
+          ],
+          "end": 1241.461
+        },
+        {
+          "start": 1241.461,
+          "title": "Serif, ascender, descender",
+          "summary": "Harfin ucundaki ayaklar, x-height üstü uzantılar ve baseline altı uzantılar.",
+          "frames": [
+            {
+              "time": 1258.0,
+              "file": "gorseller/00-20-58.webp",
+              "description": "Serif uçları işaretli f ve A"
+            },
+            {
+              "time": 1278.0,
+              "file": "gorseller/00-21-18.webp",
+              "description": "b, d ve p üzerinde yatay referans çizgileri"
+            },
+            {
+              "time": 1288.0,
+              "file": "gorseller/00-21-28.webp",
+              "description": "g ve j'nin baseline altına inişi."
+            }
+          ],
+          "end": 1297.59
+        },
+        {
+          "start": 1297.59,
+          "title": "Axis, ear, bowl ve counter",
+          "summary": "Axis çizginin yönü. Ear küçük g gibi harflerde uç çıkıntısı. Bowl kıvrımlı dış çizgiyi, counter onun çevrelediği boşluğu tanımlar.",
+          "frames": [
+            {
+              "time": 1303.0,
+              "file": "gorseller/00-21-43.webp",
+              "description": "Üç o üzerinde farklı açılarda axis"
+            },
+            {
+              "time": 1309.0,
+              "file": "gorseller/00-21-49.webp",
+              "description": "Üç küçük g üzerinde ear örnekleri"
+            },
+            {
+              "time": 1323.0,
+              "file": "gorseller/00-22-03.webp",
+              "description": "a, b ve B üzerinde bowl işaretleri."
+            }
+          ],
+          "end": 1328.16
+        },
+        {
+          "start": 1328.16,
+          "title": "Shoulder, stem ve spine",
+          "summary": "Omuz benzeri kıvrım, ana dik çizgi ve S'nin ana kavisi.",
+          "frames": [
+            {
+              "time": 1333.0,
+              "file": "gorseller/00-22-13.webp",
+              "description": "r, m ve n harflerinde kıvrımlar"
+            },
+            {
+              "time": 1341.0,
+              "file": "gorseller/00-22-21.webp",
+              "description": "b ve d üzerinde stem işaretleri"
+            },
+            {
+              "time": 1349.0,
+              "file": "gorseller/00-22-29.webp",
+              "description": "S harfinde spine işareti."
+            }
+          ],
+          "end": 1357.26
+        },
+        {
+          "start": 1357.26,
+          "title": "Ligature ve harf kasası",
+          "summary": "Ligature iki karakteri tek glifte birleştirir. Lowercase ve uppercase aynı harfin küçük ve büyük biçimleridir.",
+          "frames": [
+            {
+              "time": 1363.0,
+              "file": "gorseller/00-22-43.webp",
+              "description": "ff, fj ve fl birleşim örnekleri."
+            }
+          ],
+          "end": 1387.0
+        },
+        {
+          "start": 1387.0,
+          "title": "Font style ve weight",
+          "summary": "Italic gibi stil seçimleri ile çizginin kalınlığı olan weight'i ayır.",
+          "frames": [
+            {
+              "time": 1406.0,
+              "file": "gorseller/00-23-26.webp",
+              "description": "Aynı cümlenin farklı kalınlıklardaki örnekleri."
+            }
+          ],
+          "end": 1419.02
+        },
+        {
+          "start": 1419.02,
+          "title": "Sans serif sınıfları",
+          "summary": "Grotesque, neo-grotesque, humanist ve geometric örnekleri aperture, oran ve stroke contrast ile karşılaştırılır.",
+          "frames": [
+            {
+              "time": 1456.0,
+              "file": "gorseller/00-24-16.webp",
+              "description": "Grotesque typeface örnekleri"
+            },
+            {
+              "time": 1467.0,
+              "file": "gorseller/00-24-27.webp",
+              "description": "Neo Grotesque typeface örnekleri"
+            },
+            {
+              "time": 1492.0,
+              "file": "gorseller/00-24-52.webp",
+              "description": "Geometric kategorisindeki iki typeface örneği."
+            }
+          ],
+          "end": 1502.871
+        },
+        {
+          "start": 1502.871,
+          "title": "Serif sınıfları",
+          "summary": "Old style, transitional, modern ve slab serif. Serif biçimi ve kalın-ince stroke farkı sınıfları ayırt etmeye yardım eder.",
+          "frames": [
+            {
+              "time": 1528.0,
+              "file": "gorseller/00-25-28.webp",
+              "description": "Old Style örnekleri"
+            },
+            {
+              "time": 1539.0,
+              "file": "gorseller/00-25-39.webp",
+              "description": "Transitional serif örnekleri"
+            },
+            {
+              "time": 1555.0,
+              "file": "gorseller/00-25-55.webp",
+              "description": "Modern serif örnekleri"
+            },
+            {
+              "time": 1568.0,
+              "file": "gorseller/00-26-08.webp",
+              "description": "Kalın ayaklı slab serif örnekleri."
+            }
+          ],
+          "end": 1577.165
+        },
+        {
+          "start": 1577.165,
+          "title": "Script, monospaced ve display",
+          "summary": "Script el yazısı akışından gelir. Monospaced'de karakter genişliği sabittir. Display daha çok dikkat çeken kısa metinlerde kullanılır.",
+          "frames": [
+            {
+              "time": 1590.0,
+              "file": "gorseller/00-26-30.webp",
+              "description": "Formal Script örnekleri"
+            },
+            {
+              "time": 1602.0,
+              "file": "gorseller/00-26-42.webp",
+              "description": "Casual Script örnekleri"
+            },
+            {
+              "time": 1614.0,
+              "file": "gorseller/00-26-54.webp",
+              "description": "Sabit karakter genişliğinde Monospaced slaytı"
+            },
+            {
+              "time": 1634.0,
+              "file": "gorseller/00-27-14.webp",
+              "description": "Display typeface ile dizilmiş uyarı cümlesi."
+            }
+          ],
+          "end": 1643.69
+        },
+        {
+          "start": 1643.69,
+          "title": "Variable font ve font eşleme",
+          "summary": "Tek dosyadan weight, width veya slant eksenleri kullanılabilir. Font sayısı ve eşleştirme netliği etkiler.",
+          "frames": [
+            {
+              "time": 1661.0,
+              "file": "gorseller/00-27-41.webp",
+              "description": "Variable font'un tasarım yazılımında gösterimi."
+            }
+          ],
+          "end": 1700.883
+        },
+        {
+          "start": 1700.883,
+          "title": "Readability ve legibility",
+          "summary": "Readability metnin düzenlenişi ve akışıyla, legibility harflerin seçilebilirliğiyle ilgilidir. Boyut ve hedef kitleyi düşün.",
+          "frames": [
+            {
+              "time": 1734.0,
+              "file": "gorseller/00-28-54.webp",
+              "description": "Dizgi programında seçili metin bloğu"
+            },
+            {
+              "time": 1750.0,
+              "file": "gorseller/00-29-10.webp",
+              "description": "Aynı metnin farklı yazı görünümü."
+            }
+          ],
+          "end": 1775.069
+        },
+        {
+          "start": 1775.069,
+          "title": "Satır uzunluğu, leading, tracking ve kerning",
+          "summary": "Satır uzunluğu ve leading satır takibini, tracking bir harf grubunun aralığını, kerning tek bir çiftin aralığını etkiler.",
+          "frames": [
+            {
+              "time": 1808.0,
+              "file": "gorseller/00-30-08.webp",
+              "description": "Dizgi ekranında leading örneği"
+            },
+            {
+              "time": 1821.0,
+              "file": "gorseller/00-30-21.webp",
+              "description": "Tracking örneğinde geniş aralıklar"
+            },
+            {
+              "time": 1833.0,
+              "file": "gorseller/00-30-33.webp",
+              "description": "Kerning anlatılırken görünen metin bloğu."
+            }
+          ],
+          "end": 1838.158
+        },
+        {
+          "start": 1838.158,
+          "title": "Alignment, rag ve river",
+          "summary": "Hizalama, düzensiz dış kenar ve kelime boşluklarının paragraf içinde oluşturduğu izler.",
+          "frames": [
+            {
+              "time": 1852.0,
+              "file": "gorseller/00-30-52.webp",
+              "description": "Farklı hizalamalarla üç metin bloğu"
+            },
+            {
+              "time": 1871.0,
+              "file": "gorseller/00-31-11.webp",
+              "description": "Paragrafın düzensiz sağ kenarı"
+            },
+            {
+              "time": 1886.0,
+              "file": "gorseller/00-31-26.webp",
+              "description": "Justified metinde kelime boşlukları."
+            }
+          ],
+          "end": 1897.201
+        },
+        {
+          "start": 1897.201,
+          "title": "Orphan, widow ve font case",
+          "summary": "Metin bloğundan kopan satırlar veya kelimeler ve büyük-küçük harf stilleri. Terimler dersteki bağlamıyla kullanılıyor.",
+          "frames": [
+            {
+              "time": 1904.0,
+              "file": "gorseller/00-31-44.webp",
+              "description": "Widow ve orphan örnekleri vurgulu"
+            },
+            {
+              "time": 1935.0,
+              "file": "gorseller/00-32-15.webp",
+              "description": "Dört harf kasası seçeneği aynı sayfada."
+            }
+          ],
+          "end": 1953.29
+        }
+      ],
+      "end": 1953.29,
+      "file": "bolumler/00-18-28.md"
+    },
+    {
+      "start": 1953.29,
+      "title": "Tasarım teorisi uygulamada",
+      "summary": "Disipline göre araç ve çıktı değişir. Brief, kullanıcı ve iletilecek mesaj kararların temelidir.",
+      "topics": [
+        {
+          "start": 1953.29,
+          "title": "Brief, çözüm, mesaj, kullanıcı",
+          "summary": "Örnekler aynı ilkelerin basılı işler, dijital ürünler, ekran işleri ve marka sistemlerinde farklı kullanımını gösterir.",
+          "frames": [
+            {
+              "time": 1970.0,
+              "file": "gorseller/00-32-50.webp",
+              "description": "Ekip bir masa etrafında tasarım malzemeleriyle çalışıyor."
+            }
+          ],
+          "end": 2004.568
+        }
+      ],
+      "end": 2004.568,
+      "file": "bolumler/00-32-33.md"
+    },
+    {
+      "start": 2004.568,
+      "title": "Print design",
+      "summary": "Basılacak poster, kitap ve dergide formatın kullanım biçimi farklı tasarım tercihleri doğurur.",
+      "topics": [
+        {
+          "start": 2004.568,
+          "title": "Fiziksel çıktı ve poster",
+          "summary": "Poster uzaktan okunmalı. Merkezdeki başlık, tarih ve küçük ikincil bilgiler farklı görsel öncelikler taşır.",
+          "frames": [
+            {
+              "time": 2095.0,
+              "file": "gorseller/00-34-55.webp",
+              "description": "1000 yazılı poster üzerinde merkezde balance, arka planda contrast ve movement açıklamaları."
+            }
+          ],
+          "end": 2107.763
+        },
+        {
+          "start": 2107.763,
+          "title": "Kitap ve dizgi",
+          "summary": "İçindekiler, gövde yazısı, düzenli tekrarlanan içerik ve fotoğraf birlikte bir okuma akışı kurar.",
+          "frames": [
+            {
+              "time": 2139.0,
+              "file": "gorseller/00-35-39.webp",
+              "description": "Yemek kitabının içindekiler ve karşılama spread'i"
+            },
+            {
+              "time": 2172.0,
+              "file": "gorseller/00-36-12.webp",
+              "description": "Büyük ana fotoğraf ile yuvarlak küçük fotoğraflar."
+            }
+          ],
+          "end": 2202.893
+        },
+        {
+          "start": 2202.893,
+          "title": "Dergi, spread ve folio",
+          "summary": "İki sayfa arasındaki balance, renkli vurgu, sayfa numarası ve sans serif kullanımı.",
+          "frames": [
+            {
+              "time": 2239.0,
+              "file": "gorseller/00-37-19.webp",
+              "description": "Ortada kırmızı çerçeveli dergi sayfası, çevresinde farklı spread'ler."
+            }
+          ],
+          "end": 2287.18
+        }
+      ],
+      "end": 2287.18,
+      "file": "bolumler/00-33-24.md"
+    },
+    {
+      "start": 2287.18,
+      "title": "Dijital ürün tasarımı",
+      "summary": "Dijital üründe UI ile UX örtüşür. Ekran dizileri ortak grafik dil ve net bilgi hiyerarşisi ister.",
+      "topics": [
+        {
+          "start": 2287.18,
+          "title": "Dijital ürün, UI ve UX",
+          "summary": "UX kullanıcı deneyimini araştırır, UI görsel ve etkileşimli sistemi tutarlı kurar. Ders bu rollerin örtüştüğünü vurgular.",
+          "frames": [
+            {
+              "time": 2336.0,
+              "file": "gorseller/00-38-56.webp",
+              "description": "Tablet üzerinde arayüz taslağı."
+            }
+          ],
+          "end": 2354.861
+        },
+        {
+          "start": 2354.861,
+          "title": "Ekran dizisi, CTA ve veri görselleştirme",
+          "summary": "Palette, buton, başlık ve illüstrasyon ekranlar arası tutarlılık sağlar. Mobil veri ekranında öncelik karmaşık bilgiyi sade göstermektir.",
+          "frames": [
+            {
+              "time": 2363.0,
+              "file": "gorseller/00-39-23.webp",
+              "description": "Ortak renk ve illüstrasyon diline sahip üç UI ekranı"
+            },
+            {
+              "time": 2394.0,
+              "file": "gorseller/00-39-54.webp",
+              "description": "Koyu mobil ekranlarda grafik, değer ve birincil eylem."
+            }
+          ],
+          "end": 2423.057
+        }
+      ],
+      "end": 2423.057,
+      "file": "bolumler/00-38-07.md"
+    },
+    {
+      "start": 2423.057,
+      "title": "Dijital tasarım",
+      "summary": "Ekran çıktısı durağan, hareketli ya da etkileşimli olabilir.",
+      "topics": [
+        {
+          "start": 2423.057,
+          "title": "Hareket ve framing",
+          "summary": "Öğelerin kadrajdaki yerleşimi kamera hareketiyle birlikte değerlendirilir. Menderes, dengeli son kare içinde görsel hareketi korur.",
+          "frames": [
+            {
+              "time": 2464.0,
+              "file": "gorseller/00-41-04.webp",
+              "description": "Geniş menderes görüntüsü"
+            },
+            {
+              "time": 2479.0,
+              "file": "gorseller/00-41-19.webp",
+              "description": "Menderesin kıvrımı ve dengeli geniş kadraj."
+            }
+          ],
+          "end": 2481.887
+        },
+        {
+          "start": 2481.887,
+          "title": "YouTube thumbnail",
+          "summary": "Küçük boyutta okunabilir başlık, sınırlı ayrıntı ve dikkat çeken kompozisyon.",
+          "frames": [
+            {
+              "time": 2510.0,
+              "file": "gorseller/00-41-50.webp",
+              "description": "Koyu YouTube sayfasında farklı renk ve başlık kullanan thumbnail dizisi."
+            }
+          ],
+          "end": 2513.941
+        },
+        {
+          "start": 2513.941,
+          "title": "Banner ve farklı oranlar",
+          "summary": "Aynı ürün, tipografi ve vurgu farklı boyutlarda yeniden düzenlenir.",
+          "frames": [
+            {
+              "time": 2540.0,
+              "file": "gorseller/00-42-20.webp",
+              "description": "Sneaker Active reklamında koyu zemin, beyaz ayakkabı ve sarı vurgular."
+            }
+          ],
+          "end": 2574.527
+        }
+      ],
+      "end": 2574.527,
+      "file": "bolumler/00-40-23.md"
+    },
+    {
+      "start": 2574.527,
+      "title": "Brand design",
+      "summary": "Logo, palette, typography ve diğer öğeler birlikte tanınabilir bir kimlik sistemi kurar.",
+      "topics": [
+        {
+          "start": 2574.527,
+          "title": "Marka kimliğinin kapsamı",
+          "summary": "Marka tasarımı logo kadar tekrar kullanılabilir grafik dil, değerler ve farklı mecralarda tanınmayla ilgilidir.",
+          "frames": [
+            {
+              "time": 2635.0,
+              "file": "gorseller/00-43-55.webp",
+              "description": "Aynı grafik dili kullanan yan yana afişler."
+            }
+          ],
+          "end": 2649.853
+        },
+        {
+          "start": 2649.853,
+          "title": "Forebears Coffee Roasting ve keşif",
+          "summary": "Müşteri görüşmesi, kurucu hikâyesi, hedef kitle ve ayrışma noktaları tasarımdan önce belirlenir.",
+          "frames": [
+            {
+              "time": 2660.0,
+              "file": "gorseller/00-44-20.webp",
+              "description": "Forebears Coffee Roasting sunum kapağı"
+            },
+            {
+              "time": 2714.0,
+              "file": "gorseller/00-45-14.webp",
+              "description": "Hedef kitlenin metinle tanımlandığı sunum sayfası."
+            }
+          ],
+          "end": 2721.005
+        },
+        {
+          "start": 2721.005,
+          "title": "Moodboard, palette ve konseptler",
+          "summary": "Daha az bilinen kahve bölgeleri ve kadın üreticiler örnek projede görsel yönü besler. Tasarımcı birbirinden ayrılan konseptleri gerekçeleriyle sunar.",
+          "frames": [
+            {
+              "time": 2729.0,
+              "file": "gorseller/00-45-29.webp",
+              "description": "Referans görsellerin dizildiği sunum sayfası"
+            },
+            {
+              "time": 2748.0,
+              "file": "gorseller/00-45-48.webp",
+              "description": "Marka renk swatch'ları"
+            },
+            {
+              "time": 2769.0,
+              "file": "gorseller/00-46-09.webp",
+              "description": "Açık ve koyu zeminlerde Forebears logo varyantları"
+            },
+            {
+              "time": 2786.0,
+              "file": "gorseller/00-46-26.webp",
+              "description": "Simgeler ve renkler için konsept açıklamaları."
+            }
+          ],
+          "end": 2800.96
+        },
+        {
+          "start": 2800.96,
+          "title": "Geri bildirim ve uygulama testi",
+          "summary": "Seçilen konsept inceltilir. Collateral, çizgi kalınlığı ve typeface hem baskıda hem dijitalde denenebilir.",
+          "frames": [
+            {
+              "time": 2825.0,
+              "file": "gorseller/00-47-05.webp",
+              "description": "Forebears desen ve bez çanta uygulamaları."
+            }
+          ],
+          "end": 2836.081
+        },
+        {
+          "start": 2836.081,
+          "title": "Brand guideline ve export",
+          "summary": "Renk değerleri, logo boşlukları, logo varyantlarının ve typography'nin kullanımı belgelenir. Teslim dosyaları web ve baskıya göre düzenlenir.",
+          "frames": [
+            {
+              "time": 2860.0,
+              "file": "gorseller/00-47-40.webp",
+              "description": "Brand guideline içindeki swatch ve renk değerleri"
+            },
+            {
+              "time": 2866.0,
+              "file": "gorseller/00-47-46.webp",
+              "description": "Yatay logonun kılavuz sayfası"
+            },
+            {
+              "time": 2880.0,
+              "file": "gorseller/00-48-00.webp",
+              "description": "Marka sunumunda teslim kalemlerini açıklayan metinli sayfa."
+            }
+          ],
+          "end": 2904.671
+        },
+        {
+          "start": 2904.671,
+          "title": "American Airlines ve Münih 1972",
+          "summary": "Vignelli'nin American Airlines kimliği ile Otl Aicher'in Münih 1972 sistemi, tutarlı tasarım diline iki farklı örnek.",
+          "frames": [
+            {
+              "time": 2923.0,
+              "file": "gorseller/00-48-43.webp",
+              "description": "American Airlines logo ve Helvetica görseli"
+            },
+            {
+              "time": 2972.0,
+              "file": "gorseller/00-49-32.webp",
+              "description": "Münih kimliğinin canlı renkli yüzeyi"
+            },
+            {
+              "time": 2980.0,
+              "file": "gorseller/00-49-40.webp",
+              "description": "Münih 1972 amblemi"
+            },
+            {
+              "time": 2994.0,
+              "file": "gorseller/00-49-54.webp",
+              "description": "Renkli olimpiyat maskotu"
+            },
+            {
+              "time": 2997.0,
+              "file": "gorseller/00-49-57.webp",
+              "description": "Yeşil zeminde iki spor piktogramı."
+            }
+          ],
+          "end": 3031.003
+        }
+      ],
+      "end": 3031.003,
+      "file": "bolumler/00-42-54.md"
+    },
+    {
+      "start": 3031.003,
+      "title": "Tasarım araçları ve sürece giriş",
+      "summary": "Düzenli bir süreç işin kalitesini ve teslimin verimini destekler. İhtiyaca göre yazılım ve işbirliği araçları seçilir.",
+      "topics": [
+        {
+          "start": 3031.003,
+          "title": "Süreç neden var?",
+          "summary": "Görevleri düzenlemek, zamanı kullanmak ve ekipte ortak kararları görünür tutmak.",
+          "frames": [
+            {
+              "time": 3044.0,
+              "file": "gorseller/00-50-44.webp",
+              "description": "Ekran karşısında birlikte çalışan iki kişi."
+            }
+          ],
+          "end": 3077.321
+        }
+      ],
+      "end": 3077.321,
+      "file": "bolumler/00-50-31.md"
+    },
+    {
+      "start": 3077.321,
+      "title": "Design workflow",
+      "summary": "Disiplinler, proje rolleri, brief'ten teslimata adımlar ve araçların kullanım yerleri.",
+      "topics": [
+        {
+          "start": 3077.321,
+          "title": "Disiplinler ve roller",
+          "summary": "Marketing, packaging, branding, oyun, motion, illüstrasyon, UI ve UX. Ders art director ile creative director kapsamlarını ayırır.",
+          "frames": [
+            {
+              "time": 3152.0,
+              "file": "gorseller/00-52-32.webp",
+              "description": "Design Disciplines slaydında rol ve disiplin listesi."
+            }
+          ],
+          "end": 3177.841
+        },
+        {
+          "start": 3177.841,
+          "title": "Brief, araştırma, konsept ve eskiz",
+          "summary": "Problemi araştır, çözümleri birkaç gerekçeli konsepte indir, eskizlerle anlaşılır kıl.",
+          "frames": [
+            {
+              "time": 3190.0,
+              "file": "gorseller/00-53-10.webp",
+              "description": "Bir ekip brief ve plan üzerine görüşüyor"
+            },
+            {
+              "time": 3221.0,
+              "file": "gorseller/00-53-41.webp",
+              "description": "Kalemle kaba eskiz."
+            }
+          ],
+          "end": 3233.085
+        },
+        {
+          "start": 3233.085,
+          "title": "Sunum, geri bildirim ve teslim",
+          "summary": "Kararların nedenlerini anlat, probleme ilişkin geri bildirimi işle ve doğru çıktı türünü hazırla.",
+          "frames": [
+            {
+              "time": 3252.0,
+              "file": "gorseller/00-54-12.webp",
+              "description": "Görüntülü görüşme üzerinden iletişim"
+            },
+            {
+              "time": 3268.0,
+              "file": "gorseller/00-54-28.webp",
+              "description": "Tablette incelenen tasarım çıktısı."
+            }
+          ],
+          "end": 3275.58
+        },
+        {
+          "start": 3275.58,
+          "title": "Adobe araçları ve kullanım alanları",
+          "summary": "InDesign yayıncılık, Photoshop raster ve fotoğraf, Illustrator vector, Premiere Pro video, After Effects motion için derste verilen örnekler.",
+          "frames": [
+            {
+              "time": 3311.0,
+              "file": "gorseller/00-55-11.webp",
+              "description": "Adobe InDesign'ın baskı sayfası örneği."
+            }
+          ],
+          "end": 3333.72
+        },
+        {
+          "start": 3333.72,
+          "title": "Figma, Canva ve alternatifler",
+          "summary": "Arayüz prototipleme, pazarlama tasarımı, vector ve yayıncılık için farklı araç grupları. Anlatılan plan ve fiyatlar videonun dönemine ait.",
+          "frames": [
+            {
+              "time": 3337.0,
+              "file": "gorseller/00-55-37.webp",
+              "description": "Figma ana sayfası"
+            },
+            {
+              "time": 3357.0,
+              "file": "gorseller/00-55-57.webp",
+              "description": "Canva'da baskı ürünleri"
+            },
+            {
+              "time": 3395.0,
+              "file": "gorseller/00-56-35.webp",
+              "description": "Affinity Publisher sayfa düzeni tanıtımı."
+            }
+          ],
+          "end": 3413.6
+        },
+        {
+          "start": 3413.6,
+          "title": "Font ve proje araçları",
+          "summary": "FontLab ve FontForge typeface üretimine, Trello ve Milanote iş ve referans düzenine örnek.",
+          "frames": [
+            {
+              "time": 3436.0,
+              "file": "gorseller/00-57-16.webp",
+              "description": "Milanote üzerinde Forebears renk ve referans panosu."
+            }
+          ],
+          "end": 3468.43
+        }
+      ],
+      "end": 3468.43,
+      "file": "bolumler/00-51-17.md"
+    },
+    {
+      "start": 3468.43,
+      "title": "Color palette ve design assets",
+      "summary": "Hazır varlıklar ve palette araçları zaman ve bütçe kısıtında kullanılabilir.",
+      "topics": [
+        {
+          "start": 3468.43,
+          "title": "Font asset'leri",
+          "summary": "DaFont ve Google Fonts örnekleri. Projeye uyan typeface ve font kombinasyonu aranır.",
+          "frames": [
+            {
+              "time": 3493.0,
+              "file": "gorseller/00-58-13.webp",
+              "description": "DaFont sayfasındaki font listesi"
+            },
+            {
+              "time": 3499.0,
+              "file": "gorseller/00-58-19.webp",
+              "description": "Google Fonts'ta örnek cümlelerle typeface kartları."
+            }
+          ],
+          "end": 3512.32
+        },
+        {
+          "start": 3512.32,
+          "title": "Coolors, Happy Hues ve diğer asset'ler",
+          "summary": "Coolors palette üretme ve contrast kontrolü, Happy Hues palette'in arayüzde uygulanışı için örnek.",
+          "frames": [
+            {
+              "time": 3525.0,
+              "file": "gorseller/00-58-45.webp",
+              "description": "Coolors araçları ve renk şeritleri"
+            },
+            {
+              "time": 3539.0,
+              "file": "gorseller/00-58-59.webp",
+              "description": "Happy Hues arayüzünde palet ve uygulaması."
+            }
+          ],
+          "end": 3566.55
+        }
+      ],
+      "end": 3566.55,
+      "file": "bolumler/00-57-48.md"
+    },
+    {
+      "start": 3566.55,
+      "title": "Teknoloji ve AI",
+      "summary": "Teknoloji üretim yöntemlerini, uzaktan işbirliğini ve tasarım disiplinlerinin kapsamını değiştirir.",
+      "topics": [
+        {
+          "start": 3566.55,
+          "title": "Dijital üretim ve yeni çalışma yolları",
+          "summary": "İnternetle dağıtım, dijital boyama ve AI ile görsel üretimi, uzaktan işbirliği, variable font ve UI/UX'in genişleyen yeri.",
+          "frames": [
+            {
+              "time": 3588.0,
+              "file": "gorseller/00-59-48.webp",
+              "description": "Ekranda dijital görsel üzerinde çalışma"
+            },
+            {
+              "time": 3623.0,
+              "file": "gorseller/01-00-23.webp",
+              "description": "Google Fonts variable font ayarları."
+            }
+          ],
+          "end": 3669.87
+        }
+      ],
+      "end": 3669.87,
+      "file": "bolumler/00-59-26.md"
+    },
+    {
+      "start": 3669.87,
+      "title": "Amaç ve kapanış",
+      "summary": "Teknoloji değişse de brief'teki problemi çözmek ve açık iletişim kurmak tasarımın merkezinde.",
+      "topics": [
+        {
+          "start": 3669.87,
+          "title": "Brief, problem ve kurs özeti",
+          "summary": "İlkeleri, rengi, typography'yi ve araçları bir mesajı anlaşılır iletmek için bir araya getir.",
+          "frames": [
+            {
+              "time": 3692.0,
+              "file": "gorseller/01-01-32.webp",
+              "description": "Conclusion başlık kartı"
+            },
+            {
+              "time": 3756.0,
+              "file": "gorseller/01-02-36.webp",
+              "description": "Çalışma masasında ekran ve tasarım malzemeleri."
+            }
+          ],
+          "end": 3784.033
+        }
+      ],
+      "end": 3784.033,
+      "file": "bolumler/01-01-09.md"
+    }
+  ],
+  "publication_rights": {
+    "status": "user_confirmed",
+    "evidence": "Yavuz 5 Kasım 2026 tarihinde bu akışa verdiği bağlantıları yayımlama iznine sahip olduğunu beyan etti. 10 Kasım 2026 tarihinde bu ZIP’in açık GitHub deposunda yayımlanmasını istedi."
+  },
+  "schema_version": 1,
+  "id": "GQS7wPujL2k",
+  "channel": "Envato Tuts+",
+  "language": "en",
+  "published_at": "20231115",
+  "subtitle_language": "tr",
+  "reviewed_at": "2026-11-10",
+  "aliases": [
+    "Grafik tasarım temelleri",
+    "Laura Keung",
+    "Design principles",
+    "Color theory",
+    "Typography",
+    "Brand design",
+    "Design workflow"
+  ],
+  "transcript": {
+    "source": "Kullanıcının verdiği Türkçe SRT",
+    "timing": "Özgün milisaniyeler korunur. Konu dosyaları başlangıç zamanına göre sıralanır."
+  },
+  "section_time_unit": "seconds"
+}

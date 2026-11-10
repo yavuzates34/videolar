@@ -1,0 +1,3348 @@
+﻿1
+00:00:00,063 --> 00:00:02,586
+Demek grafik tasarımcı olmak istiyorsun?
+
+2
+00:00:02,586 --> 00:00:07,887
+Bu Graphic Design Basics kursunda bana katıl ve
+başlamak için bilmen gereken her şeyi öğren.
+
+3
+00:00:07,887 --> 00:00:17,454
+Adım Laura Keung, 15 yıldır profesyonel grafik tasarımcıyım
+ve 2018'den beri Tuts+ için tasarım kursları hazırlıyorum.
+
+4
+00:00:17,454 --> 00:00:22,253
+Grafik tasarım, iletişim amacı
+taşıyan görsel içerik üretmektir.
+
+5
+00:00:22,253 --> 00:00:25,809
+Tasarımı sanattan ayırıp tasarım yapan şey de budur.
+
+6
+00:00:25,809 --> 00:00:29,808
+Grafik tasarımcılar fikirleri iletmek için görseller,
+
+7
+00:00:29,808 --> 00:00:34,796
+typography, logo'lar ve karmaşık sayfa layout'ları
+gibi görsel öğeleri bir arada kullanır.
+
+8
+00:00:34,796 --> 00:00:40,332
+Grafik tasarım önemlidir, çünkü bir
+şeyi göz alıcı göstermenin yanı sıra
+
+9
+00:00:40,332 --> 00:00:44,775
+karmaşık bilgiyi en anlaşılır şekilde
+aktarılacak biçimde düzenler.
+
+10
+00:00:44,775 --> 00:00:50,900
+Kursa başlamadan önce, grafik tasarımın
+tarihine kısaca ve hızlıca bir göz atalım.
+
+11
+00:00:50,900 --> 00:00:55,757
+Matbaalar ortaya çıkmadan önce,
+görsel iletişimin asıl kökleri
+
+12
+00:00:55,757 --> 00:01:00,337
+tarih öncesi çağlardaki mağara resimlerine,
+yaklaşık MÖ 38.000'e uzanır.
+
+13
+00:01:00,337 --> 00:01:06,295
+İlk mağara resimleri, insanların sanata karşı
+doğuştan bir eğilimi olduğunun işaretidir.
+
+14
+00:01:06,295 --> 00:01:11,374
+Tarihçiler mağara çizimlerinin kiminle
+iletişim kurmak için yapıldığından
+
+15
+00:01:11,374 --> 00:01:16,626
+tam emin değil, ama insanlık görsellerle
+iletişime çoktan ilgi göstermişti.
+
+16
+00:01:16,626 --> 00:01:26,462
+MÖ 3.000 civarında Sümerler, ticareti ve envanterleri
+kaydetmek amacıyla ilk yazılı dilleri yarattı.
+
+17
+00:01:26,462 --> 00:01:30,720
+İlk diller fonetik seslerden oluşmuyordu, logografikti.
+
+18
+00:01:30,720 --> 00:01:36,226
+Yani bütün bir kelimeyi ve
+kavramı temsil eden simgelerdi.
+
+19
+00:01:36,226 --> 00:01:41,539
+Günümüz takviminin başlarında, 200 civarında, Çin'in
+
+20
+00:01:41,539 --> 00:01:47,107
+ahşap kabartmalarla ipeğe, kumaşa ve
+kâğıda baskı yaptığına dair kanıtlar var.
+
+21
+00:01:47,107 --> 00:01:53,312
+1040 civarında Pekin'de dünyanın
+ilk hareketli harfli baskı tekniği
+
+22
+00:01:53,312 --> 00:01:58,837
+porselenden icat edildi; bu, Avrupa'daki
+Gutenberg matbaasından yüzlerce yıl önce.
+
+23
+00:01:58,837 --> 00:02:03,293
+Orta Çağ'da typography yaygınlaşmaya başladı; harfler
+
+24
+00:02:03,293 --> 00:02:08,594
+ve kelimeler, metinler ve kitaplar elle
+çoğaltıldığı için vazgeçilmez hâle geldi.
+
+25
+00:02:08,594 --> 00:02:16,806
+Bu dönemde uncial yazılar öne çıkıyordu; Latin ve
+Yunan kâtiplerinin kullandığı majüskül bir yazı stili.
+
+26
+00:02:16,806 --> 00:02:21,469
+Hat sanatı, sayfa layout'u ve
+harf çizimi önem kazandı; hattat
+
+27
+00:02:21,469 --> 00:02:24,922
+ustaları seçkinlere bilgi aktarmak
+ve onları eğitmek için dolaşıyordu.
+
+28
+00:02:24,922 --> 00:02:30,637
+Johannes Gutenberg 15. yüzyılda
+hareketli harfi ve matbaayı geliştirdi.
+
+29
+00:02:30,637 --> 00:02:33,728
+Bu, modern typography için bir dönüm noktasıydı,
+
+30
+00:02:33,728 --> 00:02:40,295
+çünkü kitlesel iletişimi, uzun kitapların
+üretimini ve halk için okuryazarlığı mümkün kıldı.
+
+31
+00:02:40,295 --> 00:02:44,825
+Tasarımın ticari kullanımının başlangıcı buydu.
+
+32
+00:02:44,825 --> 00:02:47,765
+1760 ile 1840 arasındaki
+
+33
+00:02:47,765 --> 00:02:55,462
+sanayi devrimi, litografi ve sonunda kromolitografi
+gibi verimliliği artıran yeni teknolojiler getirdi.
+
+34
+00:02:55,462 --> 00:02:59,398
+Bu baskı yöntemlerinden ilki tek renk mürekkeple,
+
+35
+00:02:59,398 --> 00:03:07,843
+ikincisi birden çok renkle çalışıyordu; tasarım taşa ya da
+metale mürekkeplenip bir kâğıt yaprağına aktarılıyordu.
+
+36
+00:03:07,843 --> 00:03:14,443
+Typography tabelalar, posterler, gazeteler ve
+reklamlarla çok daha büyük bir rol üstlendi.
+
+37
+00:03:14,443 --> 00:03:19,539
+Typeface'ler daha büyük, daha kalın
+ve hatta daha deneysel hâle geldi.
+
+38
+00:03:19,539 --> 00:03:25,091
+Sonraki on yıllar, tasarım trendlerini
+derinden etkileyen sanat akımlarıyla doluydu.
+
+39
+00:03:25,091 --> 00:03:30,889
+Bauhaus'tan İsviçre tasarımına ve
+postmodernizme kadar her şeyi gördük.
+
+40
+00:03:30,889 --> 00:03:35,434
+1950'lerden sonra dünya dijital
+çağı kucaklamaya başladı.
+
+41
+00:03:35,434 --> 00:03:46,316
+Bilgisayarların, Photoshop gibi yazılımların ve
+internetin icadı, web tasarımı, etkileşim tasarımı, UI,
+
+42
+00:03:46,316 --> 00:03:51,347
+UX, dijital ürün tasarımı ve sayısız
+başka dijital tasarım dalının önünü açtı.
+
+43
+00:03:51,347 --> 00:03:56,971
+Grafik tasarımın artık iki sabiti var:
+önce iletişim gelir ve sürekli gelişir.
+
+44
+00:03:56,971 --> 00:04:03,684
+Grafik tasarımın nereden geldiğini öğrendiğine
+göre, artık temelleri öğrenme zamanı.
+
+45
+00:04:03,684 --> 00:04:08,585
+Her tasarım çalışması farklı temel tasarım ilkelerinden,
+
+46
+00:04:08,585 --> 00:04:15,159
+uygun bir color palette'ten, özenle seçilmiş bir
+typeface'ten ve daha da özenle dizilmiş metinden oluşur.
+
+47
+00:04:15,159 --> 00:04:22,144
+Bu bölümde tasarım ilkelerine, renk teorisine,
+terimlere ve typography öğelerine bakacağız.
+
+48
+00:04:22,144 --> 00:04:28,216
+Ama önce grafik tasarımın tanımıyla ve
+grafik tasarımcının rolüyle başlayalım.
+
+49
+00:04:28,216 --> 00:04:33,263
+William Addison Dwiggins, "New Kind of Printing
+Calls for New Design" adlı bir makale yazdı.
+
+50
+00:04:33,263 --> 00:04:36,290
+Bu makalede rolünün tam olarak ne olduğunu anlattı.
+
+51
+00:04:36,290 --> 00:04:41,437
+Basılı iletişime yapısal düzen
+ve görsel biçim kazandırıyordu.
+
+52
+00:04:41,437 --> 00:04:46,804
+Grafik tasarımcı öncelikle tasarım ilkelerini
+iletişim için uygulamakla ilgilenir.
+
+53
+00:04:46,804 --> 00:04:53,234
+Logo'lar, marka sistemleri, layout'lar, design artifacts,
+basılı tanıtım malzemeleri vb. ile iletişim kurabiliriz.
+
+54
+00:04:53,234 --> 00:04:58,986
+Bunların hepsi bir markanın, bir kitabın ya da bir
+kurumun bilgiyi düzenlemesine ve netleştirmesine,
+
+55
+00:04:58,986 --> 00:05:03,860
+hikâyesini anlatmasına ve sonuçta insanlarla
+anlamlı bir bağ kurmasına yardım eder.
+
+56
+00:05:03,860 --> 00:05:09,937
+Önümüzdeki üç derste temel ilkelerden renk teorisine
+
+57
+00:05:09,937 --> 00:05:16,285
+ve etkili iletişim için uygulayabileceğin
+typography öğelerine kadar her şeyi öğreneceksin.
+
+58
+00:05:16,285 --> 00:05:20,602
+Bu derste temel tasarım ilkelerine bakacağız.
+
+59
+00:05:20,602 --> 00:05:25,080
+Tasarım ilkeleri, tasarımcıların
+bir kompozisyon oluştururken
+
+60
+00:05:25,080 --> 00:05:29,193
+göze hoş gelen bir iş ortaya çıkarmak
+için izleyebileceği kurallardır.
+
+61
+00:05:29,193 --> 00:05:34,514
+Bu kuralların amacı, mesajı en düzenli
+ve işlevsel şekilde iletmektir.
+
+62
+00:05:34,514 --> 00:05:38,482
+O hâlde ilk ilkeyle başlayalım: balance.
+
+63
+00:05:38,482 --> 00:05:42,845
+Sayfaya yerleştirilen her öğe görsel bir ağırlık taşır.
+
+64
+00:05:42,845 --> 00:05:47,416
+Bu ağırlık biçimden boyuta,
+renge ve dokuya kadar değişebilir.
+
+65
+00:05:47,416 --> 00:05:53,851
+Bir tasarımın dengeli ve sağlam hissettirmesi
+için öğelerin belli bir ölçeği olması gerekir.
+
+66
+00:05:53,851 --> 00:05:59,450
+Balance eksikliği tasarımının bir tarafının ağır,
+öbür tarafının boş hissettirmesine yol açar,
+
+67
+00:05:59,450 --> 00:06:03,253
+hatta bazen bir yana devriliyormuş gibi görünebilir.
+
+68
+00:06:03,253 --> 00:06:07,381
+Simetrik balance ya da asimetrik
+balance kullanabilirsin.
+
+69
+00:06:07,381 --> 00:06:14,925
+Simetrik balance, sağ taraftaki öğelerin sol taraftaki
+öğelerle aynı görsel ağırlığa sahip olmasıdır.
+
+70
+00:06:14,925 --> 00:06:21,976
+Asimetrik tasarımlarda sol ve sağ tarafta farklı
+öğeler bulunur, ama görsel ağırlık eşittir.
+
+71
+00:06:21,976 --> 00:06:23,548
+Sırada unity var.
+
+72
+00:06:23,548 --> 00:06:28,281
+Unity, bir tasarım çalışmasındaki
+tüm öğelerin oluşturduğu uyumdur.
+
+73
+00:06:28,281 --> 00:06:35,541
+Birbirine uyan benzer renkler kullanmak ve öğeleri doğal
+biçimde bütünleştirmek, onları birbirine aitmiş gibi gösterir.
+
+74
+00:06:35,541 --> 00:06:41,220
+Unity'yi görsel öğeler arasında net
+ilişkiler kurarak sağlayabilirsin.
+
+75
+00:06:41,220 --> 00:06:45,420
+Unity eksikliği tasarımını dağınık
+ve kafa karıştırıcı gösterir.
+
+76
+00:06:45,420 --> 00:06:52,131
+Üstelik izleyiciler tasarımın yanlış
+öğesine odaklanır ve net bir mesaj alamaz.
+
+77
+00:06:52,131 --> 00:06:53,708
+Sırada contrast var.
+
+78
+00:06:53,708 --> 00:07:00,795
+Contrast, görsel hierarchy oluşturmak için tasarım
+öğeleri arasındaki farklılık düzeyini ifade eder.
+
+79
+00:07:00,795 --> 00:07:05,125
+Bu çeşitlilik bazı öğelerin diğerlerinden
+daha çok öne çıkmasını sağlar;
+
+80
+00:07:05,125 --> 00:07:10,106
+contrast'ı renkler, dokular,
+boyutlar ve şekillerle uygulayabilirsin.
+
+81
+00:07:10,106 --> 00:07:15,219
+Contrast ayrıca belli öğelerde izleyicinin
+gözünü çeken bir odak noktası yaratabilir.
+
+82
+00:07:15,219 --> 00:07:21,332
+Contrast eksikliği tasarımı sönük gösterebilir
+ve izleyiciler önemli mesajı gözden kaçırabilir.
+
+83
+00:07:21,332 --> 00:07:26,329
+Repetition: layout'ta tekrar eden öğeler
+kullanmak kullanıcıya hoş gelebilir.
+
+84
+00:07:26,329 --> 00:07:29,901
+Repetition, tek bir öğeyi
+tasarım boyunca tekrarlamaktır.
+
+85
+00:07:29,901 --> 00:07:35,280
+Bir grid'e çizgilerin tekrarı diyebiliriz,
+çünkü belli bir tutarlılık yaratır.
+
+86
+00:07:35,280 --> 00:07:42,731
+Repetition, tasarımda öğeleri tekrarlayarak da sağlanabilir;
+örneğin bir marka geliştirme projesinde logo ya da slogan,
+
+87
+00:07:42,731 --> 00:07:48,815
+ya da bir layout tasarımında kullanıcıların yolunu
+bulmasına yardım eden sayfa numarası yerleşimiyle görülür.
+
+88
+00:07:48,815 --> 00:07:50,434
+Sırada pattern var.
+
+89
+00:07:50,434 --> 00:07:54,516
+Pattern, birden fazla tasarım öğesinin tekrarıdır.
+
+90
+00:07:54,516 --> 00:07:59,840
+Repetition tek bir öğenin
+tekrarına odaklanırken, pattern
+
+91
+00:07:59,840 --> 00:08:05,743
+duvar kâğıtları ve arka planlar gibi tasarım
+boyunca tekrar eden birden fazla öğeyi ifade eder.
+
+92
+00:08:05,743 --> 00:08:11,970
+Kesintisiz pattern'leri en çok iç mimaride,
+fayans ya da duvar kâğıdı kullanılırken görürsün.
+
+93
+00:08:11,970 --> 00:08:13,226
+Sırada rhythm var.
+
+94
+00:08:13,226 --> 00:08:20,942
+Rhythm, öğelerin tekrar tekrar ve çeşitlenerek
+kullanılmasıyla oluşan görsel bir tempodur.
+
+95
+00:08:20,942 --> 00:08:23,654
+Düzenli bir hareket hissi verir.
+
+96
+00:08:23,654 --> 00:08:28,612
+Rhythm genellikle sanat eserlerinde
+gizli kalan bir tasarım ilkesidir
+
+97
+00:08:28,612 --> 00:08:32,995
+ve tasarım ilkelerinde ya da tasarım
+işlerinde o kadar belirgin değildir.
+
+98
+00:08:32,995 --> 00:08:34,475
+Sırada movement var.
+
+99
+00:08:34,475 --> 00:08:38,820
+Bu, izleyicinin gözlerinin bir
+kompozisyonda izlediği yolu ifade eder.
+
+100
+00:08:38,820 --> 00:08:44,990
+Kompozisyondaki movement, izleyiciyi ilgide
+tutan dinamik bir oyunla merak uyandırır.
+
+101
+00:08:44,990 --> 00:08:49,847
+Movement, bir öğenin varyasyonunu tekrar
+tekrar kullanarak rhythm ile yaratılabilir.
+
+102
+00:08:49,847 --> 00:08:53,347
+Movement, eğri ve çapraz çizgilerle de yaratılabilir.
+
+103
+00:08:53,347 --> 00:08:57,276
+Bu çizgiler odak noktasına giden yolu çizer.
+
+104
+00:08:57,276 --> 00:08:58,802
+Sırada emphasis var.
+
+105
+00:08:58,802 --> 00:09:04,235
+Emphasis, izleyicinin dikkatini belirli
+bir tasarım öğesine çekme stratejisidir.
+
+106
+00:09:04,235 --> 00:09:07,520
+Bu her biçimde olabilir: bir buton,
+bir web sitesi, bir görsel.
+
+107
+00:09:07,520 --> 00:09:13,170
+Amaç, sayfanın geri kalanından
+öne çıkacak bir şey yaratmaktır.
+
+108
+00:09:13,170 --> 00:09:20,010
+Renk, her tasarımda emphasis yaratmanın kolay bir
+yoludur, çünkü aciliyet ve dikkat duygusu yaratır.
+
+109
+00:09:20,010 --> 00:09:26,730
+Proportion: proportion, bir kompozisyondaki tüm öğeler
+birbiriyle iyi ilişki kurduğunda oluşan bütünlük hissidir.
+
+110
+00:09:26,730 --> 00:09:31,589
+Bir tasarım ilkesi olarak proportion,
+illa tek bir öğenin
+
+111
+00:09:31,589 --> 00:09:35,589
+boyutunu değil, iki ya da daha fazla
+öğe arasındaki ilişkiyi ifade eder.
+
+112
+00:09:35,589 --> 00:09:44,368
+Örneğin layout hierarchy'sinde başlık, fotoğraf altyazısına
+oranla daha büyük olmalıdır, çünkü başlık en önemli öğedir.
+
+113
+00:09:44,368 --> 00:09:47,918
+Daha küçük öğelerin önemi daha azdır.
+
+114
+00:09:47,918 --> 00:09:54,977
+Harmony: bir tasarım ilkesi olarak harmony,
+bir kompozisyondaki öğeler arasındaki bütünlük hissidir.
+
+115
+00:09:54,977 --> 00:10:00,680
+Öğeler tıpatıp aynı ya da tamamen farklı olmamalı,
+bir şekilde birbiriyle ilişkili olmalıdır.
+
+116
+00:10:00,680 --> 00:10:06,900
+Color palette'ler ya da benzer dokular, farklı
+bileşenler arasında bir bütünlük hissi yaratabilir.
+
+117
+00:10:06,900 --> 00:10:08,808
+Ve son olarak variety var.
+
+118
+00:10:08,808 --> 00:10:16,640
+Tasarım ilkelerinde variety, izleyicileri ya da kullanıcıları
+tasarımına bağlı tutacak görsel ilgi yaratmakla ilgilidir.
+
+119
+00:10:16,640 --> 00:10:21,240
+Dikkatlerini tutmak ve onları kompozisyon
+boyunca yönlendirmek güçlü bir deneyim yaratır.
+
+120
+00:10:21,240 --> 00:10:25,396
+Variety, contrast ve gerilim yaratmak
+için ilgi çekici bir şey katar.
+
+121
+00:10:25,396 --> 00:10:29,714
+Örneğin organik şekilleri geometrik
+şekillerle karıştırmak bir variety'dir.
+
+122
+00:10:29,714 --> 00:10:37,772
+Bu yaklaşım, tasarımında iletmeye çalıştığın mesajı
+güçlendirmeli; yoksa sıkıcı ya da anlamsız olabilir.
+
+123
+00:10:37,772 --> 00:10:42,751
+Sanatın ve tasarımın öğeleri ve ilkeleri,
+bir kompozisyon oluşturmanın temelidir.
+
+124
+00:10:42,751 --> 00:10:49,560
+Bu ilkeleri kullanmak, kompozisyondaki her bir öğeye
+bir işlev vererek amaçlı tasarlamana yardım eder.
+
+125
+00:10:49,560 --> 00:10:56,332
+Sonraki derste biraz renk teorisine,
+terimlerine ve önemine bakacağız.
+
+126
+00:10:56,332 --> 00:11:04,753
+Yeni başlayan bir tasarımcıysan ve tasarımlarını,
+süreçlerini hızlandırmak istiyorsan, şablon ya da ilham arıyorsan,
+
+127
+00:11:04,753 --> 00:11:07,623
+Envato Elements kaynak bulmak için harika bir yer.
+
+128
+00:11:07,623 --> 00:11:14,771
+Geniş ve sürekli büyüyen kütüphanesiyle fotoğraflardan
+stok videoya, ihtiyacın olan her şeyi mutlaka bulursun;
+
+129
+00:11:14,771 --> 00:11:19,488
+motion graphics ya da özel ses efektleri,
+müzik ve web şablonları da var.
+
+130
+00:11:19,488 --> 00:11:28,504
+Basit ticari lisanslı milyonlarca yaratıcı dijital
+içerik var ve istediğin zaman iptal edebilirsin.
+
+131
+00:11:28,504 --> 00:11:31,034
+Bu derste renk teorisine bakacağız.
+
+132
+00:11:31,034 --> 00:11:34,929
+Renk teorisinde renkler bir
+color wheel üzerinde düzenlenir.
+
+133
+00:11:34,929 --> 00:11:40,826
+Diğer renk teorisi kavramlarını anlamak
+için bu kullanışlı aracı anlamak şart.
+
+134
+00:11:40,826 --> 00:11:48,492
+Sanatçılar ve tasarımcılar bu aracı, göze hoş gelen ve belli
+duygular uyandıran renk uyumları geliştirmek için kullanır.
+
+135
+00:11:48,492 --> 00:11:53,278
+Sir Isaac Newton geleneksel
+color wheel'i 1666'da yarattı
+
+136
+00:11:53,278 --> 00:11:57,679
+ve bu bugün renklerin birlikte nasıl
+çalıştığını anlamamıza yardım ediyor.
+
+137
+00:11:57,679 --> 00:12:03,067
+Color wheel üç ana renkten oluşur:
+kırmızı, sarı ve mavi.
+
+138
+00:12:03,067 --> 00:12:09,649
+Bu üç rengi karıştırınca üç ara renk
+elde ederiz: mor, yeşil ve turuncu.
+
+139
+00:12:09,649 --> 00:12:19,410
+Ana ve ara renkleri karıştırınca da üç üçüncül renk
+elde ederiz: mavi-yeşil, mavi-mor ve sarı-yeşil.
+
+140
+00:12:19,410 --> 00:12:23,843
+Color wheel iki ana sıcaklık grubuna da ayrılabilir.
+
+141
+00:12:23,843 --> 00:12:33,324
+Sıcak renkler güneşle, sıcaklıkla, ateşle, enerjiyle ve hareketle
+ilişkilendirilir; soğuk renkler ise sakinlik ve huzurla.
+
+142
+00:12:33,324 --> 00:12:38,366
+Mavi, yeşil, mor ve bunların
+farklı tonları soğuk renklerdir.
+
+143
+00:12:38,366 --> 00:12:45,981
+Baskı ve dijitalde çalışan grafik tasarımcılar olarak color
+profile'lara, yani renk uzaylarına aşina olmamız gerekir.
+
+144
+00:12:45,981 --> 00:12:51,581
+Bunu bilmek çok önemli ve projenin
+nihai çıktısına bağlıdır.
+
+145
+00:12:51,581 --> 00:12:57,916
+RGB ve CMYK, farklı ortamlar için
+kullanılan iki farklı renk uzayıdır.
+
+146
+00:12:57,916 --> 00:12:59,508
+RGB ile başlayalım.
+
+147
+00:12:59,508 --> 00:13:02,720
+RGB, red, green ve blue,
+yani kırmızı, yeşil ve mavi demektir.
+
+148
+00:13:02,720 --> 00:13:07,457
+Bu, rengi göstermek için ışığa ihtiyaç
+duyan dijital çıktıların color mode'udur.
+
+149
+00:13:07,457 --> 00:13:10,053
+RGB, eklemeli renk yöntemini kullanır.
+
+150
+00:13:10,053 --> 00:13:13,649
+Yani tüm renkler birleşince beyaz elde ederiz.
+
+151
+00:13:13,649 --> 00:13:20,114
+RGB, esas olarak son tasarımın bir
+ekranda gösterileceği zaman kullanılır;
+
+152
+00:13:20,114 --> 00:13:25,742
+bu bir telefon, bilgisayar ekranı
+ya da reklam ekranı olabilir.
+
+153
+00:13:25,742 --> 00:13:30,282
+CMYK ise cyan, magenta, yellow ve black,
+yani camgöbeği, eflatun, sarı ve siyah demektir.
+
+154
+00:13:30,282 --> 00:13:33,840
+CMYK, çıkarmalı renk karışımı yöntemini kullanır.
+
+155
+00:13:33,840 --> 00:13:39,527
+Yani tüm renkler beyaz kâğıtla başlar,
+sonra siyaha ulaşana kadar rengi çıkarırız.
+
+156
+00:13:39,527 --> 00:13:44,192
+Tasarım fiziksel olacaksa kullanılacak color mode budur.
+
+157
+00:13:44,192 --> 00:13:51,967
+Bilmen gereken önemli bir şey var: ekranda gördüğümüz
+renkler basıldığında asla o kadar canlı olmayacak.
+
+158
+00:13:51,967 --> 00:13:59,416
+Yani ekranda tasarım yaparken ve belgemizi CMYK
+olarak ayarladığımızda parlak renkler görürüz.
+
+159
+00:13:59,416 --> 00:14:06,853
+Ama basıldığında renkler biraz soluk
+çıkar, bunu her zaman aklında tut.
+
+160
+00:14:06,853 --> 00:14:09,937
+Şimdi renk niteliklerine bakalım.
+
+161
+00:14:09,937 --> 00:14:14,120
+Bunlar hue, saturation ve value.
+
+162
+00:14:14,120 --> 00:14:16,554
+Hue, color wheel üzerindeki herhangi bir renktir.
+
+163
+00:14:16,554 --> 00:14:23,817
+Renk için kullanılan başka bir kelimedir;
+saturation ise rengin yoğunluğu ya da saflığıdır.
+
+164
+00:14:23,817 --> 00:14:32,099
+Yani rengin daha saturated, yani canlı mı,
+yoksa desaturated, yani sönük mü görüneceğini bu belirler.
+
+165
+00:14:32,099 --> 00:14:36,050
+Value ise bir rengin ne kadar açık
+ya da koyu olduğuyla ilgilidir.
+
+166
+00:14:36,050 --> 00:14:40,731
+İşte burada shade, tint ve tone kavramlarına giriyoruz.
+
+167
+00:14:40,731 --> 00:14:48,768
+Shade, bir hue'ya ya da renge siyah eklenerek oluşturulur;
+başka bir deyişle rengi koyulaştırıp daha dolgun hâle getirmektir.
+
+168
+00:14:48,768 --> 00:14:53,266
+Tint, bir rengi daha az yoğun yapmak
+için beyaz eklenerek oluşturulur.
+
+169
+00:14:53,266 --> 00:14:59,455
+Tone ise siyahla beyazı ya da griyi
+bir hue ile birleştirerek oluşturulur.
+
+170
+00:14:59,455 --> 00:15:01,999
+Şimdi renk uyumlarına bakalım.
+
+171
+00:15:01,999 --> 00:15:08,990
+Renk uyumu, çekici, dengeli ve birlikte
+gerçekten güzel duran renkleri ifade eder.
+
+172
+00:15:08,990 --> 00:15:16,200
+Kendi color palette'ini oluşturmaya başlamana
+yardım edecek bazı temel renk uyumlarına bakalım.
+
+173
+00:15:16,200 --> 00:15:19,070
+İlk renk uyumu complementary.
+
+174
+00:15:19,070 --> 00:15:24,330
+Complementary renk uyumu, color wheel'de tam
+karşı karşıya duran iki rengi eşleştirir.
+
+175
+00:15:24,330 --> 00:15:28,154
+Kırmızı ile yeşil ya da mavi ile
+sarı bunun temel örnekleridir.
+
+176
+00:15:28,154 --> 00:15:31,580
+Bu, güçlü contrast'lı bir renk
+şeması oluşturmaya yardım eder.
+
+177
+00:15:31,580 --> 00:15:41,440
+Farklı hue'ları ve tone'ları da kullanabileceğini unutma;
+saf hue ya da saf renk olmak zorunda değiller.
+
+178
+00:15:41,440 --> 00:15:43,620
+Sırada split complementary var.
+
+179
+00:15:43,620 --> 00:15:47,957
+Bu renk şeması bir ana renk
+ve iki ikincil renk kullanır.
+
+180
+00:15:47,957 --> 00:15:55,150
+Yani tamamlayıcı rengi kullanmak yerine, color wheel'de
+onun çevresine simetrik yerleşmiş iki renk kullanılır.
+
+181
+00:15:55,150 --> 00:16:01,021
+Ana renk baskındır, ikincil renk ise yalnızca
+vurgu ya da aksan olarak kullanılmalı.
+
+182
+00:16:01,021 --> 00:16:08,959
+Sırada analogous var; bu renk uyumu, bir ana
+rengi onun hemen yanındaki renklerle birleştirir.
+
+183
+00:16:08,959 --> 00:16:16,137
+Bu renk şeması sakinleştirici bir enerji yaratabilir,
+çünkü çok yumuşaktır, pek fazla contrast içermez.
+
+184
+00:16:16,137 --> 00:16:17,898
+Sırada monochromatic var.
+
+185
+00:16:17,898 --> 00:16:26,080
+Bu, renk çarkından tek bir temel rengi alır ve onun farklı shade,
+tone ya da tint'lerini kullanarak bir palet oluşturur.
+
+186
+00:16:26,080 --> 00:16:28,156
+Sade ve bütünlüklü görünür.
+
+187
+00:16:28,156 --> 00:16:30,160
+Sırada triadic var.
+
+188
+00:16:30,160 --> 00:16:36,250
+Bu renk şeması üç renk kullanır; bunlar renk
+çarkında eşit aralıklıdır ve bir üçgen oluşturur.
+
+189
+00:16:36,250 --> 00:16:40,855
+Tetradic renkler ise bir arada kullanılan
+iki complementary renk çiftidir.
+
+190
+00:16:40,855 --> 00:16:47,960
+Bu renkler en iyi, paletteki renklerden biri baskın olduğunda
+ve geri kalanlar aksan rengi olarak kullanıldığında işe yarar.
+
+191
+00:16:47,960 --> 00:16:52,990
+Ve bu dersin son konusu olarak renk
+psikolojisine bakmamız gerekiyor.
+
+192
+00:16:52,990 --> 00:16:56,610
+Bu, grafik tasarımda
+kullanabileceğin çok güçlü bir araç.
+
+193
+00:16:56,610 --> 00:17:03,312
+Renkler, bir kişinin bir marka hakkındaki izlenimini
+etkileyebilir ve belli duygular uyandırabilir.
+
+194
+00:17:03,312 --> 00:17:09,710
+Sıcak renklerin güneş ve ateşle ilişkilendirilmesi
+ve soğuk renklerin huzur ve sakinlikle
+
+195
+00:17:09,710 --> 00:17:14,750
+ilişkilendirilmesi gibi, renk çarkının geri
+kalanı da algıyı ve davranışları etkiler.
+
+196
+00:17:14,750 --> 00:17:19,397
+Yani göz önünde bulundurman gereken pek
+çok etken var: kültürel geçmiş, cinsiyet,
+
+197
+00:17:19,397 --> 00:17:23,740
+yaş ve daha fazlası, çünkü renkler
+farklı şekillerde algılanabilir.
+
+198
+00:17:23,740 --> 00:17:27,546
+Farklı araştırmalara göre renkler
+belli duygular uyandırabilir.
+
+199
+00:17:27,546 --> 00:17:32,610
+Örneğin kırmızı güç, tutku ve heyecanı temsil edebilir,
+
+200
+00:17:32,610 --> 00:17:39,000
+ama öfke, tehlike ve saldırganlık gibi
+olumsuz bir çağrışımı da olabilir.
+
+201
+00:17:39,000 --> 00:17:42,606
+Mavi güveni, emniyeti ve dinginliği temsil eder.
+
+202
+00:17:42,606 --> 00:17:49,160
+Olumsuz çağrışımı ise soğuk, duygusuz,
+hatta bazen mesafeli olmasıdır.
+
+203
+00:17:49,160 --> 00:17:57,890
+Yeşilin olumlu çağrışımları sağlık, umut ve bereketle ilgilidir;
+olumsuz çağrışımları ise sıkıcılık ve durgunluk olabilir.
+
+204
+00:17:57,890 --> 00:18:05,095
+Renkler, doğru kullanıldığında yalnızca duyguları değil
+fikirleri de aktarabilen güçlü bir görsel araçtır.
+
+205
+00:18:05,095 --> 00:18:11,340
+Bazılarımız renk çarkının temellerini okulda öğrenmiş
+olabilir, ama onda ustalaşmak zor olmak zorunda değil.
+
+206
+00:18:11,340 --> 00:18:16,830
+Renk teorisi çarkını anlamak, sayısız renk
+kombinasyonu oluşturmana yardımcı olabilir.
+
+207
+00:18:16,830 --> 00:18:20,640
+Hatta tasarımının başrolü bile olabilirler.
+
+208
+00:18:20,640 --> 00:18:27,680
+Artık renk teorisinin ne olduğunu bildiğine göre, tasarımın
+en önemli unsurlarından birine bakma zamanı: typography.
+
+209
+00:18:28,750 --> 00:18:30,520
+Typography nedir?
+
+210
+00:18:30,520 --> 00:18:38,490
+Typography, yazılı dili okunabilir, seçilebilir ve çekici
+kılmak için harflerin stratejik olarak düzenlenmesidir.
+
+211
+00:18:38,490 --> 00:18:47,830
+Typography yüzyıllar boyunca büyük bir evrim geçirdi; bugünkü
+önemi antik Roma'daki erken dönem kazıma yazılara kadar uzanır.
+
+212
+00:18:47,830 --> 00:18:52,285
+Onların büyük harfli yazıları
+anıtlara ve binalara kazınırdı.
+
+213
+00:18:52,285 --> 00:18:59,460
+Karakterler taşa keskiyle oyularak yapılırdı, bu yüzden
+keski her çizginin ucunda küçük ayaklar oluştururdu.
+
+214
+00:18:59,460 --> 00:19:04,362
+14. yüzyılda Johannes Gutenberg
+hareketli harfli baskı makinesini
+
+215
+00:19:04,362 --> 00:19:08,905
+benimsedi ve bu sayede mürekkeple
+çok daha fazla sayfa basılabildi.
+
+216
+00:19:08,905 --> 00:19:13,284
+Gutenberg ardından ilk typeface'i
+geliştirdi: Blackletter.
+
+217
+00:19:13,284 --> 00:19:19,548
+Ama kısa süre sonra Roman harf stilleri popüler
+oldu, çünkü Blackletter'ı okumak zordu.
+
+218
+00:19:19,548 --> 00:19:23,849
+Dizgiciler uygun fiyatlı kitap
+üretmenin yollarını aramaya başladı ve
+
+219
+00:19:23,849 --> 00:19:28,640
+tracking ve leading gibi yer tasarrufu
+sağlayan teknikler buldular.
+
+220
+00:19:28,640 --> 00:19:33,820
+Sanayi Devrimi sırasında baskı makineleri
+gelişti ve reklamcılığın önünü açtı.
+
+221
+00:19:33,820 --> 00:19:39,877
+Tasarımcılar gazeteler ve afişler için daraltılmış ve
+genişletilmiş harflerle denemeler yapmaya başladı.
+
+222
+00:19:39,877 --> 00:19:45,592
+Bütün bu tipografik özgürlüğün olumlu yanı,
+slab serif typeface'lerin ortaya çıkmasıydı.
+
+223
+00:19:45,592 --> 00:19:51,025
+Bunlar, mevcut serif stillerinin daha
+vurucu ve daha kalın yeniden yorumlarıydı.
+
+224
+00:19:51,025 --> 00:19:59,810
+Ve o zaman da, bugün de günümüz tasarımlarındaki
+başlıklara hoş, nostaljik bir hava katıyorlar.
+
+225
+00:19:59,810 --> 00:20:05,626
+1900'lere, yani modernist döneme gelindiğinde,
+tasarımcılar bugün kullandığımız humanist
+
+226
+00:20:05,626 --> 00:20:10,975
+ve geometric typeface'lerin bazılarını yaratıyordu:
+Futura, Gill Sans ve Helvetica gibi.
+
+227
+00:20:10,975 --> 00:20:15,288
+Bunlar işlevsel ve son derece okunaklı
+typeface'ler olarak tanıtıldı.
+
+228
+00:20:15,288 --> 00:20:20,288
+Bilgisayarların gelişmesiyle artık özel
+yazılımlarla sofistike typeface'ler
+
+229
+00:20:20,288 --> 00:20:25,020
+yaratabiliyoruz ve font'lar tüm bilgisayar
+kullanıcılarının erişimine açık.
+
+230
+00:20:25,020 --> 00:20:30,820
+Üstelik tasarımcıların artık yaratabildiği
+tipografik aile çeşitliliği etkileyici.
+
+231
+00:20:30,820 --> 00:20:36,180
+Variable font'lar, dijital harf dünyasının en
+yeni eklentisi; burada tek bir font dosyası
+
+232
+00:20:36,180 --> 00:20:41,461
+weight, width, stil ve boyut bakımından
+değişen birden fazla tipografik stil içerir.
+
+233
+00:20:41,461 --> 00:20:46,720
+Type sınıflandırmalarına geçmeden
+önce harf anatomisini bilmek şart.
+
+234
+00:20:46,720 --> 00:20:52,733
+Böylece farklı harf stilleri arasındaki farkları açıklayabilirim
+ve bu, dizginin temellerini anlamana da yardımcı olur.
+
+235
+00:20:52,733 --> 00:20:55,090
+Serif ile başlayalım.
+
+236
+00:20:55,090 --> 00:21:02,520
+Serif'ler, bir harfin ya da karakterin çizgisinin
+ucundaki küçük ayaklardır ve kökenleri eskiye dayanır.
+
+237
+00:21:02,520 --> 00:21:08,320
+Karakterler taşa keskiyle oyularak yapılırdı, bu yüzden
+keski her çizginin ucunda küçük ayaklar oluştururdu.
+
+238
+00:21:08,320 --> 00:21:13,940
+Serif'ler genellikle uzun gövde metinlerinde
+kullanılır, çünkü çok okunaklıdırlar.
+
+239
+00:21:13,940 --> 00:21:15,580
+Sırada ascender var.
+
+240
+00:21:15,580 --> 00:21:25,070
+Küçük harfin x-height'ın üstüne taşan her kısmı;
+örneğin b, d ya da h gibi harflerin bir ascender'ı vardır.
+
+241
+00:21:25,070 --> 00:21:33,900
+Descender ise küçük harfin baseline'ın altına
+taşan her kısmıdır; örneğin g, j, p ya da q.
+
+242
+00:21:33,900 --> 00:21:37,590
+Yani aşağı doğru inen dikey çizgi.
+
+243
+00:21:37,590 --> 00:21:41,788
+Axis, bir harf formundaki çizginin yönünü ifade eder
+
+244
+00:21:41,788 --> 00:21:47,700
+ve çoğu zaman harf formlarının kalemle
+çizilseler nasıl görüneceğinden ilham alır.
+
+245
+00:21:47,700 --> 00:21:52,564
+Ear, bir bitiş çizgisidir; genellikle küçük
+g'nin bowl'unun sağ üst tarafında bulunur.
+
+246
+00:21:52,564 --> 00:22:02,565
+Bowl, bazı harflerin counter da denen dairesel ya
+da kavisli kısımlarını çevreleyen kavisli bölümdür;
+
+247
+00:22:02,565 --> 00:22:08,160
+küçük b, d, o, büyük D ve büyük B gibi.
+
+248
+00:22:08,160 --> 00:22:13,520
+Shoulder, bir harfin yuvarlak kısmıdır;
+r, m ya da n gibi, hepsi küçük harf.
+
+249
+00:22:13,520 --> 00:22:17,586
+Bu adı insan omzuna benzemesinden alır.
+
+250
+00:22:17,586 --> 00:22:25,280
+Stem, bir harf formunun ana, genellikle dikey çizgisidir;
+stroke olarak da bilinir, yani harfin ana ya da yüksek çizgisidir.
+
+251
+00:22:25,280 --> 00:22:32,140
+Spine, büyük ve küçük s'deki soldan
+sağa uzanan ana kavisli çizgidir.
+
+252
+00:22:32,140 --> 00:22:37,260
+Spine, typeface'e bağlı olarak neredeyse
+dikey ya da neredeyse yatay olabilir.
+
+253
+00:22:37,260 --> 00:22:42,177
+Ligature'lar, iki ayrı karakterin
+birleşiminden oluşan özel karakterlerdir.
+
+254
+00:22:42,177 --> 00:22:48,460
+Bazı harfler basıldığında birbirine çarpabilir;
+ligature'lar onların birlikte daha akıcı durmasını sağlar.
+
+255
+00:22:48,460 --> 00:22:51,697
+Lowercase, bir typeface'teki harflerin küçük biçimidir.
+
+256
+00:22:51,697 --> 00:22:57,270
+Alfabenin büyük olmayan harfleri lowercase harflerdir.
+
+257
+00:22:57,270 --> 00:23:00,550
+Uppercase, bir typeface'teki büyük harflerdir.
+
+258
+00:23:00,550 --> 00:23:03,070
+Adı metal harf dönemlerinden gelir.
+
+259
+00:23:03,070 --> 00:23:07,000
+Büyük harfler harf kasasının üst kısmında tutulurdu.
+
+260
+00:23:07,000 --> 00:23:13,340
+Font stilleri: font style, karakterin ya da harf
+durumunun italik veya all caps gibi ayarlanmasıdır.
+
+261
+00:23:13,340 --> 00:23:19,690
+Bazı typeface'lerin stil seçeneği yoktur,
+bazen yalnızca regular weight sunarlar.
+
+262
+00:23:19,690 --> 00:23:25,050
+Weight, herhangi bir font'ta typeface
+çizgisinin genel kalınlığıdır.
+
+263
+00:23:25,050 --> 00:23:32,660
+En yaygın weight'ler regular ve bold'dur, ama weight'ler
+çok inceden çok kalına kadar uç noktaları kapsayabilir.
+
+264
+00:23:32,660 --> 00:23:37,680
+Variable font'lardaki weight
+ekseniyle bu sayı fiilen sınırsızdır.
+
+265
+00:23:39,020 --> 00:23:41,370
+Type sınıflandırmasından bahsedelim.
+
+266
+00:23:41,370 --> 00:23:48,840
+Farklı typeface kategorilerini bilmek, onları tarihsel
+olarak tanımlamak ve görsel olarak ayırt etmek için şart.
+
+267
+00:23:48,840 --> 00:23:52,340
+Önce sans serif'e bakalım.
+
+268
+00:23:52,340 --> 00:23:54,860
+Sans, Fransızcada "olmadan" demek.
+
+269
+00:23:54,860 --> 00:23:58,047
+Sans serif'ler adının anlattığı gibidir: serif'siz.
+
+270
+00:23:58,047 --> 00:24:02,919
+Sans serif font'lar en çok yönlü typeface kategorisidir.
+
+271
+00:24:02,919 --> 00:24:06,776
+Onları display font olarak da uzun
+metinlerde de kullanabilirsin.
+
+272
+00:24:06,776 --> 00:24:07,625
+Temizdirler.
+
+273
+00:24:07,625 --> 00:24:15,288
+Minimal ve modern görünürler. Grotesque sans serif'ler
+var ve bu font'lar 1900'lerde ticari olarak popülerdi.
+
+274
+00:24:15,288 --> 00:24:22,550
+Kalın ve ince çizgiler arasında hafif bir contrast ve
+bazı karakterlerde açık bir aperture boşluğu taşırlar.
+
+275
+00:24:22,550 --> 00:24:29,610
+Neo-grotesque sans serif'ler daha sonra gelen rafine
+versiyonlardır ve daha nötr ve okunaklı olmaları amaçlanmıştır.
+
+276
+00:24:29,610 --> 00:24:34,700
+Tekdüze bir çizgiye ve kapalı bir
+aperture boşluğuna sahiptirler.
+
+277
+00:24:34,700 --> 00:24:43,140
+Humanist sans serif'ler Roma tarzı büyük harflerin oranlarına
+dayanır ve bazı karakterlerinde kaligrafik bir etki vardır.
+
+278
+00:24:43,140 --> 00:24:49,420
+Çizgiler arasında daha yüksek bir contrast
+ve daha geniş bir aperture taşırlar.
+
+279
+00:24:49,420 --> 00:24:55,382
+Geometric sans serif font'lar genellikle optik olarak
+dairesel bowl'lara ve dikdörtgen oranlara sahiptir.
+
+280
+00:24:55,382 --> 00:25:02,871
+Çizgi contrast'ı yoktur, daha tekdüzedir
+ve tamamen dikey bir axis'e sahiptirler.
+
+281
+00:25:02,871 --> 00:25:04,242
+Sırada serif var.
+
+282
+00:25:04,242 --> 00:25:08,568
+Serif'ler, daha önce de söylediğim gibi,
+bir karakterin çizgisinin ucundaki
+
+283
+00:25:08,568 --> 00:25:11,280
+küçük ayaklardır; slab serif'ler bunun istisnasıdır.
+
+284
+00:25:11,280 --> 00:25:17,813
+Serif font'lar gövde metni olarak kullanılabilir,
+çünkü okunması kolaydır ve gözü çok yormazlar.
+
+285
+00:25:17,813 --> 00:25:21,478
+Serif'ler alt gruplara ayrılabilir; ilki old style.
+
+286
+00:25:21,478 --> 00:25:28,145
+Bu font'lar 15. ve 18. yüzyıllar arasında ilk baskı
+süreçlerinde metal harf olarak kullanılmak üzere geliştirildi.
+
+287
+00:25:28,145 --> 00:25:32,830
+Hafif yuvarlatılmış, çanak biçimli
+ve eğimli serif'lere sahiptirler.
+
+288
+00:25:32,830 --> 00:25:37,385
+Serif'ler transitional da olabilir; bunlar 18. yüzyılda
+
+289
+00:25:37,385 --> 00:25:41,870
+old style font'larla modern stiller
+arasında bir geçiş olarak ortaya çıktı.
+
+290
+00:25:41,870 --> 00:25:45,660
+Buradaki temel özellik daha keskin serif'lerdir.
+
+291
+00:25:45,660 --> 00:25:50,850
+Modern serif'ler, baskı süreçlerindeki ilerlemeler
+sayesinde ayrıntıda daha rafine hâle geldi.
+
+292
+00:25:50,850 --> 00:26:00,567
+Tamamen düz ve yassı serif'lere sahiptirler;
+bu da onları bazen daha az okunaklı ama daha şık gösterebilir.
+
+293
+00:26:00,567 --> 00:26:02,556
+Son olarak slab serif'ler var.
+
+294
+00:26:02,556 --> 00:26:05,816
+Bunları diğer serif alt
+gruplarından ayırt etmek kolaydır.
+
+295
+00:26:05,816 --> 00:26:12,074
+Serif'leri ağır ve kareseldir,
+çizgi kalınlıkları da aynıdır, yani çok tekdüzedirler.
+
+296
+00:26:12,074 --> 00:26:17,165
+Bu tür font'lar 1800'lerin
+başında reklamlarda kullanılırdı.
+
+297
+00:26:17,165 --> 00:26:25,211
+Script: bunlar el yazısının akışına dayanır ve
+iki ana kategoriye ayrılır: formal ve casual.
+
+298
+00:26:25,211 --> 00:26:30,280
+Formal script'ler, düğün davetiyelerinde ve
+diplomalarda kullanılan zarif typeface'lerdir.
+
+299
+00:26:30,280 --> 00:26:34,570
+17. ve 18. yüzyıl yazılarından ilham alırlar.
+
+300
+00:26:34,570 --> 00:26:39,930
+Birbirine bağlanan kuyruklar ve süslemeler
+taşırlar; çok zarif, çok asil görünürler.
+
+301
+00:26:39,930 --> 00:26:43,978
+Casual script'ler 20. yüzyılın
+fırça darbelerinden ilham alır.
+
+302
+00:26:43,978 --> 00:26:47,870
+Formal script'lere göre daha rahat ve samimidirler.
+
+303
+00:26:47,870 --> 00:26:55,010
+Monospaced typeface'lerin sabit bir genişliği vardır,
+yani tüm karakterler aynı miktarda yatay alan kaplar.
+
+304
+00:26:55,010 --> 00:26:58,610
+Bu font'lar akla daktiloları ve
+bilgisayar programlamayı getirir.
+
+305
+00:26:58,610 --> 00:27:07,310
+Yine de seyrek, minimal ve tasarlanmamış bir his arayan
+tasarımcılar için mükemmel bir seçim olabilirler.
+
+306
+00:27:07,310 --> 00:27:10,850
+Display font'lar önceki kategorilerin hiçbirine uymaz.
+
+307
+00:27:10,850 --> 00:27:13,710
+En büyük ve en çeşitli kategorilerden biridir.
+
+308
+00:27:13,710 --> 00:27:18,620
+Display font'lar gövde metni için uygun
+değildir ve çoğu zaman deneyseldir.
+
+309
+00:27:18,620 --> 00:27:23,690
+Graffiti font'ları, dövme font'ları, fantastik
+font'lar ve daha fazlası bunlara örnektir.
+
+310
+00:27:23,690 --> 00:27:28,370
+Variable font'lar aslında bir typeface
+stili değil, daha çok bir dosya formatıdır.
+
+311
+00:27:28,370 --> 00:27:33,299
+Google, Apple, Microsoft ve
+Adobe'nin ortaklaşa geliştirdiği
+
+312
+00:27:33,299 --> 00:27:37,360
+bu OpenType formatı, OTF Variations
+adlı yeni bir teknoloji içerir.
+
+313
+00:27:37,360 --> 00:27:46,364
+Bir variable font, bir font'un tüm glyph setini weight,
+width ve slant dahil 64.000'e kadar varyantla içerebilir.
+
+314
+00:27:46,364 --> 00:27:51,858
+Genel bir kural olarak, serif ve sans serif
+font'lar uzun metinlerde kullanılabilir.
+
+315
+00:27:51,858 --> 00:27:57,459
+Bu ikisini karıştırmak sorun değil,
+ama üçten fazla font dikkat dağıtıcı olabilir.
+
+316
+00:27:57,459 --> 00:28:02,426
+Bu font'ların çoğunu Envato Elements'ten kendi
+kişisel projelerimde zaten kullanıyorum.
+
+317
+00:28:02,426 --> 00:28:04,545
+Bu font'ların kalitesi harika.
+
+318
+00:28:04,545 --> 00:28:08,867
+Zengin bir kütüphaneyle müşterileri
+etkileyebilir ve çok zaman kazanabilirsin.
+
+319
+00:28:08,867 --> 00:28:12,485
+Tek bir abonelikle, font'ların
+ötesine geçen sınırsız kaynağa
+
+320
+00:28:12,485 --> 00:28:17,177
+erişimim var: fotoğraflar, müzik,
+ses efektleri ve grafik şablonları gibi.
+
+321
+00:28:17,177 --> 00:28:20,883
+Açıklamadaki bağlantıdan abone olabilirsin.
+
+322
+00:28:20,883 --> 00:28:25,848
+Okunaklılığı ve netliği her
+zaman ön planda tutmak önemli.
+
+323
+00:28:25,848 --> 00:28:31,789
+Unutma, grafik tasarımcı olarak
+işimiz bilgiyi iletmek ve düzenlemek.
+
+324
+00:28:31,789 --> 00:28:39,784
+Dizgi, bir tasarım parçasını netlik ve rahatlık
+kazanacak şekilde cilalamaya yardımcı olur.
+
+325
+00:28:39,784 --> 00:28:45,820
+Pek çok tasarımcı ayrıntıya bu kadar özen göstermez,
+ama sen gösterirsen bu çok şey anlatır.
+
+326
+00:28:45,820 --> 00:28:48,990
+O hâlde readability ile başlayalım.
+
+327
+00:28:48,990 --> 00:28:53,440
+Readability, harflerin sayfada
+nasıl dizildiğiyle ilgilidir.
+
+328
+00:28:53,440 --> 00:29:01,510
+Yazılı içeriğin sade ve kolay okunur bir şekilde
+akması için font'ların ve kelimelerin düzenlenmesidir.
+
+329
+00:29:01,510 --> 00:29:04,900
+Legibility ise bir typeface'in nasıl işlediğidir.
+
+330
+00:29:04,900 --> 00:29:09,293
+Harfleri ya da kelimeleri birbirinden
+ayırt etmenin ne kadar kolay
+
+331
+00:29:09,293 --> 00:29:14,650
+olduğunun ve metin bloklarının ne
+kadar kolay okunduğunun ölçüsüdür.
+
+332
+00:29:14,650 --> 00:29:19,128
+x-height, karakter genişliği, weight
+
+333
+00:29:19,128 --> 00:29:22,924
+ve diğer tasarım özellikleri gibi, bir font'un okunaklı
+olup olmadığını belirleyen farklı etkenler var.
+
+334
+00:29:22,924 --> 00:29:31,513
+Boyut: harf boyutu ne kadar küçükse okumak o kadar zorlaşır,
+özellikle de hedef kitlende çocuklar ya da yaşlılar varsa.
+
+335
+00:29:31,513 --> 00:29:35,069
+İçeriği kimin için tasarladığını
+her zaman göz önünde bulundur.
+
+336
+00:29:35,069 --> 00:29:43,588
+Satır uzunluğu ya da sütun genişliği: genel bir kural
+olarak satır başına 45 ile 70 karakter arasında olmalı.
+
+337
+00:29:43,588 --> 00:29:48,658
+Sütun genişliği çok dar olduğunda çok
+sayıda tireyle bölünmüş kelime oluşabilir
+
+338
+00:29:48,658 --> 00:29:52,021
+ve göz çok sık bir sonraki satıra atlamak zorunda kalır.
+
+339
+00:29:52,021 --> 00:29:58,060
+Öte yandan uzun satırlar, okuyucu satırdan
+satıra geçerken kafa karışıklığına yol açabilir.
+
+340
+00:29:58,060 --> 00:30:02,403
+Leading ya da satır aralığı: bir metin
+kutusunda ihtiyaç duyacağın leading miktarı,
+
+341
+00:30:02,403 --> 00:30:07,020
+kullandığın font'un harf boyutuna
+ve x-height'ına bağlıdır.
+
+342
+00:30:07,020 --> 00:30:10,725
+Readability'yi en üst düzeye çıkarmak için
+yeterli satır aralığı olduğundan emin ol,
+
+343
+00:30:10,725 --> 00:30:15,720
+çünkü satır aralığı çok az olursa
+satırlar birbirine çarpabilir.
+
+344
+00:30:15,720 --> 00:30:22,724
+Tracking ya da harf aralığı: bu, bir metin satırındaki
+bir grup harf arasındaki boşluğu ifade eder.
+
+345
+00:30:22,724 --> 00:30:28,485
+Tracking'i ayarlamak readability'yi artırabilir
+ve bir metin kutusunun dokusunu değiştirebilir.
+
+346
+00:30:28,485 --> 00:30:34,310
+Kerning, bir kelime içindeki iki ayrı
+karakter arasındaki boşluğun ayarlanmasıdır.
+
+347
+00:30:34,310 --> 00:30:38,158
+Çoğunlukla logo'larda ya da başlıklarda
+legibility'yi artırmak için kullanılır.
+
+348
+00:30:38,158 --> 00:30:47,381
+Alignment: Batı dillerindeki paragraflarda alignment,
+bir metin bloğunun ima ettiği görünmez dikey çizgileri ifade eder.
+
+349
+00:30:47,381 --> 00:30:52,679
+Metin sola hizalandığında her yeni
+satır x ekseninde aynı noktadan başlar.
+
+350
+00:30:52,679 --> 00:30:59,893
+Sağa hizalama pek sık kullanılmaz, ortaya hizalama
+ise yalnızca kısa metinlerde kullanılmalı.
+
+351
+00:30:59,893 --> 00:31:08,133
+Rag'ler: bunlar bir metin bloğu sola ya da sağa
+hizalandığında oluşan düzensiz dikey kenarlardır.
+
+352
+00:31:08,133 --> 00:31:14,622
+Bunları gereken yerlerde kelimeleri tireyle bölerek ya da
+yeni bir satır sonu için soft return yaparak düzeltebilirsin.
+
+353
+00:31:14,622 --> 00:31:20,874
+Rag'ler daha çok görsel görünümle ilgilidir,
+ama burada okuma akışı da göz önünde bulundurulmalı.
+
+354
+00:31:20,874 --> 00:31:25,970
+River'lar: bunlar bir metin bloğunun
+içinden akıyormuş gibi görünen boşluklardır
+
+355
+00:31:25,970 --> 00:31:29,162
+ve genellikle justified metinlerde ortaya çıkar.
+
+356
+00:31:29,162 --> 00:31:32,751
+Bunu düzeltmenin yaygın bir yolu,
+metnin justification'ını kaldırmaktır
+
+357
+00:31:32,751 --> 00:31:37,201
+ya da her satırı tireleme ve soft
+return'lerle dizerek çözebilirsin.
+
+358
+00:31:37,201 --> 00:31:41,594
+Orphan ve widow'lar: orphan,
+bir sayfanın ya da sütunun başında kalan,
+
+359
+00:31:41,594 --> 00:31:46,950
+metnin geri kalanından kopmuş paragraf açılış satırıdır.
+
+360
+00:31:46,950 --> 00:31:53,637
+Widow ise bir paragrafın sonunda metnin geri
+kalanından kopmuş tek bir kelime ya da satırdır.
+
+361
+00:31:53,637 --> 00:32:00,121
+Bu iki sorunu kerning'i ya da tracking'i ayarlayarak
+veya elle satır sonu ekleyerek çözebilirsin.
+
+362
+00:32:00,121 --> 00:32:02,555
+Ve son olarak, font case, yani harf büyüklüğü.
+
+363
+00:32:02,555 --> 00:32:07,243
+Uppercase, cümledeki her
+karakterin büyük harf olmasıdır.
+
+364
+00:32:07,243 --> 00:32:10,788
+Lowercase, hiçbir harfin büyük olmamasıdır.
+
+365
+00:32:10,788 --> 00:32:17,108
+Sentence case, cümlenin ilk kelimesinin
+ilk harfinin büyük olmasıdır.
+
+366
+00:32:17,108 --> 00:32:21,728
+Title case ise her kelimenin
+ilk harfinin büyük olmasıdır.
+
+367
+00:32:21,728 --> 00:32:22,785
+Hepsi bu kadar.
+
+368
+00:32:22,785 --> 00:32:27,926
+Bu derste grafik tasarımın en temel
+unsurlarından birini öğrendin.
+
+369
+00:32:27,926 --> 00:32:33,290
+Mesajları başarıyla iletebilmek için
+typography'yi iyi kullanmak önemli.
+
+370
+00:32:33,290 --> 00:32:36,725
+Şimdi grafik tasarımın geri kalanına bakma zamanı.
+
+371
+00:32:36,725 --> 00:32:43,981
+Bu bölümde, önceki bölümdeki kavramlar
+için tasarım örneklerine bakacağız.
+
+372
+00:32:43,981 --> 00:32:48,347
+Disipline göre farklı tasarım kararları
+vermen gerektiğini öğreneceksin.
+
+373
+00:32:48,347 --> 00:32:56,640
+Ve her zaman üzerinde çalışılan bir brief olduğunu,
+ulaşılması gereken bir tasarım çözümü, iletilecek bir mesaj
+
+374
+00:32:56,640 --> 00:32:58,924
+ve tasarladığımız bir kullanıcı
+olduğunu aklında tutacaksın.
+
+375
+00:32:58,924 --> 00:33:06,719
+Ayrıca print design'a, dijital ürün tasarımının yeni tanımına,
+dijital tasarıma ve marka tasarımına da bakacağız.
+
+376
+00:33:06,719 --> 00:33:14,808
+Branding projelerimden biri üzerinden marka tasarım sürecine,
+çizim masasına geçmeden önce bilmen gerekenlere,
+
+377
+00:33:14,808 --> 00:33:17,335
+geliştirme sürecine, teslim edilecek işlere
+
+378
+00:33:17,335 --> 00:33:22,265
+ve marka tasarımını şirketlerin temel parçası
+hâline getiren marka kimliği örneklerine bakacağız.
+
+379
+00:33:22,265 --> 00:33:24,568
+Hadi başlayalım.
+
+380
+00:33:24,568 --> 00:33:29,450
+Print design, nihai hâli basılmak
+üzere tasarlanan her türlü tasarımdır.
+
+381
+00:33:29,450 --> 00:33:34,350
+Dijital araçların yükselişinden
+beri her tasarım büyük ihtimalle
+
+382
+00:33:34,350 --> 00:33:38,797
+bilgisayarda, hatta bir web sayfasında
+tasarlanıyor ama son ürün basılıyor.
+
+383
+00:33:38,797 --> 00:33:43,334
+Broşürler, alışveriş poşetleri, çıkartmalar, etiketler,
+
+384
+00:33:43,334 --> 00:33:47,396
+kitap kapakları, posterler, kartvizitler,
+el ilanları ve dergiler gibi her şey buna dahil.
+
+385
+00:33:47,396 --> 00:33:49,527
+Poster tasarımıyla başlayalım.
+
+386
+00:33:49,527 --> 00:33:53,067
+Her tasarımcı kariyerinde en
+az bir poster tasarlamıştır.
+
+387
+00:33:53,067 --> 00:33:57,361
+Poster tasarımında birinci öncelik,
+temel bilgiyi öne çıkarmaktır.
+
+388
+00:33:57,361 --> 00:34:03,671
+Ve uzaktan kolayca okunabilmesi için alan
+kullanımı ve hierarchy burada çok önemli.
+
+389
+00:34:03,671 --> 00:34:12,572
+Bu posterde bir metin grubunu ortaya yerleştirerek balance
+kurulduğunu görüyoruz, tasarım öğeleri de posterin iki yanında.
+
+390
+00:34:12,572 --> 00:34:19,894
+Yüksek contrast var, yalnızca arka planda değil,
+metin boyutunda da, bu da hierarchy kurmaya yardımcı oluyor.
+
+391
+00:34:19,894 --> 00:34:26,857
+Arka plan, durağan kalabilecek bir tasarım
+öğeleri grubuna hoş bir hareket dokunuşu katıyor.
+
+392
+00:34:26,857 --> 00:34:31,757
+Arka plandaki renklerde contrast olsa
+da tasarımcı soğuk tonlar da kullanmış.
+
+393
+00:34:31,757 --> 00:34:36,680
+Daha fazla görsel gürültü yaratmamak için bu,
+siyah beyaz yazıyla dengelenmiş.
+
+394
+00:34:36,680 --> 00:34:39,844
+Son olarak, burada kullanılan font bir sans serif.
+
+395
+00:34:39,844 --> 00:34:44,914
+Uzaktan okuması çok kolay,
+metin kısa ve öz, tarih ve saat
+
+396
+00:34:44,914 --> 00:34:49,779
+birlikte gruplanmış, hashtag'lerin
+de altta ayrı küçük bir grubu var.
+
+397
+00:34:49,779 --> 00:34:54,844
+Yani iyi bir uyumla ve hierarchy'nin
+iyi kullanımıyla bölünmüş.
+
+398
+00:34:54,844 --> 00:35:02,665
+Gözümüz önce ortadaki ana metne, sonra tarihe
+ve en son alttaki hashtag'lere gidiyor.
+
+399
+00:35:02,665 --> 00:35:07,763
+Böylece insanlar gözlerinin nereye gitmesi
+gerektiği konusunda kafa karışıklığı yaşamıyor.
+
+400
+00:35:07,763 --> 00:35:10,249
+Şimdi kitap tasarımına bakalım.
+
+401
+00:35:10,249 --> 00:35:14,902
+Kitaplar, MÖ dördüncü binyılda
+antik tomarlar olarak başladı.
+
+402
+00:35:14,902 --> 00:35:23,075
+O zamandan beri günlük hayatımızın bir parçası ve el yazmasından
+basılı sayfalara, oradan da dijital hâle evrildiler.
+
+403
+00:35:23,075 --> 00:35:24,579
+Kitaplar bilgi taşır.
+
+404
+00:35:24,579 --> 00:35:27,423
+İşte metin dizgisi burada önem kazanıyor.
+
+405
+00:35:27,423 --> 00:35:32,671
+Tasarımcılar olarak rahat ve kolay
+okunan kitaplar yapmak isteriz.
+
+406
+00:35:32,671 --> 00:35:38,296
+Bu kitap tasarımında hierarchy
+kuran birkaç yazı stili var.
+
+407
+00:35:38,296 --> 00:35:45,122
+İçindekiler tablosu, yani TOC,
+ve karşılama metin kutusu aynı font ve boyutta.
+
+408
+00:35:45,122 --> 00:35:49,205
+Bu boyut diğerlerinden büyük, hierarchy böyle kuruluyor.
+
+409
+00:35:49,205 --> 00:35:54,248
+Sayfalar boyunca malzeme listesinin
+yerleşimiyle repetition görüyoruz.
+
+410
+00:35:54,248 --> 00:36:02,982
+Kitap tasarımında fotoğraf çok önemlidir, çünkü sayfadaki
+tasarım öğeleri arasında contrast yaratmaya yardımcı olur.
+
+411
+00:36:02,982 --> 00:36:08,602
+Görselleri göstermenin pek çok yolu var:
+kare, dikdörtgen ve daire içinde.
+
+412
+00:36:08,602 --> 00:36:12,856
+Burada yüksek kaliteli fotoğraf kullanman önemli,
+
+413
+00:36:12,856 --> 00:36:18,879
+bazen tasarımcıların ya da projelerin
+özel fotoğraf çektirecek bütçesi olmaz,
+
+414
+00:36:18,879 --> 00:36:21,707
+o yüzden hazır tasarım asset'leri
+kullanmak tamamen sorunsuz.
+
+415
+00:36:21,707 --> 00:36:28,434
+Buradaki ana metin bir sans serif font'la dizilmiş,
+çünkü romandaki gibi uzun bir bilgi yok.
+
+416
+00:36:28,434 --> 00:36:34,257
+Geometrik bir sans serif font gayet uygun, ayrıca
+typeface'ler arasında contrast da görebiliyoruz.
+
+417
+00:36:34,257 --> 00:36:39,727
+Kitap tasarımı için fotoğraf seçmek,
+poster tasarımına göre çok farklıdır.
+
+418
+00:36:39,727 --> 00:36:42,893
+Burada detay çekimleri çok güzel görünebilir.
+
+419
+00:36:42,893 --> 00:36:45,230
+Son olarak dergi tasarımına bakalım.
+
+420
+00:36:45,230 --> 00:36:50,400
+Dergiler kültürün ve toplumun doğrudan bir yansımasıdır.
+
+421
+00:36:50,400 --> 00:36:57,875
+1700'lerden beri genel ya da belirli konularda
+haber ve bilgi dağıtmak için kullanılıyorlar.
+
+422
+00:36:57,875 --> 00:37:05,189
+Bu çok amaçlı dergi şablonu harika bir sanat ve
+kültür dergisi, hatta bir moda dergisi olabilir.
+
+423
+00:37:05,189 --> 00:37:10,863
+Her spread, sol ve sağ sayfalar arasında
+harika bir görsel balance yakalıyor.
+
+424
+00:37:10,863 --> 00:37:15,238
+Görsel içeren sayfalar da bir
+birlik ve bütünlük hissi yaratıyor.
+
+425
+00:37:15,238 --> 00:37:17,296
+Hiçbir şey yerinde değilmiş gibi durmuyor.
+
+426
+00:37:17,296 --> 00:37:21,062
+Bazı spread'lerde renkli arka planla vurgu yaratılmış.
+
+427
+00:37:21,062 --> 00:37:27,815
+Typeface'lere gelince, sans serif tercihi
+yayını çağdaş, modern ve temiz gösteriyor.
+
+428
+00:37:27,815 --> 00:37:33,690
+Ayrıca iyi bir hierarchy duygusu ve folio ile,
+yani sayfa numarası ve bölümle bir oyun var.
+
+429
+00:37:33,690 --> 00:37:37,171
+Çoğu dergiden büyük olsa da ona keskin bir hava katıyor.
+
+430
+00:37:37,171 --> 00:37:43,930
+Dergi tasarımıyla kitap tasarımı arasındaki fark şu:
+dergi tasarımında biraz daha yaratıcı olabilirsin.
+
+431
+00:37:43,930 --> 00:37:49,969
+Dergilerin genelde bir konusu olur ya da trendlere
+dayanırlar, kitap tasarımlarının aksine.
+
+432
+00:37:49,969 --> 00:37:52,162
+Kitapların daha zamansız olması gerekir.
+
+433
+00:37:52,162 --> 00:37:54,453
+Print design için bu kadar.
+
+434
+00:37:54,453 --> 00:38:02,116
+Unutma, print design, nihai hâli basılmak üzere
+tasarlanan, yani fiziksel olan her türlü tasarımdır.
+
+435
+00:38:02,116 --> 00:38:07,180
+Bir sonraki derste dijital ürün tasarımına bakacağız.
+
+436
+00:38:07,180 --> 00:38:18,085
+Çoğumuz Amazon'dan alışveriş yaptık, Airbnb'den ev kiraladık
+ya da Instagram'da gezindik, hem telefonda hem de masaüstünde.
+
+437
+00:38:18,085 --> 00:38:24,865
+Bu sitelerin bazılarında gezinmek, tasarım ilkeleri
+ve kullanılabilirlik sayesinde son derece kolay.
+
+438
+00:38:24,865 --> 00:38:27,682
+Kullanım açısından bu siteler sezgisel.
+
+439
+00:38:27,682 --> 00:38:32,518
+İşte bu UI ve UX, yani tüm dijital
+ürün tasarımcılarının işi.
+
+440
+00:38:32,518 --> 00:38:34,321
+Peki tasarımın neden bir parçası?
+
+441
+00:38:34,321 --> 00:38:41,036
+Ürün tasarımı bağlamında dijital ürün bir yazılım
+uygulaması, web sitesi ya da platformdur.
+
+442
+00:38:41,036 --> 00:38:46,002
+2010'dan önce ürün kelimesi yalnızca
+somut malları ifade ediyordu.
+
+443
+00:38:46,002 --> 00:38:50,848
+Artık yazılımlar günlük hayatımızın
+olağan bir parçası olduğu için
+
+444
+00:38:50,848 --> 00:38:56,039
+tasarımcılar ve geliştiriciler
+bunlara somut bir ürün gibi bakıyor.
+
+445
+00:38:56,039 --> 00:39:01,108
+UI ve UX bazen birbirinin yerine
+kullanılıyor ama bu iki kavram örtüşür.
+
+446
+00:39:01,108 --> 00:39:05,812
+UX, kullanıcı deneyimi üzerine
+araştırma yapmaya odaklanır.
+
+447
+00:39:05,812 --> 00:39:10,141
+UI tasarımcıları da buna odaklanır
+ama daha sistematik bir düzeyde,
+
+448
+00:39:10,141 --> 00:39:14,861
+her şeyin iyi görünmesini ve iyi
+hissettirmesini sağlarlar, yani bütünlüğü.
+
+449
+00:39:14,861 --> 00:39:22,294
+Örneğin bu güzel UI ekranları setinde farklı ekranların
+birbiriyle nasıl uyum sağladığını görebiliyoruz.
+
+450
+00:39:22,294 --> 00:39:24,509
+Hepsinin belli bir ortak özelliği var.
+
+451
+00:39:24,509 --> 00:39:30,745
+Sade bir color palette ve öne çıkan bir call
+to action'la başlayalım, bunlar da butonlar.
+
+452
+00:39:30,745 --> 00:39:34,471
+Burada "read more" ya da "play" de olabilir.
+
+453
+00:39:34,471 --> 00:39:40,858
+Typographic öğeler ve typographic sistem
+sayesinde güçlü bir hierarchy duygusu var.
+
+454
+00:39:40,858 --> 00:39:45,548
+Başlığın hangisi olduğu ya da hangi
+bilginin daha önemli olduğu açık.
+
+455
+00:39:45,548 --> 00:39:50,418
+Genel olarak, color palette kullanımıyla
+güçlü bir balance ve birlik duygusu var.
+
+456
+00:39:50,418 --> 00:39:53,928
+İllüstrasyon stili bir ekrandan diğerine uyumlu.
+
+457
+00:39:53,928 --> 00:40:02,293
+Telefonlarda veri görselleştirme gibi karmaşık bilgileri
+gösterirken düzen kurmak, hierarchy oluşturmak,
+
+458
+00:40:02,293 --> 00:40:06,744
+balance sağlamak önemli. Renk seçimleri
+de önem kazanıyor ve iş çok sistematik.
+
+459
+00:40:06,744 --> 00:40:15,190
+Özellikle bilginin net hâle getirilmesi, kolay anlaşılması
+gerektiği için, burası gerçekten "az çoktur" denen yer.
+
+460
+00:40:15,190 --> 00:40:23,057
+Artık dijital ürün tasarımının tanımını bildiğine göre,
+bir sonraki derste dijital tasarıma bakacağız.
+
+461
+00:40:23,057 --> 00:40:27,899
+Bu derste başka bir grafik tasarım
+disiplini olan dijital tasarıma bakacağız.
+
+462
+00:40:27,899 --> 00:40:32,900
+Grafik tasarım genel olarak çoğunlukla
+basılan durağan tasarımlara odaklanır.
+
+463
+00:40:32,900 --> 00:40:39,737
+Dijital tasarım ve grafik tasarım örtüşebilir; basılan ama
+dijital versiyonu da gereken dergilerde durum böyledir.
+
+464
+00:40:39,737 --> 00:40:45,464
+Dijital tasarım da durağan olabilir,
+ama genellikle dijital bir cihazda gösterilir.
+
+465
+00:40:45,464 --> 00:40:51,352
+Bazen animasyon, modelleme ve etkileşimli
+sayfalar gibi hareket de içerebilir.
+
+466
+00:40:51,352 --> 00:40:59,043
+Hareket söz konusu olduğunda framing önemlidir; öğelerin
+kadrajda nasıl yerleştiğidir, tasarım ilkelerine benzer,
+
+467
+00:40:59,043 --> 00:41:02,005
+ama işin içinde hareket olduğunu aklında tutarak.
+
+468
+00:41:02,005 --> 00:41:08,675
+Bu videoda kamera uçurumun arkasından kayarak
+bir menderesi ve suyu ortaya çıkarıyor.
+
+469
+00:41:08,675 --> 00:41:16,297
+Son kare ortalanmış, dengeli ve durağan,
+çünkü kıvrım ya da eğri zaten kadraja hareket katıyor.
+
+470
+00:41:16,297 --> 00:41:21,887
+Bu eğri sayesinde video çok düz ve hizalı görünüyor.
+
+471
+00:41:21,887 --> 00:41:27,352
+Durağan olan ama yalnızca ekranda kullanılan bir
+dijital tasarım örneği YouTube thumbnail'ıdır.
+
+472
+00:41:27,352 --> 00:41:32,283
+YouTube giderek popülerleştiğinden
+beri çok popüler bir tasarım öğesi.
+
+473
+00:41:32,283 --> 00:41:38,345
+YouTube thumbnail'larının cezbedici, ilginç görünmesi
+ve sadece birkaç milisaniyede dikkat çekmesi gerekir.
+
+474
+00:41:38,345 --> 00:41:42,816
+O yüzden sans serif bir font kullanmak
+ideal, kolay okunduğundan emin ol.
+
+475
+00:41:42,816 --> 00:41:50,381
+Thumbnail'ın boyutu küçük olduğu için tasarım
+çok karmaşık olmamalı, ilgi çekici renkler
+
+476
+00:41:50,381 --> 00:41:53,941
+ve göze çarpan ilginç kompozisyonlar kullanmalısın.
+
+477
+00:41:53,941 --> 00:41:57,049
+Bu banner reklam, dijital tasarımın mükemmel bir örneği.
+
+478
+00:41:57,049 --> 00:42:01,424
+Burada birden fazla boyut görüyoruz,
+ama hepsi aynı öğeleri kullanıyor.
+
+479
+00:42:01,424 --> 00:42:06,833
+Koyu arka plan dikkati ayakkabılara çekmeye
+yardımcı oluyor, açık renkli typography de öyle.
+
+480
+00:42:06,833 --> 00:42:11,593
+Sans serif font'lar, özellikle tamamı büyük harfle
+kullanıldığında aciliyet hissi yaratabilir.
+
+481
+00:42:11,593 --> 00:42:15,631
+Bilginin bazı kısımlarında daha çok dikkat
+çekmek için arka plan rengi kullanılmış.
+
+482
+00:42:15,631 --> 00:42:20,893
+Bu tür bir banner'ı genelde bir web
+sitesinde kaydırırken geçerken görürsün.
+
+483
+00:42:20,893 --> 00:42:25,727
+O yüzden bu tür tasarımın çarpıcı, kolay okunur olması
+
+484
+00:42:25,727 --> 00:42:30,450
+ve etkileyici bir görsel içermesi çok
+önemli, böylece tüm dikkat ona gider.
+
+485
+00:42:30,450 --> 00:42:33,884
+Unutma, dijital tasarım ve grafik
+tasarım çoğu konuda örtüşür.
+
+486
+00:42:33,884 --> 00:42:41,635
+Tek fark, grafik tasarım öğelerinin çoğunun sonunda basılması,
+dijital tasarımların ise her zaman ekranda gösterilmesi
+
+487
+00:42:41,635 --> 00:42:43,543
+ve son kullanımlarının ekran olması.
+
+488
+00:42:43,543 --> 00:42:50,817
+Bir sonraki derste marka tasarımına bakacağız,
+ki bu genellikle hem print design'ı hem dijital tasarımı içerir,
+
+489
+00:42:50,817 --> 00:42:54,527
+hatta bazen dijital ürün tasarımları da üretir.
+
+490
+00:42:54,527 --> 00:42:56,184
+Peki marka tasarımı nedir?
+
+491
+00:42:56,184 --> 00:43:03,479
+Marka tasarımı; logo, renk şeması, typography ve diğer
+destekleyici öğeler gibi temel marka unsurlarını ifade eder.
+
+492
+00:43:03,479 --> 00:43:09,570
+Bunlar bir markayı rakiplerinden ayırır ve
+tüketicilerin tanıdığı bir marka yapar.
+
+493
+00:43:09,570 --> 00:43:14,475
+İyi bir marka, tüm bu marka tasarım öğeleri
+aracılığıyla şirketin geçmişini, amacını,
+
+494
+00:43:14,475 --> 00:43:18,891
+değerlerini ve inançlarını anlamana yardımcı olur.
+
+495
+00:43:18,891 --> 00:43:21,948
+Bu derste marka tasarım sürecine bakacağız.
+
+496
+00:43:21,948 --> 00:43:26,343
+Bu benim kişisel sürecim: tasarlamaya başlamadan önce,
+
+497
+00:43:26,343 --> 00:43:31,018
+çizim masasına geçmeden önce bilmen gerekenler,
+geliştirme süreci ve teslim edilecek işler.
+
+498
+00:43:31,018 --> 00:43:40,050
+Ayrıca marka ve kimlik tasarımını şirketlerin temel parçası
+hâline getiren bazı ünlü marka örneklerine de bakacağız.
+
+499
+00:43:40,050 --> 00:43:44,725
+Bir ürün ya da hizmet için ayırt edici
+bir kimlik yaratmanın yanı sıra,
+
+500
+00:43:44,725 --> 00:43:50,510
+marka tasarımı bir şirketin ya da
+kuruluşun tüm imajını da kapsayabilir.
+
+501
+00:43:50,510 --> 00:44:00,000
+Marka tasarımının en önemli avantajı, tasarım öğelerini ve dili
+markalaştırmanın kitlenle özdeşleşmene yardımcı olmasıdır.
+
+502
+00:44:00,000 --> 00:44:09,853
+Örneğin bir tabela ya da blog yazısı görürsen, basılı ya da
+ekranda olan her şeyin hangi şirkete ait olduğu açık olmalı.
+
+503
+00:44:09,853 --> 00:44:12,762
+Branding sürecinin nasıl göründüğüne hızlıca bakalım.
+
+504
+00:44:12,762 --> 00:44:18,734
+Bu benim kişisel sürecim, böylece kendi markanı
+tasarlamaya nasıl başlayacağını bileceksin.
+
+505
+00:44:18,734 --> 00:44:25,399
+Müşterilerimden birine yaptığım bu marka sunumuna
+bakalım, branding sürecinin büyük kısmını içeriyor.
+
+506
+00:44:25,399 --> 00:44:30,207
+Süreç, Forebears Coffee Roasting
+müşterisiyle bir görüşmeyle başladı.
+
+507
+00:44:30,207 --> 00:44:37,013
+Bu görüşmede, sahibine kendi markasını kurmaya neyin ilham verdiği,
+geçmişi, sevdikleri, sevmedikleri gibi sorular sordum.
+
+508
+00:44:37,013 --> 00:44:42,515
+Ve markayı nasıl bir kişilik olarak
+gördüğünü, yani hedef pazarı,
+
+509
+00:44:42,515 --> 00:44:48,044
+yaşı, bu kahveyi genelde satın
+alacak insanların profillerini.
+
+510
+00:44:48,044 --> 00:44:54,765
+Hangi soruları soracağını bilmek önemli, sonra markayı
+tasarlarken işimize yarayacak ilhamı aramak için.
+
+511
+00:44:54,765 --> 00:45:04,465
+Sürecin bu kısmı gerçekten önemli, çünkü çok ama çok soru
+sormamız gerekiyor, bu aşamada her şey ilham kaynağı olabilir.
+
+512
+00:45:04,465 --> 00:45:11,299
+İkinci adım olarak, o görüşmeye dayanarak markayı
+götürmek istediğimiz yönü içeren bir sunum hazırladım:
+
+513
+00:45:11,299 --> 00:45:21,005
+markanın özü, kitlesi, markayı tanımlayan anahtar kelimeler ve
+bu markayı diğerlerinden ve rakiplerinden farklı kılan şey.
+
+514
+00:45:21,005 --> 00:45:24,260
+Tüm bu özellikleri müşteriye aktarmak
+için moodboard hazırlamak şart.
+
+515
+00:45:24,260 --> 00:45:30,859
+Bu kahve markası özellikle daha az bilinen kahve bölgelerini,
+özellikle de kadın üreticileri öne çıkarıyor.
+
+516
+00:45:30,859 --> 00:45:33,326
+Moodboard da bunun üzerine kuruldu.
+
+517
+00:45:33,326 --> 00:45:37,434
+Pinterest burada ilham için harika bir kaynak.
+
+518
+00:45:37,434 --> 00:45:41,743
+Dördüncü adım olarak, Forebears Coffee
+Roasting'in kendine özgü özelliklerine dayanarak
+
+519
+00:45:41,743 --> 00:45:47,142
+müşteriyle konuşulan her şeyden ilham
+alan bir color palette geliştirdim.
+
+520
+00:45:47,142 --> 00:45:51,490
+Onun kişisel hikâyesinden,
+geçmişinden ve marka özelliklerinden.
+
+521
+00:45:51,490 --> 00:45:58,820
+Bunun yanında, marka teslim edildiğinde uygulayabileceği
+klasik ve cesur renk kombinasyonları da sundum.
+
+522
+00:45:58,820 --> 00:46:04,342
+Oradan iki konsept geliştirilip müşteriye sunuldu,
+bir ile iki arasında konsept sunmanı öneririm.
+
+523
+00:46:04,342 --> 00:46:08,255
+Böylece konseptlerin kalitesine odaklanacak zaman olur.
+
+524
+00:46:08,255 --> 00:46:15,104
+Ve ilk görüşmede doğru sorular sorulduysa,
+o zaman yönelebileceğimiz belirli bir yön olur.
+
+525
+00:46:15,104 --> 00:46:21,597
+Unutma, iki farklı konsept çok farklı iki fikir demek,
+hem görünüşleri hem de hissettirdikleri açısından.
+
+526
+00:46:21,597 --> 00:46:24,860
+Yani mantıklı bir sunum hazırlamak çok önemli.
+
+527
+00:46:24,860 --> 00:46:30,070
+Konseptleri düzgün ve doğru
+kelimelerle anlatmak da önemli.
+
+528
+00:46:30,070 --> 00:46:35,379
+Çoğu zaman müşterilerimizin bizimle aynı tasarım
+bilgisine sahip olmadığını unutmamak gerek.
+
+529
+00:46:35,379 --> 00:46:40,960
+Konseptleri derinlemesine anlatmak,
+yaptığımız tasarım tercihlerini açıklamak önemli.
+
+530
+00:46:40,960 --> 00:46:48,434
+Renk teorisi, yani o konsepte dair her şey;
+bu aşamada müşteri geri bildirim vermeli
+
+531
+00:46:48,434 --> 00:46:52,320
+ve devam etmek için tek bir konsept seçmeli.
+
+532
+00:46:52,320 --> 00:46:59,435
+Sonraki adımda müşteriden gelen tüm geri bildirimi
+seçilen konsepte uygular ve tasarımı inceltiriz.
+
+533
+00:46:59,435 --> 00:47:04,522
+Burada collateral'ları da üretmeye başlayabilirsin,
+başlamadıysan tabii, ya da devam edersin.
+
+534
+00:47:04,522 --> 00:47:09,016
+Tasarımını baskıda ya da
+dijitalde test et; belki typeface
+
+535
+00:47:09,016 --> 00:47:16,081
+doğru typeface mi, kullandığın çizgiler fazla ince ya da
+fazla kalın mı, ya da biraz rötuş mu gerekiyor, anlarsın.
+
+536
+00:47:16,081 --> 00:47:19,650
+Oradan sonra müşteri için final sunumu hazırla.
+
+537
+00:47:19,650 --> 00:47:24,820
+Proje onaylandığında da brand
+guideline'ı oluşturma zamanı gelir.
+
+538
+00:47:24,820 --> 00:47:28,603
+Brand guideline oluşturmak işe
+yarar, çünkü böylece müşteri
+
+539
+00:47:28,603 --> 00:47:35,010
+ya da işletme, sen onların kurum içi tasarımcısı
+değilsen, tasarımını ileride kendisi uygulayabilir.
+
+540
+00:47:35,010 --> 00:47:40,400
+Bu örnekte bir brand guideline hazırladım,
+böylece müşteri markayı istediği gibi uygulayabilir.
+
+541
+00:47:40,400 --> 00:47:44,766
+Brand guideline'da color palette için kesin değerler,
+
+542
+00:47:44,766 --> 00:47:49,560
+logo margin'leri, farklı logoların nasıl
+kullanılacağı ve tipografi kuralları yer alıyor.
+
+543
+00:47:49,560 --> 00:47:52,836
+Sonraki adım, üzerinde anlaştığım
+teslim dosyalarını export etmek.
+
+544
+00:47:52,836 --> 00:48:01,533
+Benim durumumda, farklı logoları web ve baskı için farklı
+dosya formatlarında içeren bir tasarım paketi teslim ettim.
+
+545
+00:48:01,533 --> 00:48:09,824
+Farklı renkler, grafik öğeler, collateral tasarımları,
+baskıya hazır dosyalar, font'lar ve diğer ekstralar.
+
+546
+00:48:09,824 --> 00:48:17,419
+Böylece müşterimin ihtiyaç duyduğu her şey elinde, bu da küçük
+girişimciler ya da tek kişilik işletmeler için çok faydalı.
+
+547
+00:48:17,419 --> 00:48:24,671
+Böylece büyümeye devam edebilirler, özellikle
+girişimcilik yolculuklarının başındalarsa.
+
+548
+00:48:24,671 --> 00:48:29,848
+Şimdi başarılı ve uzun ömürlü
+markalardan birkaç örneğe bakalım.
+
+549
+00:48:29,848 --> 00:48:36,382
+İlki, ünlü İtalyan tasarımcı Massimo
+Vignelli'nin 1968 tarihli American Airlines'ı.
+
+550
+00:48:36,382 --> 00:48:42,399
+American Airlines marka kimliği,
+Haas Helvetica kullanımıyla ünlü.
+
+551
+00:48:42,399 --> 00:48:51,081
+Logo sadeliğiyle de ünlü; modern bir typeface kullanıyor
+ve kelimeler yarı kırmızı, yarı mavi yazılmış.
+
+552
+00:48:51,081 --> 00:48:53,282
+ABD'nin ulusal kimliği.
+
+553
+00:48:53,282 --> 00:48:58,831
+Yani tüm marka sistemi trendler ya da duygular
+yerine işlev ve mantığa odaklanmıştı.
+
+554
+00:48:58,831 --> 00:49:06,407
+Tasarımcılar bu özgün ve benzersiz markayı
+yeniden tasarladığında epey tartışma çıktı.
+
+555
+00:49:06,407 --> 00:49:12,584
+İkinci örnek ise Otl Aicher'ın 1972
+Münih Yaz Olimpiyat Oyunları tasarımı.
+
+556
+00:49:12,584 --> 00:49:20,558
+Münih 1972 markası tasarımcılar arasında güçlü, kapsamlı ve
+bugün bile ilham veren bir görsel kimlik olarak bilinir.
+
+557
+00:49:20,558 --> 00:49:24,338
+Bu branding projesinin o zamanki zorluğu,
+
+558
+00:49:24,338 --> 00:49:29,186
+Almanya'nın İkinci Dünya Savaşı sonrası imajını
+yeniden markalamak ve modernleştirmekti.
+
+559
+00:49:29,186 --> 00:49:38,218
+Otl Aicher muhteşem bir tasarım yarattı; ikonik, cesur ve dramatik,
+ama Alman tasarımının hassasiyet anlayışını kaybetmeden.
+
+560
+00:49:38,218 --> 00:49:47,321
+Amblem, ışık huzmelerinden bir taç temsil ediyor;
+kimlikte güçlü, oyuncu renkler ve kusursuz piktogramlar vardı.
+
+561
+00:49:47,321 --> 00:49:55,260
+Tasarım ekibi işi, tüm branding sistemine başarıyla oturan
+maskotu ve piktogramları tasarlamaya kadar götürdü.
+
+562
+00:49:55,260 --> 00:50:03,441
+Bugün bile taze görünen, çok güzel yapılandırılmış bir
+piktogram sistemi; oldukça sade ve son derece zamansız.
+
+563
+00:50:03,441 --> 00:50:08,919
+Bu kimlik sisteminin tamamı, yalnızca
+bir ülkeyi yeniden tanımlamanın değil,
+
+564
+00:50:08,919 --> 00:50:12,611
+bütün bir tasarımcı kuşağına ilham
+vermenin de harika bir örneği.
+
+565
+00:50:12,611 --> 00:50:18,693
+Bu bölümde, bugün var olan tasarım
+disiplinleri arasındaki farkı öğrendin.
+
+566
+00:50:18,693 --> 00:50:23,776
+Dijital ürün tasarımının yeni tanımını
+ve marka tasarım sürecini öğrendin.
+
+567
+00:50:23,776 --> 00:50:31,003
+Sonraki bölümde kullanabileceğin farklı tasarım araçlarına
+ve işimizi hızlandırabilecek tasarım asset'lerine bakacağız.
+
+568
+00:50:31,003 --> 00:50:34,951
+Tasarımcıların bir tasarım projesini
+yürütme biçimleri farklı farklıdır.
+
+569
+00:50:34,951 --> 00:50:41,291
+Ama bu süreçler farklı olsa da başarılı
+tasarımcılar en azından benzer bir yol izler.
+
+570
+00:50:41,291 --> 00:50:45,679
+Sağlam bir tasarım süreci,
+tasarımcıların kaliteli iş teslim etmesine,
+
+571
+00:50:45,679 --> 00:50:50,317
+işi düzenli görevlerle ve verimli bir
+şekilde bitirmesine yardımcı olur.
+
+572
+00:50:50,317 --> 00:50:54,590
+Üstelik daha iyi ve verimli tasarlamamıza
+yardım eden pek çok araç var.
+
+573
+00:50:54,590 --> 00:51:01,470
+Bu bölümde, projelerini tasarım sürecinin her aşamasında
+geliştirmene yardımcı olabilecek bazı kullanışlı araçlara bakacağız.
+
+574
+00:51:01,470 --> 00:51:06,481
+Daha kolay bir iş akışı, moodboard hazırlama ve
+color palette geliştirme araçlarını ele alacağız,
+
+575
+00:51:06,481 --> 00:51:09,879
+ayrıca tasarım asset'lerine ve faydalarına bakacağız.
+
+576
+00:51:09,879 --> 00:51:17,321
+Ama önce farklı tasarım disiplinlerine ve
+bunların birbiriyle nasıl kesiştiğine bakalım.
+
+577
+00:51:17,321 --> 00:51:19,942
+İlk olarak farklı tasarım disiplinlerinden bahsedelim.
+
+578
+00:51:19,942 --> 00:51:24,726
+Grafik tasarım, özünde, problemleri çözmek ve fikirleri
+
+579
+00:51:24,726 --> 00:51:30,611
+typography, görsel, renk ve form gibi tasarım öğeleriyle
+iletmek için görsel kompozisyonlar oluşturmaktır.
+
+580
+00:51:30,611 --> 00:51:35,001
+Bunun tek bir tarifi yok, bu yüzden birçok disiplin var.
+
+581
+00:51:35,001 --> 00:51:40,702
+Pazarlama ya da reklam, ambalaj ve görsel
+kimlik ya da branding'den söz edebiliriz.
+
+582
+00:51:40,702 --> 00:51:47,116
+Tasarımcılar, grafik tasarım öğelerini başarıyla
+kullanarak bu hedefleri tutturduğumuzdan emin olur.
+
+583
+00:51:47,116 --> 00:51:54,617
+Bir markanın yalnızca ambalajda değil, iletişimde
+ve grafik dilde de tutarlı görünmesini sağlarlar.
+
+584
+00:51:54,617 --> 00:51:59,270
+Oyun tasarımı, motion graphics ya da
+animasyon, deneyimli birine dayanabilir.
+
+585
+00:51:59,270 --> 00:52:06,091
+İllüstrasyonda da öyle; UI ve UX da sınırları
+bulanıklaşmış iki disiplin, web tasarımı da öyle.
+
+586
+00:52:06,091 --> 00:52:12,840
+Bunlar yalnızca görsellikle ilgilenmez, insanların dijital
+ürün tasarımlarıyla nasıl etkileşim kurduğuyla da ilgilenir.
+
+587
+00:52:12,840 --> 00:52:19,535
+Art director'lar, tek bir projede yer alan
+tasarımcıların ya da diğer yaratıcıların
+
+588
+00:52:19,535 --> 00:52:23,330
+işini koordine etmekten ve
+denetlemekten sorumlu tasarımcılardır.
+
+589
+00:52:23,330 --> 00:52:31,639
+Mesela bir dergi tasarımından bahsediyorsak,
+burada fotoğrafçılar, editörler, bazen illüstratörler
+
+590
+00:52:31,639 --> 00:52:35,342
+ve her şeyi bir araya getirecek tasarımcı vardır.
+
+591
+00:52:35,342 --> 00:52:42,306
+Creative director'ün rolü genelde art director'ün
+üstündedir; tüm yaratıcı operasyonlarla ilgilenir
+
+592
+00:52:42,306 --> 00:52:47,930
+ve genelde yaratıcı konseptleri sunar,
+çoğu zaman müşterilerle doğrudan iletişim kurar.
+
+593
+00:52:47,930 --> 00:52:52,913
+Gördüğün gibi pek çok farklı
+disiplin var ve çoğu tasarımcı,
+
+594
+00:52:52,913 --> 00:52:57,841
+teknolojinin hızla ilerlemesi yüzünden
+birden fazlasında uzmanlaşıyor.
+
+595
+00:52:57,841 --> 00:53:04,390
+Farklı disiplinler olsa da bu
+işlerin çoğunun iş akışı benzer.
+
+596
+00:53:04,390 --> 00:53:09,751
+Genelde müşteriden ya da art veya
+creative director'den gelen,
+
+597
+00:53:09,751 --> 00:53:15,210
+projenin ayrıntılarını, amacını ve hedeflerini
+içeren bir design brief ile başlarız.
+
+598
+00:53:15,210 --> 00:53:20,782
+Ardından, araştırmadan çıkan her şeyi
+topladığımız beyin fırtınası aşaması gelir
+
+599
+00:53:20,782 --> 00:53:24,735
+ve problemi olabildiğince çok açıdan çözmeye çalışırız.
+
+600
+00:53:24,735 --> 00:53:30,013
+Bu beyin fırtınası aşamasının sonunda
+tasarımcıların elinde birden çok çözüm
+
+601
+00:53:30,013 --> 00:53:38,171
+ve konsept olmalı; ideali, çözümleri en fazla üç konsepte
+indirmek, tercihen ikiye, tek olursa daha da iyi.
+
+602
+00:53:38,171 --> 00:53:41,863
+Sonra, tabiri caizse, elini taşın altına koyma zamanı
+
+603
+00:53:41,863 --> 00:53:47,020
+ve müşteriye ya da ekibe sunmak için kaba
+eskizler ya da layout'lar hazırlarsın.
+
+604
+00:53:47,020 --> 00:53:53,085
+Eskizlerin ne kadar kaba olacağına sen karar verirsin,
+bu biraz da projeye ayırabildiğin zamana bağlı.
+
+605
+00:53:53,085 --> 00:53:57,500
+Müşteriye yapılan konsept sunumu kısa ve öz olmalı.
+
+606
+00:53:57,500 --> 00:54:04,946
+Unutma, müşteriler çoğu zaman tasarımcı değildir,
+bu yüzden her konsepti ayrıntılı anlatmak
+
+607
+00:54:04,946 --> 00:54:07,785
+ve neden belli kararlar aldığımızı açıklamak önemli.
+
+608
+00:54:07,785 --> 00:54:09,424
+Müşteriler geri bildirim verir.
+
+609
+00:54:09,424 --> 00:54:16,264
+İdeali, bu geri bildirimin "beğendim" ya da "beğenmedim"den
+fazlasını içermesi ve daha konsept odaklı olması.
+
+610
+00:54:16,264 --> 00:54:23,932
+Sonraki adım, müşterinin geri bildirimini tasarıma
+işlemek, ayrıntıları cilalamak, final ürünü sunmak
+
+611
+00:54:23,932 --> 00:54:26,280
+ve gerekli dijital dosyaları teslim etmek.
+
+612
+00:54:26,280 --> 00:54:35,580
+Baskıya gönderilecekse bir PDF'e ihtiyacın olur,
+web sitesiyse yayına alman gerekir, bazen de ikisi birden.
+
+613
+00:54:35,580 --> 00:54:40,340
+Şimdi tasarımcıların kullandığı farklı
+yazılımlardan bazılarına bakalım.
+
+614
+00:54:40,340 --> 00:54:44,438
+Eskiden afiş tasarımları elle çizilir ve elle boyanırdı,
+
+615
+00:54:44,438 --> 00:54:52,806
+bazen litografi ya da kromolitografi gibi süreçlerle çok renkli
+afişler elde etmek için birden fazla mürekkep katmanıyla.
+
+616
+00:54:52,806 --> 00:54:58,701
+Artık tasarım, ekranına basit bir kaydırma ve
+dokunmayla herkesin erişebileceği bir şey.
+
+617
+00:54:58,701 --> 00:55:03,345
+Adobe Suite gibi profesyonel yazılım
+paketleri, daha önce bahsettiğimiz
+
+618
+00:55:03,345 --> 00:55:06,521
+tasarım disiplinlerinin çoğu
+için pek çok yazılım içeriyor.
+
+619
+00:55:06,521 --> 00:55:13,010
+Adobe InDesign dergi, kitap tasarımı ve çok
+sayfalı dokümanlar yayınlamak için harika.
+
+620
+00:55:13,010 --> 00:55:17,090
+Photoshop dijital boyama ve fotoğraf işleri için iyi.
+
+621
+00:55:17,090 --> 00:55:20,272
+Lightroom daha uzmanlaşmış fotoğraf işleri için,
+
+622
+00:55:20,272 --> 00:55:25,857
+Illustrator ise vector tabanlı tasarımlar,
+illüstrasyonlar ve logo tasarımları için harika.
+
+623
+00:55:25,857 --> 00:55:33,720
+Videolar için Premiere Pro, motion graphics için After Effects;
+Adobe Suite bugünlerde sektör standardı hâline geldi.
+
+624
+00:55:33,720 --> 00:55:39,864
+Figma, UX, wireframe ya da arayüz tasarımı
+için harika bir ortak çalışma web uygulaması.
+
+625
+00:55:39,864 --> 00:55:44,461
+Şunu not et: burada uygulama ya da web sitesi
+geliştiremezsin, sadece prototip oluşturabilirsin.
+
+626
+00:55:44,461 --> 00:55:49,357
+Figma, ekibinle paylaşmak üzere kütüphaneler ve
+şablonlar üzerinde ortak çalışmana imkân verir.
+
+627
+00:55:49,357 --> 00:55:53,020
+Kısmen ücretsiz bir başka web uygulaması da Canva.
+
+628
+00:55:53,020 --> 00:55:59,309
+Bu kullanıcı dostu uygulama son birkaç yılda
+tasarımcı olmayanlar arasında çok popüler oldu.
+
+629
+00:55:59,309 --> 00:56:05,178
+Afiş, reklam, video ve sosyal medya görselleri
+gibi pazarlama tasarımları oluşturabilirsin.
+
+630
+00:56:05,178 --> 00:56:10,889
+Figma ve Canva ücretsiz bir planla başlıyor,
+sonra farklı abonelik modellerine geçiyor.
+
+631
+00:56:10,889 --> 00:56:15,260
+Adobe Illustrator alternatifleri arıyorsan, bolca var.
+
+632
+00:56:15,260 --> 00:56:19,819
+Affinity Designer'ın aylık abonelik
+yerine tek seferlik bir ücreti var.
+
+633
+00:56:19,819 --> 00:56:27,719
+Sketch ve CorelDRAW gibi diğer uygulamalar da tek seferlik
+ücretli, Inkscape ise harika bir ücretsiz seçenek.
+
+634
+00:56:27,719 --> 00:56:32,669
+InDesign tarafında ise bugünlerde
+giderek daha çok kullanılan
+
+635
+00:56:32,669 --> 00:56:36,894
+bir başka masaüstü yayıncılık uygulaması
+Affinity Publisher; o da tek seferlik ücretli.
+
+636
+00:56:36,894 --> 00:56:45,283
+Son sürümü, Adobe InDesign'ın sunduklarına epey yakın ve
+InDesign dosyalarını içe aktarıp orada çalışabiliyorsun bile.
+
+637
+00:56:45,283 --> 00:56:53,600
+UI ve UX tasarımcıları da bu araçlardan bazılarını
+kullanır, örneğin Figma, Adobe XD, Webflow ve Sketch.
+
+638
+00:56:53,600 --> 00:57:02,293
+Typeface tasarımıyla ilgileniyorsan FontLab,
+uzun yıllardır sektör standardı olan profesyonel bir yazılım.
+
+639
+00:57:02,293 --> 00:57:05,340
+FontForge da bu alanda harika bir ücretsiz seçenek.
+
+640
+00:57:05,340 --> 00:57:13,715
+Projeleri düzenlemeye gelince,
+Trello yaratıcı süreçleri sadeleştirmeye
+
+641
+00:57:13,715 --> 00:57:19,492
+ve birden fazla tasarımcı ya da büyük ekipler arasında akıcı
+bir iş birliği kurmaya yardım eden harika bir online araç.
+
+642
+00:57:19,492 --> 00:57:23,582
+Ben kişisel olarak Milanote
+kullanmayı da seviyorum; harika,
+
+643
+00:57:23,582 --> 00:57:31,184
+kullanımı kolay, fikirleri ve projeleri görsel panolarla
+düzenlemeye yarayan bir araç, tasarımcılar için bir Pinterest gibi.
+
+644
+00:57:31,184 --> 00:57:39,533
+Bu derste bu kadar; tasarım disiplinleri, tasarım süreçleri ve
+kullanabileceğin farklı yazılımlar hakkında her şeyi öğrendin.
+
+645
+00:57:39,533 --> 00:57:46,630
+Sırada tasarım asset'lerinin kullanımına ve color
+palette'leri nasıl oluşturacağımıza bakacağız.
+
+646
+00:57:48,430 --> 00:57:53,540
+Tasarım asset'leri, işi yoğun tasarımcılar ve
+kısıtlı bütçeler için vazgeçilmez hâle geldi.
+
+647
+00:57:53,540 --> 00:57:58,840
+Her müşteri fotoğraf çekimini ya da typeface'ler
+için profesyonel lisansı karşılayamaz.
+
+648
+00:57:58,840 --> 00:58:05,735
+Bu yüzden bu asset'ler yüksek kaliteli bir tasarıma
+ulaşmak için önemli; font asset'leriyle başlayalım.
+
+649
+00:58:05,735 --> 00:58:10,864
+DaFont ve Google Fonts gibi font indirmek
+için pek çok ücretsiz seçenek var.
+
+650
+00:58:10,864 --> 00:58:15,819
+DaFont'un, çok çeşitli projelere uyan
+bol font'lu harika bir kütüphanesi var.
+
+651
+00:58:15,819 --> 00:58:23,320
+Google Fonts, farklı dillerde geniş bir açık kaynak font
+yelpazesiyle ücretsiz olarak çok kaliteli font'lar sunuyor.
+
+652
+00:58:23,320 --> 00:58:32,320
+Sitelerinde, font'ları indirmeden önce farklı font kombinasyonlarını
+deneyip tasarım projene uyup uymadığını da görebilirsin.
+
+653
+00:58:32,320 --> 00:58:40,160
+Renk kombinasyonları bulmak da zaman alabilir,
+bu süreçte yardımcı olup onu kısaltan harika araçlar var.
+
+654
+00:58:40,160 --> 00:58:44,586
+Coolors, bir color palette'e başlamana
+yardım eden harika bir araç;
+
+655
+00:58:44,586 --> 00:58:48,626
+renk seçebilir, ilham alabilir,
+rastgele paletler üretebilir,
+
+656
+00:58:48,626 --> 00:58:52,680
+hatta contrast kontrol edip gradient
+oluşturmaya kadar gidebilirsin.
+
+657
+00:58:52,680 --> 00:58:55,530
+Bir başka harika araç da Happy Hues.
+
+658
+00:58:55,530 --> 00:59:00,084
+Bir color palette'i beğeniyor ama nasıl
+uygulayacağını bilmiyorsan, bu site sana
+
+659
+00:59:00,084 --> 00:59:04,640
+color palette'leri nasıl ve nerede
+kullanabileceğine dair ilham ve örnekler verebilir.
+
+660
+00:59:04,640 --> 00:59:10,309
+Pek çok tasarımcı Envato Elements gibi
+sitelerdeki tasarım asset'lerine başvuruyor.
+
+661
+00:59:10,309 --> 00:59:15,259
+Font kütüphanesini keşfet;
+vintage font'lardan fütüristik
+
+662
+00:59:15,259 --> 00:59:19,542
+font'lara, hatta sektörün en iyi deneysel
+font'larına kadar her şeyi bulabilirsin.
+
+663
+00:59:25,097 --> 00:59:26,550
+[MÜZİK]
+
+664
+00:59:19,542 --> 00:59:25,097
+Sonraki derste teknolojinin grafik tasarımı
+nasıl etkilediğinden bahsedeceğiz.
+
+665
+00:59:26,550 --> 00:59:29,790
+Grafik tasarımcı olarak asıl amacımız iletişim kurmak.
+
+666
+00:59:29,790 --> 00:59:37,010
+Teknoloji, internet sayesinde bilgiye ulaşmayı
+ve onu çok daha hızlı yaymayı kolaylaştırdı.
+
+667
+00:59:37,010 --> 00:59:43,311
+Markalar online'da daha görünür, bu da tüketiciyle
+doğrudan bir ilişki kurmalarını sağlıyor.
+
+668
+00:59:43,311 --> 00:59:49,247
+Dijital grafiklerin kalitesi çok arttı;
+eskiden kolajla yapılacak şeyler
+
+669
+00:59:49,247 --> 00:59:54,214
+bugün Adobe Photoshop'ta boyayarak ya da bir
+yapay zekâya kelimeler vererek üretilebiliyor.
+
+670
+00:59:54,214 --> 01:00:00,889
+Artık harika fotoğrafları yalnızca kamerayla
+değil, telefonlarımızla da çekebiliyoruz.
+
+671
+01:00:00,889 --> 01:00:04,979
+Bağlantı imkânları, pek çok tasarımcı için
+uzaktan çalışmayı cazip hâle getirdi.
+
+672
+01:00:04,979 --> 01:00:09,893
+Adobe, freelance tasarımcıların
+dünyanın her yerinden çalışmasını
+
+673
+01:00:09,893 --> 01:00:14,349
+ve şirkette olmadan da tasarım dosyaları
+üzerinde ortak çalışmasını kolaylaştırdı.
+
+674
+01:00:14,349 --> 01:00:20,799
+Font'lara gelince, eskiden birden
+çok dosyaya ihtiyacımız vardı.
+
+675
+01:00:20,799 --> 01:00:25,676
+Artık variable font'lar var; bu,
+dijital yazıya eklenen en yeni şey,
+
+676
+01:00:25,676 --> 01:00:32,523
+tek bir font dosyası weight, width, stil ve boyut
+bakımından değişen birden çok tipografik stil içeriyor.
+
+677
+01:00:32,523 --> 01:00:40,929
+Son olarak teknoloji, birbiriyle örtüşen disiplinleri organik
+biçimde doğurarak grafik tasarım alanının genişlemesini sağladı.
+
+678
+01:00:40,929 --> 01:00:44,619
+UI ve UX, internet devrimi olmadan ortaya çıkmazdı.
+
+679
+01:00:44,619 --> 01:00:51,330
+Geleneksel grafik tasarımcı, pazarlama için
+ambalaj ya da reklam üretmesiyle bilinirdi.
+
+680
+01:00:51,330 --> 01:00:59,138
+Bu rol artık geniş bir disiplin yelpazesine dönüştü,
+hepsinin ortak paydası da iletişim ve teknoloji.
+
+681
+01:00:59,138 --> 01:01:03,303
+Grafik tasarım, işletmelerin
+büyümesi için vazgeçilmez bir araç
+
+682
+01:01:03,303 --> 01:01:09,870
+ve teknolojideki ve online mecralardaki
+ilerlemelerle gelişmeye devam edecek.
+
+683
+01:01:09,870 --> 01:01:15,150
+Bence burada grafik tasarımın bir
+amacı olduğunu vurgulamak önemli.
+
+684
+01:01:15,150 --> 01:01:21,710
+Her tasarım probleminin üzerinde çalışılacak
+bir brief'i ve çözülecek bir problemi vardır.
+
+685
+01:01:21,710 --> 01:01:24,500
+Grafik tasarımı grafik tasarım yapan da bu.
+
+686
+01:01:24,500 --> 01:01:30,142
+Sonraki bölümde, bu kursta öğrendiğin
+her şeye genel bir bakış atacağız.
+
+687
+01:01:30,142 --> 01:01:35,149
+Grafik tasarım, iletişim amacı
+taşıyan görsel içerik üretmektir.
+
+688
+01:01:35,149 --> 01:01:40,740
+Bir tasarım oluştururken devreye
+giren farklı görsel öğeleri öğrendin.
+
+689
+01:01:40,740 --> 01:01:46,836
+Sayfadaki öğeleri düzenleyebilmen için
+temel tasarım prensiplerine, renk teorisine
+
+690
+01:01:46,836 --> 01:01:52,119
+ve kavramlarına, typography'nin tarihine ve
+sınıflandırmasına genel bir bakış attık.
+
+691
+01:01:52,119 --> 01:01:57,299
+Günümüzde var olan tasarım disiplinlerine
+ve daha geleneksel olanlara da baktık.
+
+692
+01:01:57,299 --> 01:02:02,817
+Disipline göre yapabileceğin farklı
+tasarım tercihlerinden örnekler de gördün.
+
+693
+01:02:02,817 --> 01:02:09,190
+Tasarım sürecini kolaylaştırmak için, kesintisiz bir
+iş akışı kurmana yardım edecek araçları gösterdik.
+
+694
+01:02:09,190 --> 01:02:17,609
+Abonelikli yazılımların alternatiflerinden her şeyi de gösterdik:
+moodboard ve renk geliştirmede sana yardım edecek siteler.
+
+695
+01:02:17,609 --> 01:02:22,489
+Son olarak teknolojinin nasıl geliştiğine
+ve sektörümüzü nasıl etkilediğine baktık.
+
+696
+01:02:22,489 --> 01:02:28,421
+Teknoloji hızla gelişse de bir grafik tasarımcının
+asıl işini kendimize hatırlatmalıyız.
+
+697
+01:02:28,421 --> 01:02:32,175
+Her şey, bir şeyi görsel olarak çarpıcı göstermek
+
+698
+01:02:32,175 --> 01:02:36,680
+ya da karmaşık bilgiyi anlaşılır biçimde
+düzenleyip aktarmak arasındaki dengede yatıyor.
+
+699
+01:02:36,680 --> 01:02:41,339
+Günün sonunda, açık ve net iletişim kurmak önceliktir.
+
+700
+01:02:41,339 --> 01:02:44,177
+Ben Laura Keung, Envato Tuts+ ekibi adına,
+
+701
+01:02:47,947 --> 01:02:57,947
+[MÜZİK]
+
+702
+01:02:44,177 --> 01:02:47,947
+umarız kursu beğenmişsindir,
+bir sonrakinde görüşmek üzere.
